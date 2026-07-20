@@ -1,0 +1,187 @@
+{
+  "ncc": {
+    "edition": "2022",
+    "source": "https://data.gov.au/data/dataset/national-construction-code-ncc-2022",
+    "licence": "CC BY 4.0",
+    "checks": [
+      {
+        "id": "NCC-A6-CLASS",
+        "part": "A6",
+        "title": "Building classification",
+        "rule": "Student accommodation Class 2; retail Class 6; DDA rooms Class 3; mixed-use parts classified by purpose",
+        "severity": "mandatory"
+      },
+      {
+        "id": "NCC-D1-EXITS",
+        "part": "D1",
+        "title": "Provision for escape — exits",
+        "rule": "Minimum 2 exits for Class 2 buildings with storey floor area > 500 sqm or where travel distance exceeds limits",
+        "params": {
+          "max_travel_distance_m": 40,
+          "max_dead_end_m": 20,
+          "min_exit_width_mm": 1000
+        },
+        "severity": "mandatory"
+      },
+      {
+        "id": "NCC-D1-TRAVEL",
+        "part": "D1.4",
+        "title": "Travel distances to exits",
+        "rule": "Travel distance from any point on a floor to nearest exit must not exceed DTS limits",
+        "params": { "max_travel_distance_m": 40 },
+        "severity": "mandatory"
+      },
+      {
+        "id": "NCC-F2-SANITARY",
+        "part": "F2",
+        "title": "Sanitary and other facilities",
+        "rule": "Provide sanitary facilities per Tables F2.3/F2.4 based on occupancy",
+        "params": {
+          "wc_per_persons": 15,
+          "basin_per_persons": 30
+        },
+        "severity": "mandatory"
+      },
+      {
+        "id": "NCC-J-ENERGY",
+        "part": "Section J",
+        "title": "Energy efficiency",
+        "rule": "Demonstrate Section J compliance for envelope, HVAC, lighting and energy monitoring",
+        "severity": "mandatory"
+      },
+      {
+        "id": "NCC-FTC",
+        "part": "brief",
+        "title": "Floor-to-ceiling height",
+        "rule": "Minimum 2.7m floor-to-ceiling for accommodation units",
+        "params": { "min_ftc_m": 2.7 },
+        "severity": "mandatory"
+      }
+    ]
+  },
+  "bads_clause58": {
+    "source": "https://www.planning.vic.gov.au/guides-and-resources/guides/all-guides/residential-development/apartment-developments",
+    "applies_when": "Apartment development in Activity Centre Zone (ACZ)",
+    "checks": [
+      {
+        "id": "C58-SIZE",
+        "title": "Minimum dwelling sizes (studio briefing)",
+        "rule": "Studio units 15–25 sqm per brief; DDA 30–35 sqm",
+        "severity": "mandatory"
+      },
+      {
+        "id": "C58-DAYLIGHT",
+        "title": "Daylight to habitable rooms",
+        "rule": "Habitable rooms receive direct natural light; window ≥ 10% of floor area",
+        "params": { "min_window_to_floor_pct": 10 },
+        "severity": "mandatory"
+      },
+      {
+        "id": "C58-VENT",
+        "title": "Natural ventilation",
+        "rule": "At least 40% of dwellings should provide effective cross ventilation where practicable",
+        "params": { "min_cross_vent_pct": 40 },
+        "severity": "should"
+      },
+      {
+        "id": "C58-SEPARATION",
+        "title": "Building separation",
+        "rule": "Minimum 6m separation between facing habitable room windows within same development",
+        "params": { "min_separation_m": 6 },
+        "severity": "mandatory"
+      },
+      {
+        "id": "C58-COMMUNAL-OS",
+        "title": "Communal open space",
+        "rule": "Communal open space ≥ 10% of site area (min 20 sqm, min dimension 3m); ≥ 2 hours sunlight 9am–3pm on 22 June",
+        "params": {
+          "min_pct_site": 10,
+          "min_sqm": 20,
+          "min_dimension_m": 3,
+          "min_sun_hours_winter": 2
+        },
+        "severity": "should"
+      },
+      {
+        "id": "C58-STORAGE",
+        "title": "Storage",
+        "rule": "Provide storage volumes per Clause 58 dwelling type",
+        "severity": "should"
+      }
+    ]
+  },
+  "lhd": {
+    "source": "Livable Housing Design Standard 2022",
+    "checks": [
+      {
+        "id": "LHD-ENTRY",
+        "title": "Step-free dwelling entry",
+        "rule": "Step-free path of travel from street/parking to dwelling entry where required",
+        "severity": "should"
+      },
+      {
+        "id": "LHD-DDA-RATIO",
+        "title": "DDA room provision",
+        "rule": "1 DDA accessible room for every 20 single units per floor level",
+        "params": { "ratio": 0.05 },
+        "severity": "mandatory"
+      }
+    ]
+  },
+  "as": {
+    "checks": [
+      {
+        "id": "AS1428-ACCESS",
+        "standard": "AS1428.1",
+        "title": "Design for access and mobility",
+        "rule": "Door clear opening widths, ramp gradients, circulation spaces for accessible paths and DDA rooms",
+        "params": {
+          "min_door_clear_mm": 850,
+          "max_ramp_gradient": 0.0833
+        },
+        "severity": "mandatory"
+      },
+      {
+        "id": "AS2890-PARKING",
+        "standard": "AS2890.1",
+        "title": "Off-street parking",
+        "rule": "Parking bay dimensions and aisle widths per AS2890.1 User Class",
+        "params": {
+          "bay_length_m": 5.4,
+          "bay_width_m": 2.4,
+          "aisle_width_m": 5.8
+        },
+        "severity": "mandatory"
+      }
+    ]
+  },
+  "brief_rules": [
+    {
+      "id": "BRIEF-UNITS",
+      "title": "Minimum unit count",
+      "rule": "Provide at least 200 studio-style student units",
+      "params": { "min_units": 200 },
+      "severity": "mandatory"
+    },
+    {
+      "id": "BRIEF-OPENSPACE",
+      "title": "Ground-level public open space",
+      "rule": "At least 50% of the site at ground level retained as public open space with native vegetation",
+      "params": { "min_pct": 50 },
+      "severity": "mandatory"
+    },
+    {
+      "id": "BRIEF-SERVICES",
+      "title": "Service and fire/duct allowances",
+      "rule": "Allow 5% GFA for services and 10% for fire escapes and service ducts",
+      "params": { "services_pct": 5, "fire_duct_pct": 10 },
+      "severity": "mandatory"
+    },
+    {
+      "id": "BRIEF-COMMUNAL",
+      "title": "Communal program areas",
+      "rule": "Provide kitchen/dining 120–150, gym 80–100, laundry 30–40, study 100, lounges 20 each",
+      "severity": "mandatory"
+    }
+  ]
+}

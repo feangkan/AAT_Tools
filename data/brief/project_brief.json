@@ -1,0 +1,200 @@
+{
+  "project": {
+    "name": "AAT Student Accommodation — Footscray",
+    "course": "Architecture Advanced Technology (2650) / ARCH3372",
+    "institution": "RMIT University",
+    "group_size": 3,
+    "building_classification": {
+      "primary": "Class 2",
+      "retail": "Class 6",
+      "dda_rooms": "Class 3"
+    },
+    "site": {
+      "address": "63-67 Nicholson Street, Footscray VIC",
+      "former_name": "Little Saigon Market",
+      "lga": "Maribyrnong",
+      "country": "Kulin Nation / Wurundjeri Country",
+      "zone": "ACZ1",
+      "zone_name": "Activity Centre Zone – Schedule 1 (Footscray)",
+      "overlays": ["DCPO2", "HO", "PO"],
+      "approx_centroid": {
+        "lat": -37.7995,
+        "lon": 144.9005
+      },
+      "site_polygon_wgs84": [
+        [144.9002, -37.7992],
+        [144.9008, -37.7992],
+        [144.9008, -37.7998],
+        [144.9002, -37.7998],
+        [144.9002, -37.7992]
+      ],
+      "approx_area_sqm": 2800
+    }
+  },
+  "accommodation": {
+    "min_units": 200,
+    "unit_types": [
+      {
+        "id": "studio",
+        "name": "Single bed studio",
+        "min_sqm": 15,
+        "max_sqm": 25,
+        "target_sqm": 20
+      },
+      {
+        "id": "dda",
+        "name": "Single DDA accessible room",
+        "min_sqm": 30,
+        "max_sqm": 35,
+        "target_sqm": 32,
+        "ratio": "1 per 20 single units per floor",
+        "ratio_value": 0.05,
+        "class": "Class 3"
+      }
+    ],
+    "floor_to_ceiling_min_m": 2.7,
+    "standards": ["BADS", "Clause 58", "Livable Housing Design"]
+  },
+  "communal": {
+    "main_kitchen_dining": { "min_sqm": 120, "max_sqm": 150 },
+    "level_lounge": { "sqm": 20, "note": "multiple small lounges across unit levels" },
+    "gym": { "min_sqm": 80, "max_sqm": 100 },
+    "laundry": { "min_sqm": 30, "max_sqm": 40 },
+    "common_study": { "sqm": 100 },
+    "bookable_study_room": { "sqm": 10, "note": "multiple rooms" }
+  },
+  "ground_floor": {
+    "lobby": true,
+    "commercial_retail": true,
+    "refuse_store": { "min_sqm": 50, "max_sqm": 60 },
+    "mail_parcel": { "min_sqm": 30, "max_sqm": 35 },
+    "loading_bay": true,
+    "building_services": true,
+    "public_open_space_pct": 50,
+    "open_space_includes": [
+      "native vegetation",
+      "outdoor dining",
+      "commercial spaces",
+      "active site features"
+    ]
+  },
+  "basement_optional": {
+    "substation_switchboard": true,
+    "rainwater_harvesting": true,
+    "general_storage": true,
+    "bike_storage": true
+  },
+  "services_allowances": {
+    "services_pct": 5,
+    "fire_escape_ducts_pct": 10
+  },
+  "compliance": {
+    "ncc_edition_preferred": "2022",
+    "ncc_parts": ["A3", "A6", "D1", "F2", "Section J", "2.1", "10.2"],
+    "australian_standards": ["AS1428.1", "AS2890.1", "AS5604"],
+    "planning": [
+      "street setbacks",
+      "building heights",
+      "overshadowing",
+      "overlooking",
+      "carparking"
+    ],
+    "ventilation": "air-conditioned and/or naturally ventilated",
+    "lifts_stairs": "NCC and Australian Standards compliant"
+  },
+  "deliverables": [
+    {
+      "id": "AT1.1",
+      "name": "Site Analysis Report",
+      "week": 1,
+      "task": "AT1",
+      "min_a3_pages": 9,
+      "format": "A3 landscape folio",
+      "presentation_minutes": 10
+    },
+    {
+      "id": "AT1.2",
+      "name": "Planning Report",
+      "week": 1,
+      "task": "AT1",
+      "min_a3_pages": 9,
+      "format": "A3 landscape folio",
+      "presentation_minutes": 10
+    },
+    {
+      "id": "AT1.3",
+      "name": "Precedent Project Report",
+      "week": 1,
+      "task": "AT1",
+      "min_a3_pages": 12,
+      "format": "A3 landscape folio",
+      "note": "6 buildings × 2 A3; present best 3",
+      "presentation_minutes": 10
+    },
+    {
+      "id": "AT1.4",
+      "name": "Structural System Report",
+      "week": 2,
+      "task": "AT1",
+      "min_a3_pages": 6,
+      "format": "A3 landscape folio",
+      "presentation_minutes": 10
+    },
+    {
+      "id": "AT1.5",
+      "name": "Facade / Environmental Systems",
+      "week": 2,
+      "task": "AT1",
+      "min_a3_pages": 6,
+      "format": "A3 landscape folio"
+    },
+    {
+      "id": "AT1.6",
+      "name": "Schematic Design Drawings",
+      "week": 3,
+      "task": "AT1",
+      "min_a3_pages": 9,
+      "format": "A3 landscape folio + Revit"
+    },
+    {
+      "id": "AT2.1",
+      "name": "NCC Report",
+      "week": 5,
+      "task": "AT2",
+      "min_a3_pages": 6,
+      "format": "A3 landscape folio"
+    },
+    {
+      "id": "AT2.2",
+      "name": "Design Development Drawings",
+      "week": 6,
+      "task": "AT2",
+      "min_a3_pages": 9,
+      "format": "A3 landscape folio + Revit"
+    },
+    {
+      "id": "AT3.1",
+      "name": "Building Systems Brief",
+      "week": 7,
+      "task": "AT3",
+      "min_a3_pages": 3,
+      "format": "A3 landscape folio"
+    },
+    {
+      "id": "AT3.2",
+      "name": "Lighting and Acoustics Brief",
+      "week": 8,
+      "task": "AT3",
+      "min_a3_pages": 3,
+      "format": "A3 landscape folio"
+    },
+    {
+      "id": "AT3.3",
+      "name": "Project Portfolio",
+      "week": 12,
+      "task": "AT3",
+      "min_a3_pages": 20,
+      "format": "A3 landscape folio"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+node_modules/
+frontend/dist/
+data/knowledge/previews/
+data/knowledge/index.json
+data/knowledge/catalog.json
+data/projects/exports/
+data/projects/default_state.json
+.DS_Store
+*.log
+.env
+.env.local

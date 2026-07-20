@@ -1,0 +1,72 @@
+[
+  {
+    "id": "curated/brief/overview",
+    "source": "project-information/AAT_project_brief.pdf",
+    "page": 1,
+    "folder": "project-information",
+    "text": "Architecture Advanced Technology Project Outline & Brief ARCH3372 / 2650. Speculative multi-storey student accommodation plus retail at 63-67 Nicholson Street Footscray (former Little Saigon Market) on Kulin Nation Wurundjeri Country. Class 2 accommodation, Class 6 retail, Class 3 DDA rooms. Minimum 200 studio units 15-25 sqm, DDA rooms 30-35 sqm at 1 per 20 units per floor. Floor-to-ceiling minimum 2.7m. Allow 5% services and 10% fire escapes and ducts. At least 50% of ground level retained as public open space with native vegetation, outdoor dining and active features."
+  },
+  {
+    "id": "curated/brief/communal",
+    "source": "project-information/AAT_project_brief.pdf",
+    "page": 3,
+    "folder": "project-information",
+    "text": "Communal program: main kitchen and dining 120-150 sqm, level lounges 20 sqm each, 24/7 gym 80-100 sqm, laundry 30-40 sqm, common study 100 sqm, bookable study rooms 10 sqm each. Ground floor: lobby, commercial retail, refuse store 50-60 sqm, mail/parcel 30-35 sqm, loading bay, building services. Optional basement: substation, rainwater harvesting, storage, bike storage. Comply with BADS Better Apartment Design Standards and Livable Housing Design where possible. Planning: street setbacks, building heights, overshadowing, overlooking, carparking per ACZ1 Footscray."
+  },
+  {
+    "id": "curated/at1/site",
+    "source": "assessment-tasks/Assessment Task 1_ Schematic Design.pdf",
+    "page": 3,
+    "folder": "assessment-tasks",
+    "text": "AT1.1 Site Analysis Report Week 1. Analyse site from statutory, environmental and First Nations perspectives. Document as series of diagrams: solar orientation and access, existing buildings structures uses, trees, circulation routes, site entry, character of surrounding buildings, fences gates, vehicular movement parking, views into and from site. Use supplied Revit template. Submit minimum 9 x A3 landscape folio pages. Present 10 minutes with equal group participation. Competencies PC12 PC30 PC32 PC36. Site in Footscray social cultural environmental engagement, soft hard landscaping, native vegetation."
+  },
+  {
+    "id": "curated/at1/planning",
+    "source": "assessment-tasks/Assessment Task 1_ Schematic Design.pdf",
+    "page": 5,
+    "folder": "assessment-tasks",
+    "text": "AT1.2 Planning Report Week 1. Zoning and overlays for 63-67 Nicholson Street. Zone ACZ1 Activity Centre Zone Schedule 1. Overlays include DCPO2 Development Contributions Plan Overlay, Parking Overlays PO1 PO2, Heritage Overlays HO3 HO4 HO5, Neighbourhood Character Overlay NCO2. Diagram planning constraints and opportunities. Evidence maximum building heights and street setbacks in drawings. Minimum 9 x A3 landscape folio. Competencies PC30 PC32."
+  },
+  {
+    "id": "curated/at2/ncc",
+    "source": "assessment-tasks/Assessment Task 2_ Design Development.pdf",
+    "page": 2,
+    "folder": "assessment-tasks",
+    "text": "AT2.1 NCC Report Week 5. Analyse design against National Construction Code and Australian Standards. Cover NCC Part A3 Building Classification, Section D1 Provisions for Escape including Clause D1.4 travel distances and exit counts, Section F2 Sanitary facilities Tables F2.3 F2.4, Part 2.1 structural, Part 10.2 wet area waterproofing, AS1428.1 access and mobility, AS2890.1 off-street parking. Folio minimum 6 x A3 landscape pages with highlighted clauses. Competencies PC12 PC46."
+  },
+  {
+    "id": "curated/at3/systems",
+    "source": "assessment-tasks/Assessment Task 3_ Project Portfolio.pdf",
+    "page": 4,
+    "folder": "assessment-tasks",
+    "text": "AT3.1 Building Systems Brief Week 7. Client-style brief for heating cooling ventilation energy water waste. Reference Section J energy efficiency. Analyse whole-of-life carbon and regenerative net-zero systems. Evidence in drawings e.g. mechanical units and grilles. Minimum 3 x A3 landscape. AT3.2 Lighting and Acoustics Brief Week 8 covering internal external lighting and sound attenuation apartment to corridor and facade. Australian products Spotted Gum AS5604 Durability Class 1 Group 1 fire rated."
+  },
+  {
+    "id": "curated/ncc/d1",
+    "source": "resources/D1 Provision For Escape.pdf",
+    "page": 1,
+    "folder": "resources",
+    "text": "NCC Section D1 Provision for Escape. Class 2 buildings require compliant exits, fire-isolated stairs, travel distance limits typically 40m to nearest exit and dead-end limits. Exit widths and door swings must meet DTS. Number of exits increases with storey size and occupancy. Integrate with fire compartments and smoke hazard management."
+  },
+  {
+    "id": "curated/ncc/f2",
+    "source": "resources/Part F2 Sanitary and Other Facilities.pdf",
+    "page": 1,
+    "folder": "resources",
+    "text": "NCC Part F2 Sanitary and Other Facilities. Provide toilets urinals washbasins per occupancy tables F2.3 F2.4. Accessible sanitary facilities per AS1428. Separate facilities by classification and gender as required. Student accommodation Class 2 typically provides ensuites within units plus communal accessible facilities."
+  },
+  {
+    "id": "curated/bads",
+    "source": "resources/Apartment-Design-Guidelines-for-Victoria.pdf",
+    "page": 1,
+    "folder": "resources",
+    "text": "Better Apartment Design Standards / Clause 58 Victoria. Applies to apartment developments in Activity Centre Zone. Objectives and standards for building setback, internal views, noise, accessibility, private open space balconies, storage, communal open space with winter sunlight, dwelling size, daylight window 10 percent floor area, natural ventilation cross breeze paths, landscaping."
+  },
+  {
+    "id": "curated/mass-timber",
+    "source": "resources/klh-building-system-multi-story-residential-buildings.pdf",
+    "page": 1,
+    "folder": "resources",
+    "text": "Mass timber CLT KLH multi-storey residential systems. Cross laminated timber panels for walls floors roofs. Glulam beams columns. Concealed plate connections. Embodied carbon advantages versus concrete and steel. Suitable for multi-storey student accommodation with acoustic and fire detailing. Consider First Nations materials suppliers and construction methods."
+  }
+]
