@@ -4,7 +4,7 @@ Use this document as the **single brief** for Claude (or Canva/InDesign) to buil
 
 **Project:** 63–67 Nicholson St, Footscray · RMIT ARCH3372 · Student accommodation + retail  
 **Deliverable:** AT1.4 · **6× A3 landscape** · ~**70% NCC** · compact functional narrative  
-**Classification:** **Class 3** residential (not Class 2) + **Class 6** retail  
+**Classification:** **Class 3** residential + **Class 6** retail  
 
 ---
 
@@ -65,7 +65,7 @@ git checkout cursor/aat-tools-resources-3c74
 | 02 | Mass Timber Module 1 | Hybrid systems ~p.29–30; bearing wall ~p.26 |
 | 04 | KLH multi-storey | System diagrams, connections |
 | 04 | Mass Timber Module 1 | CLT section ~p.14; post-and-beam ~p.28 |
-| 01 | NCC A3 PDF | Class 2 vs 3 definitions |
+| 01 | NCC A3 PDF | Class 3 definitions (A6G4) |
 | 03 | D1 PDF | Travel distance / exit diagrams |
 
 ### Machine-readable brief & rules (for accurate numbers)
@@ -110,16 +110,16 @@ git checkout cursor/aat-tools-resources-3c74
 
 ### Sheet 01 — What is this building under the NCC?
 
-**Narrative:** Classification follows **use**. Mixed building: **Class 3** student lodging above **Class 6** retail. Not Class 2.
+**Narrative:** Classification follows **use**. Mixed building: **Class 3** student lodging above **Class 6** retail.
 
 - **Class 3 (A6G4):** Long-term or transient accommodation for unrelated persons; hostel / lodging house.
-- **Evidence:** Communal kitchen 120–150 m²; studios 15–25 m² ensuite; no private kitchen per unit → not separate dwelling (A6G3).
+- **Evidence:** Communal kitchen 120–150 m²; studios 15–25 m² ensuite; shared laundry, gym, study — managed student accommodation.
 - **Class 6:** Ground retail.
 - **A6G1:** Each part classified separately; Class 3 + Class 6 permitted.
 
 **Diagram:** Section — Class 6 podium | Class 3 tower | fire separation line.
 
-**Footer refs:** ABCB, *NCC 2022*, Vol. 1, A6G1, A6G3, A6G4. RMIT, *AAT Project Brief*.
+**Footer refs:** ABCB, *NCC 2022*, Vol. 1, A6G1, A6G4. RMIT, *AAT Project Brief*.
 
 **Images:** NCC A3 PDF classification page; brief p.1–2.
 
@@ -127,12 +127,12 @@ git checkout cursor/aat-tools-resources-3c74
 
 ### Sheet 02 — Classification consequences
 
-**Narrative:** Class 3 = occupants less familiar with building → stricter fire/egress than Class 2 apartments.
+**Narrative:** Class 3 accommodation serves unrelated occupants in a managed building — fire and egress requirements reflect that use.
 
 | NCC issue | Consequence |
 |-----------|-------------|
 | Fire separation | Rated separation Class 6 ↔ Class 3 |
-| Sprinklers | Class 3, 2+ storeys → sprinklers (earlier than many Class 2) |
+| Sprinklers | Class 3, 2+ storeys → sprinklers throughout residential floors |
 | D1 | Min 2 fire-isolated exits |
 | 2.1 / C | Structure + FRL support fire strategy |
 | AS 1428.1 | DDA 1:20 on Class 3 floors |
@@ -190,7 +190,7 @@ git checkout cursor/aat-tools-resources-3c74
 
 ### Sheet 06 — Whole-building NCC summary
 
-**Narrative:** Mixed **Class 3 / Class 6**. Class 3 because managed lodging with shared kitchen — not Class 2 dwellings. Escape via dual stairs under D1. Fire via sprinklers, compartments, podium separation, protected timber. Amenity via F2 + 10.2 + AS 1428.1. Hybrid structure is the **means** to meet NCC on this site.
+**Narrative:** Mixed **Class 3 / Class 6**. Class 3 managed student lodging with shared kitchen and communal facilities. Escape via dual stairs under D1. Fire via sprinklers, compartments, podium separation, protected timber. Amenity via F2 + 10.2 + AS 1428.1. Hybrid structure is the **means** to meet NCC on this site.
 
 | Part | Response |
 |------|----------|
@@ -209,12 +209,13 @@ git checkout cursor/aat-tools-resources-3c74
 ```
 Build 6× A3 landscape folio pages for RMIT AT1.4 Structural System Report.
 
-Repo: https://github.com/feangkan/aat_tools (branch cursor/aat-tools-resources-3c74)
+Repo: https://github.com/feangkan/AAT_Tools (branch cursor/aat-tools-resources-3c74)
 Handoff: docs/AT1.4-claude-design-handoff.md
 
 Rules:
 - ~70% NCC content; structure only where it serves compliance
-- Class 3 residential + Class 6 retail (NOT Class 2)
+- Class 3 residential + Class 6 retail
+- Do not discuss or compare other building classes — state Class 3 positively only
 - Compact functional narrative; 80–120 words body per sheet
 - One diagram left, text right; yellow NCC highlights
 - Chicago refs as tiny footer each sheet (no separate refs page)
