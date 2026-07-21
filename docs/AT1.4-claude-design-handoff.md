@@ -12,14 +12,14 @@ Use this document as the **single brief** for Claude (or Canva/InDesign) to buil
 
 | Item | Link |
 |------|------|
-| **Repository** | https://github.com/feangkan/aat_tools |
-| **Working branch** | https://github.com/feangkan/aat_tools/tree/cursor/aat-tools-resources-3c74 |
-| **Draft PR** | https://github.com/feangkan/aat_tools/pull/1 |
-| **This handoff file** | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/docs/AT1.4-claude-design-handoff.md |
+| **Repository** | https://github.com/feangkan/AAT_Tools |
+| **Working branch** | https://github.com/feangkan/AAT_Tools/tree/cursor/aat-tools-resources-3c74 |
+| **Draft PR** | https://github.com/feangkan/AAT_Tools/pull/1 |
+| **This handoff file** | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/docs/AT1.4-claude-design-handoff.md |
 
 ```bash
-git clone https://github.com/feangkan/aat_tools.git
-cd aat_tools
+git clone https://github.com/feangkan/AAT_Tools.git
+cd AAT_Tools
 git checkout cursor/aat-tools-resources-3c74
 ```
 
@@ -31,21 +31,21 @@ git checkout cursor/aat-tools-resources-3c74
 
 | Content | Repo path | GitHub link |
 |---------|-----------|-------------|
-| Project brief | `project-information/AAT_project_brief.pdf` | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/project-information/AAT_project_brief.pdf |
-| AT1 tasks (incl. AT1.4) | `assessment-tasks/Assessment Task 1_ Schematic Design.pdf` | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/assessment-tasks/Assessment%20Task%201_%20Schematic%20Design.pdf |
-| AT2 (NCC report scope) | `assessment-tasks/Assessment Task 2_ Design Development.pdf` | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/assessment-tasks/Assessment%20Task%202_%20Design%20Development.pdf |
-| Syllabus | `project-information/Syllabus for Architecture Advanced Technology (2650).pdf` | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/project-information/Syllabus%20for%20Architecture%20Advanced%20Technology%20(2650).pdf |
+| Project brief | `project-information/AAT_project_brief.pdf` | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/project-information/AAT_project_brief.pdf |
+| AT1 tasks (incl. AT1.4) | `assessment-tasks/Assessment Task 1_ Schematic Design.pdf` | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/assessment-tasks/Assessment%20Task%201_%20Schematic%20Design.pdf |
+| AT2 (NCC report scope) | `assessment-tasks/Assessment Task 2_ Design Development.pdf` | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/assessment-tasks/Assessment%20Task%202_%20Design%20Development.pdf |
+| Syllabus | `project-information/Syllabus for Architecture Advanced Technology (2650).pdf` | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/project-information/Syllabus%20for%20Architecture%20Advanced%20Technology%20(2650).pdf |
 
 ### NCC reference PDFs (clause screenshots / highlights)
 
 | Topic | Repo path | GitHub link |
 |-------|-----------|-------------|
-| **A3/A6 Classification** | `resources/NCC 2015 PART-A3 CLASSIFICATION OF BUILDINGS AND STRUCTURES.pdf` | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/resources/NCC%202015%20PART-A3%20CLASSIFICATION%20OF%20BUILDINGS%20AND%20STRUCTURES.pdf |
-| NCC 2019 Vol 1 (full) | `resources/NCC_2019_Volume_One_Amendment 1.pdf` | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/resources/NCC_2019_Volume_One_Amendment%201.pdf |
-| **D1 Escape** | `resources/D1 Provision For Escape.pdf` | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/resources/D1%20Provision%20For%20Escape.pdf |
-| **F2 Sanitary** | `resources/Part F2 Sanitary and Other Facilities.pdf` | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/resources/Part%20F2%20Sanitary%20and%20Other%20Facilities.pdf |
-| Clause 58 / BADS | `resources/Apartment-Design-Guidelines-for-Victoria.pdf` | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/resources/Apartment-Design-Guidelines-for-Victoria.pdf |
-| LHD | `resources/Livable-Housing-Design-Standard-2022-1.3.pdf` | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/resources/Livable-Housing-Design-Standard-2022-1.3.pdf |
+| **A3/A6 Classification** | `resources/NCC 2015 PART-A3 CLASSIFICATION OF BUILDINGS AND STRUCTURES.pdf` | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/resources/NCC%202015%20PART-A3%20CLASSIFICATION%20OF%20BUILDINGS%20AND%20STRUCTURES.pdf |
+| NCC 2019 Vol 1 (full) | `resources/NCC_2019_Volume_One_Amendment 1.pdf` | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/resources/NCC_2019_Volume_One_Amendment%201.pdf |
+| **D1 Escape** | `resources/D1 Provision For Escape.pdf` | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/resources/D1%20Provision%20For%20Escape.pdf |
+| **F2 Sanitary** | `resources/Part F2 Sanitary and Other Facilities.pdf` | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/resources/Part%20F2%20Sanitary%20and%20Other%20Facilities.pdf |
+| Clause 58 / BADS | `resources/Apartment-Design-Guidelines-for-Victoria.pdf` | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/resources/Apartment-Design-Guidelines-for-Victoria.pdf |
+| LHD | `resources/Livable-Housing-Design-Standard-2022-1.3.pdf` | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/resources/Livable-Housing-Design-Standard-2022-1.3.pdf |
 
 > **Note:** For citations in folio, prefer **NCC 2022 online** (current edition): https://ncc.abcb.gov.au/ — repo NCC PDFs are for screenshots only.
 
@@ -53,10 +53,10 @@ git checkout cursor/aat-tools-resources-3c74
 
 | Content | Repo path | GitHub link |
 |---------|-----------|-------------|
-| Mass timber basics (61 pp — CLT, glulam, systems) | `resources/5-MassTimberPedagogy-101-StructuralBasics.pdf` | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/resources/5-MassTimberPedagogy-101-StructuralBasics.pdf |
-| Mass timber design | `resources/6-MassTimberPedagogy-101-StructuralDesign.pdf` | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/resources/6-MassTimberPedagogy-101-StructuralDesign.pdf |
-| KLH multi-storey residential | `resources/klh-building-system-multi-story-residential-buildings.pdf` | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/resources/klh-building-system-multi-story-residential-buildings.pdf |
-| KLH residential EN | `resources/klh-residential-en.pdf` | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/resources/klh-residential-en.pdf |
+| Mass timber basics (61 pp — CLT, glulam, systems) | `resources/5-MassTimberPedagogy-101-StructuralBasics.pdf` | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/resources/5-MassTimberPedagogy-101-StructuralBasics.pdf |
+| Mass timber design | `resources/6-MassTimberPedagogy-101-StructuralDesign.pdf` | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/resources/6-MassTimberPedagogy-101-StructuralDesign.pdf |
+| KLH multi-storey residential | `resources/klh-building-system-multi-story-residential-buildings.pdf` | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/resources/klh-building-system-multi-story-residential-buildings.pdf |
+| KLH residential EN | `resources/klh-residential-en.pdf` | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/resources/klh-residential-en.pdf |
 
 **Suggested PDF pages to export as images for folio:**
 
@@ -72,9 +72,9 @@ git checkout cursor/aat-tools-resources-3c74
 
 | File | Purpose | Link |
 |------|---------|------|
-| `data/brief/project_brief.json` | Units, classes, communal areas, deliverables | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/data/brief/project_brief.json |
-| `data/rules/compliance_rules.json` | NCC/BADS checks (D1 travel 40 m, etc.) | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/data/rules/compliance_rules.json |
-| `data/knowledge/curated_excerpts.json` | Searchable course + NCC summaries | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/data/knowledge/curated_excerpts.json |
+| `data/brief/project_brief.json` | Units, classes, communal areas, deliverables | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/data/brief/project_brief.json |
+| `data/rules/compliance_rules.json` | NCC/BADS checks (D1 travel 40 m, etc.) | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/data/rules/compliance_rules.json |
+| `data/knowledge/curated_excerpts.json` | Searchable course + NCC summaries | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/data/knowledge/curated_excerpts.json |
 
 ---
 
@@ -82,9 +82,9 @@ git checkout cursor/aat-tools-resources-3c74
 
 | Item | Path | Link |
 |------|------|------|
-| Web A3 sheet component | `frontend/src/components/A3Preview.tsx` | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/frontend/src/components/A3Preview.tsx |
-| PDF export engine | `backend/app/services/a3_export.py` | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/backend/app/services/a3_export.py |
-| Structure options copy | `backend/app/services/details.py` | https://github.com/feangkan/aat_tools/blob/cursor/aat-tools-resources-3c74/backend/app/services/details.py |
+| Web A3 sheet component | `frontend/src/components/A3Preview.tsx` | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/frontend/src/components/A3Preview.tsx |
+| PDF export engine | `backend/app/services/a3_export.py` | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/backend/app/services/a3_export.py |
+| Structure options copy | `backend/app/services/details.py` | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/backend/app/services/details.py |
 
 **Template specs:** A3 **landscape** · 420 × 297 mm · title block bottom-right · site line “63–67 Nicholson St, Footscray · ACZ1 · Wurundjeri Country” · sheet x/6.
 
