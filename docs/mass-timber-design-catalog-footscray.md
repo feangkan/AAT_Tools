@@ -3,7 +3,7 @@
 **Project:** 63–67 Nicholson St, Footscray · ARCH3372 · Class **3** residential + Class **6** retail  
 **System:** Hybrid — **RC (or steel) podium** + **CLT floors + glulam frame** residential tower  
 **Use:** Start-to-finish design catalog · A3 landscape · each topic = **TEXT zone + PICTURE zone**  
-**Companion:** NCC fire/egress → [`NCC-design-catalog-footscray.md`](./NCC-design-catalog-footscray.md) · FAR/height → [`AT1.2-density-FAR-footscray.md`](./AT1.2-density-FAR-footscray.md)
+**Companion:** NCC fire/egress → [`NCC-design-catalog-footscray.md`](./NCC-design-catalog-footscray.md) · FAR/height → [`AT1.2-density-FAR-footscray.md`](./AT1.2-density-FAR-footscray.md) · **4-page hybrid timber–metal pack** → [`mass-timber-hybrid-4page-catalog.md`](./mass-timber-hybrid-4page-catalog.md)
 
 > **Layout rule (every content block):** Left/top = **TEXT** (narrative + table + actions). Right/bottom = **PICTURE** (screenshot / drawn diagram). Caption image with source (Chicago short). Manual paste — Claude cannot extract PDF images.
 
