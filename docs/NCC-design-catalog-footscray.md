@@ -16,6 +16,11 @@ Full FIND IT + how to calculate **achieved FAR**:
 [`docs/AT1.2-density-FAR-footscray.md`](./AT1.2-density-FAR-footscray.md)  
 Primary web source: https://planning-schemes.app.planning.vic.gov.au/MARIBYRNONG/ordinance/37.08-s1
 
+## Mass timber companion catalog
+
+Start-to-finish hybrid CLT/glulam catalog (TEXT + PICTURE per sheet):  
+[`docs/mass-timber-design-catalog-footscray.md`](./mass-timber-design-catalog-footscray.md)
+
 ---
 
 ## Catalog map
