@@ -8,6 +8,16 @@
 
 ---
 
+## Planning note — FAR / plot ratio (not NCC)
+
+**There is no cleared FAR for this project in the brief or in ACZ1.**  
+Density is controlled by **ACZ1 preferred maximum building height** (by sub-precinct), not Floor Area Ratio.  
+Full FIND IT + how to calculate **achieved FAR**:  
+[`docs/AT1.2-density-FAR-footscray.md`](./AT1.2-density-FAR-footscray.md)  
+Primary web source: https://planning-schemes.app.planning.vic.gov.au/MARIBYRNONG/ordinance/37.08-s1
+
+---
+
 ## Catalog map
 
 | Phase | Sheets | NCC focus |
