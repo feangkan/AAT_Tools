@@ -33,9 +33,19 @@ def test_rules_pass_default():
 
 def test_massing_open_space():
     site = [[0, 0], [50, 0], [50, 56], [0, 56], [0, 0]]
-    m = generate_massing(site, seed=1, storeys=8)
+    m = generate_massing(site, seed=1, precinct_id="1B")
     assert m["metrics"]["ground_open_space_pct"] >= 45
     assert m["height_m"] > 0
+    assert m["height_m"] <= 19.2
+    assert m["planning"]["precinct_id"] == "1B"
+
+
+def test_massing_precinct_1d():
+    site = [[0, 0], [50, 0], [50, 56], [0, 56], [0, 0]]
+    m = generate_massing(site, seed=2, precinct_id="1D")
+    assert m["height_m"] <= 31.0
+    assert m["storeys"] <= 10
+    assert m["tower"]["street_setback_m"] >= 5.0
 
 
 def test_typical_floor_dda():

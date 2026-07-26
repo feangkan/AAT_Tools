@@ -19,6 +19,7 @@ from aat_core.geometry.solar import solar_study, sun_position
 from aat_core.generators.massing import generate_massing
 from aat_core.generators.plans import generate_typical_floor, generate_ground_floor
 from aat_core.generators.core_service import optimize_core_service
+from aat_core.planning.acz1 import load_acz1_precincts, resolve_massing_params
 
 from app.services.planner import build_group_plan
 from app.services.chatbot import chat as chatbot_chat
@@ -100,6 +101,22 @@ def site_planning(lat: float = -37.7995, lon: float = 144.9005):
     return VicmapClient().site_planning_pack(lon, lat)
 
 
+@router.get("/planning/acz1/precincts")
+def acz1_precincts():
+    data = load_acz1_precincts()
+    return {
+        "scheme": data["scheme"],
+        "source_pdf": data["source"],
+        "site_default_precinct": data["site_default_precinct"],
+        "precincts": data["precincts"],
+    }
+
+
+@router.get("/planning/acz1/massing-defaults")
+def acz1_massing_defaults(precinct_id: str = "1B"):
+    return resolve_massing_params(precinct_id=precinct_id)
+
+
 @router.get("/site/context")
 def site_context(lat: float = -37.7995, lon: float = 144.9005, radius_m: int = 150):
     return OSMClient().buildings_near(lat, lon, radius_m)
@@ -138,15 +155,18 @@ class MassingRequest(BaseModel):
     site_footprint_m: list[list[float]] = Field(
         default_factory=lambda: [[0, 0], [50, 0], [50, 56], [0, 56], [0, 0]]
     )
-    storeys: int = 10
+    storeys: int | None = None
     floor_to_floor_m: float = 3.2
-    podium_storeys: int = 2
+    podium_storeys: int | None = None
     setbacks_m: dict[str, float] = Field(
         default_factory=lambda: {"front": 0, "back": 3, "left": 0, "right": 0}
     )
     seed: int = 42
-    height_limit_m: float | None = 45.0
+    height_limit_m: float | None = None
     plot_ratio: float | None = None
+    precinct_id: str = "1B"
+    ground_open_space_pct_target: float = 50.0
+    use_planning_controls: bool = True
 
 
 @router.post("/generate/massing")
@@ -160,6 +180,9 @@ def gen_massing(body: MassingRequest):
         seed=body.seed,
         height_limit_m=body.height_limit_m,
         plot_ratio=body.plot_ratio,
+        precinct_id=body.precinct_id,
+        ground_open_space_pct_target=body.ground_open_space_pct_target,
+        use_planning_controls=body.use_planning_controls,
     )
     save_for_revit("massing", result)
     return result

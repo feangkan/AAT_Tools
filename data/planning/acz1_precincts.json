@@ -1,0 +1,120 @@
+{
+  "source": "resources/planning/mari_SCHEDULE 1 TO CLAUSE 37.08 ACTIVITY CENTRE ZONE.pdf",
+  "source_aliases": [
+    "resources/planning/Maribyrnong-ACZ1-Schedule-37.08-s1-Footscray-MAC.pdf"
+  ],
+  "scheme": "Maribyrnong Planning Scheme — Schedule 1 to Clause 37.08 (ACZ1)",
+  "floor_to_floor_m_default": 3.2,
+  "site_default_precinct": "1B",
+  "site_default_note": "63–67 Nicholson St — Precinct 1 Central; confirm sub-precinct on ACZ1 map (1A–1E along Nicholson corridor)",
+  "centre_wide": {
+    "tower_setback_from_street_m": 5.0,
+    "tower_setback_note": "Tower forms above podiums should generally be setback 5m from the street (ACZ1 §4.3)",
+    "min_ground_open_space_pct_brief": 50
+  },
+  "precincts": {
+    "1A": {
+      "precinct": 1,
+      "name": "Central — Sub-precinct 1A",
+      "max_storeys": 6,
+      "max_height_m": 19.2,
+      "street_wall_storeys_min": 2,
+      "street_wall_storeys_max": 4,
+      "street_wall_height_m": [6.4, 12.8],
+      "podium_storeys_default": 3,
+      "upper_setback_from_street_m": null,
+      "upper_setback_from_level": null
+    },
+    "1B": {
+      "precinct": 1,
+      "name": "Central — Sub-precinct 1B",
+      "max_storeys": 6,
+      "max_height_m": 19.2,
+      "street_wall_storeys_min": 2,
+      "street_wall_storeys_max": 4,
+      "street_wall_height_m": [6.4, 12.8],
+      "podium_storeys_default": 3,
+      "upper_setback_from_street_m": null,
+      "upper_setback_from_level": null,
+      "notes": ["Nicholson Street corridor", "Default for Little Saigon / Nicholson St site"]
+    },
+    "1C": {
+      "precinct": 1,
+      "name": "Central — Sub-precinct 1C",
+      "max_storeys": 3,
+      "max_height_m": 9.6,
+      "street_wall_storeys_min": 2,
+      "street_wall_storeys_max": 4,
+      "street_wall_height_m": [6.4, 12.8],
+      "podium_storeys_default": 2,
+      "upper_setback_from_street_m": null,
+      "upper_setback_from_level": null
+    },
+    "1D": {
+      "precinct": 1,
+      "name": "Central — Sub-precinct 1D",
+      "max_storeys": 10,
+      "max_height_m": 31.0,
+      "street_wall_storeys_min": 2,
+      "street_wall_storeys_max": 5,
+      "podium_storeys_default": 4,
+      "upper_setback_from_street_m": 5.0,
+      "upper_setback_from_level": 5
+    },
+    "1E": {
+      "precinct": 1,
+      "name": "Central — Sub-precinct 1E",
+      "max_storeys": 25,
+      "max_height_m": 76.0,
+      "street_wall_storeys_min": 2,
+      "street_wall_storeys_max": 5,
+      "podium_storeys_default": 4,
+      "upper_setback_from_street_m": 5.0,
+      "upper_setback_from_level": 5
+    },
+    "6A": {
+      "precinct": 6,
+      "name": "Barkly North — Sub-precinct 6A",
+      "max_storeys": 3,
+      "max_height_m": 9.6,
+      "street_wall_storeys_min": 2,
+      "street_wall_storeys_max": 3,
+      "podium_storeys_default": 2,
+      "upper_setback_from_street_m": null,
+      "upper_setback_from_level": null
+    },
+    "6B": {
+      "precinct": 6,
+      "name": "Barkly North — Sub-precinct 6B",
+      "max_storeys": 6,
+      "max_height_m": 19.2,
+      "street_wall_storeys_min": 2,
+      "street_wall_storeys_max": 3,
+      "podium_storeys_default": 3,
+      "upper_setback_from_street_m": null,
+      "upper_setback_from_level": null
+    },
+    "6C": {
+      "precinct": 6,
+      "name": "Barkly North — Sub-precinct 6C",
+      "max_storeys": 10,
+      "max_height_m": 32.0,
+      "street_wall_storeys_min": 2,
+      "street_wall_storeys_max": 3,
+      "podium_storeys_default": 3,
+      "upper_setback_from_street_m": 5.0,
+      "upper_setback_from_level": 5
+    },
+    "6D": {
+      "precinct": 6,
+      "name": "Barkly North — Sub-precinct 6D",
+      "max_storeys": 14,
+      "max_height_m": 44.8,
+      "street_wall_storeys_min": 2,
+      "street_wall_storeys_max": 3,
+      "podium_storeys_default": 3,
+      "upper_setback_from_street_m": 5.0,
+      "upper_setback_from_level": 5
+    }
+  }
+}

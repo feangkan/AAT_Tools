@@ -10,7 +10,8 @@ Use this index for **AT1.2 Planning**, overshadowing, parking, heritage, and **C
 
 | File | Use |
 |------|-----|
-| `resources/planning/Maribyrnong-ACZ1-Schedule-37.08-s1-Footscray-MAC.pdf` | **ACZ1** — precinct maps, preferred heights/setbacks, use controls, Nicholson St objectives |
+| `resources/planning/mari_SCHEDULE 1 TO CLAUSE 37.08 ACTIVITY CENTRE ZONE.pdf` | **ACZ1** schedule (canonical) |
+| `resources/planning/Maribyrnong-ACZ1-Schedule-37.08-s1-Footscray-MAC.pdf` | Same PDF (alias) |
 | `resources/Apartment-Design-Guidelines-for-Victoria.pdf` | **Clause 58 / BADS** guidance — private open space, daylight, storage, communal OS |
 | `docs/AT1.2-density-FAR-footscray.md` | No statutory FAR; height-led density |
 
@@ -118,7 +119,8 @@ Each dwelling needs private open space — at least one of:
 
 Balcony table may not apply if **additional internal area** (Table D9) is added to living or bedroom — **8 sqm** (studio/1–2 bed) or **12 sqm** (3+ bed) — in addition to functional layout minimums.
 
-**Studio design note:** At ~15–25 sqm unit size, balcony vs internal compensation is a key AT1.4 / typical-floor decision.
+**Machine-readable precinct controls:** `data/planning/acz1_precincts.json`  
+**Massing generator:** defaults to sub-precinct **1B** (Nicholson corridor); select **1D** / **6C** / **6D** for taller forms in the Generators UI or API `precinct_id`.
 
 ---
 

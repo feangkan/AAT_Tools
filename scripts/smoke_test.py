@@ -20,8 +20,8 @@ def main():
     print("Brief:", brief.summary())
 
     site = [[0, 0], [50, 0], [50, 56], [0, 56], [0, 0]]
-    mass = generate_massing(site, seed=7, storeys=10)
-    print("Massing height:", mass["height_m"], "open%", mass["metrics"]["ground_open_space_pct"])
+    mass = generate_massing(site, seed=7, precinct_id="1D")
+    print("Massing height:", mass["height_m"], "open%", mass["metrics"]["ground_open_space_pct"], "precinct", mass["planning"]["precinct_id"])
 
     typ = generate_typical_floor(seed=7)
     print("Typical floor units:", typ["metrics"])
@@ -47,7 +47,7 @@ def main():
         "classification": {"primary": "Class 2"},
         "zone": "ACZ1",
         "building_height_m": mass["height_m"],
-        "height_limit_m": 45,
+        "height_limit_m": mass["height_limit_m"],
         "single_massing": True,
         "communal_os_winter_sun_hours": 2.5,
         "min_door_clear_mm": 850,

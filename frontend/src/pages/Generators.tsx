@@ -1,9 +1,20 @@
 import { useState } from "react";
 import { api } from "../api";
 
+const PRECINCTS = [
+  { id: "1A", label: "1A — Central (6 storeys / 19.2 m)" },
+  { id: "1B", label: "1B — Central / Nicholson (6 storeys / 19.2 m)" },
+  { id: "1C", label: "1C — Central (3 storeys / 9.6 m)" },
+  { id: "1D", label: "1D — Central (10 storeys / 31 m)" },
+  { id: "1E", label: "1E — Central (25 storeys / 76 m)" },
+  { id: "6B", label: "6B — Barkly (6 storeys / 19.2 m)" },
+  { id: "6C", label: "6C — Barkly (10 storeys / 32 m)" },
+  { id: "6D", label: "6D — Barkly (14 storeys / 44.8 m)" },
+];
+
 export default function Generators() {
   const [seed, setSeed] = useState(42);
-  const [storeys, setStoreys] = useState(10);
+  const [precinctId, setPrecinctId] = useState("1B");
   const [diffRule, setDiffRule] = useState("mirror");
   const [massing, setMassing] = useState<Record<string, unknown> | null>(null);
   const [typical, setTypical] = useState<Record<string, unknown> | null>(null);
@@ -20,12 +31,13 @@ export default function Generators() {
     ];
     const m = await api.massing({
       site_footprint_m: site,
-      storeys,
       seed,
-      height_limit_m: 45,
-      podium_storeys: 2,
+      precinct_id: precinctId,
+      use_planning_controls: true,
+      ground_open_space_pct_target: 50,
     });
     setMassing(m);
+    const storeys = Number(m.storeys ?? 6);
     const t = await api.typicalFloor({
       seed,
       difference_rule: diffRule,
@@ -63,13 +75,18 @@ export default function Generators() {
           />
         </label>
         <label className="text-xs">
-          Storeys
-          <input
-            type="number"
-            className="mt-1 block w-24 rounded border px-2 py-1.5 text-sm"
-            value={storeys}
-            onChange={(e) => setStoreys(Number(e.target.value))}
-          />
+          ACZ1 sub-precinct
+          <select
+            className="mt-1 block max-w-xs rounded border px-2 py-1.5 text-sm"
+            value={precinctId}
+            onChange={(e) => setPrecinctId(e.target.value)}
+          >
+            {PRECINCTS.map((p) => (
+              <option key={p.id} value={p.id}>
+                {p.label}
+              </option>
+            ))}
+          </select>
         </label>
         <label className="text-xs">
           Difference rule
@@ -96,7 +113,15 @@ export default function Generators() {
               dangerouslySetInnerHTML={{ __html: String(massing.svg) }}
             />
             <p className="mt-2 text-xs text-neutral-600">
-              Height {String(massing.height_m)} m · seed {String(massing.seed)}
+              Height {String(massing.height_m)} m · {String(massing.storeys)} storeys · seed{" "}
+              {String(massing.seed)}
+              {massing.planning ? (
+                <>
+                  {" "}
+                  · ACZ1 {(massing.planning as { precinct_id: string }).precinct_id} (
+                  {(massing.planning as { max_height_m_scheme: number }).max_height_m_scheme} m cap)
+                </>
+              ) : null}
             </p>
           </Panel>
         ) : null}

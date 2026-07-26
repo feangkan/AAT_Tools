@@ -6,7 +6,8 @@ Reference PDFs for NCC, BADS, mass timber, and **Maribyrnong planning**.
 
 | File | Description |
 |------|-------------|
-| `planning/Maribyrnong-ACZ1-Schedule-37.08-s1-Footscray-MAC.pdf` | ACZ1 schedule — heights, setbacks, precincts, use controls |
+| `planning/mari_SCHEDULE 1 TO CLAUSE 37.08 ACTIVITY CENTRE ZONE.pdf` | ACZ1 schedule (canonical filename) |
+| `planning/Maribyrnong-ACZ1-Schedule-37.08-s1-Footscray-MAC.pdf` | Same document (alias) |
 | `Apartment-Design-Guidelines-for-Victoria.pdf` | Clause 58 / BADS guidance (private open space, daylight, etc.) |
 
 **Index:** `docs/maribyrnong-planning-resources.md` · **Links JSON:** `data/planning/maribyrnong_scheme.json`
