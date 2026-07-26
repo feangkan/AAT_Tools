@@ -28,12 +28,16 @@ Use this page for **AT1.2 Planning** (not NCC).
 
 1. **ACZ1 schedule (legal control)**  
    https://planning-schemes.app.planning.vic.gov.au/MARIBYRNONG/ordinance/37.08-s1  
-   → scroll to **5. Precinct provisions** → your precinct’s **Preferred maximum building height** table.
+   → scroll to **5. Precinct provisions** → your precinct’s **Preferred maximum building height** table.  
+   → Local PDF: `resources/planning/Maribyrnong-ACZ1-Schedule-37.08-s1-Footscray-MAC.pdf`
 
-2. **Parent ACZ clause**  
+2. **Full planning index (Clause 58, overlays, private open space)**  
+   [`docs/maribyrnong-planning-resources.md`](../docs/maribyrnong-planning-resources.md)
+
+3. **Parent ACZ clause**  
    https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/ordinance/37.08
 
-3. **Confirm which sub-precinct the site is in**  
+4. **Confirm which sub-precinct the site is in**  
    - VicPlan map: https://mapshare.vic.gov.au/vicplan/  
    - Search **63 Nicholson Street, Footscray** → Planning Property Report / zone layers  
    - Match the coloured precinct on the **ACZ1 precinct map** inside the schedule (images under each Precinct 1…8)

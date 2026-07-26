@@ -14,7 +14,8 @@
 Density is controlled by **ACZ1 preferred maximum building height** (by sub-precinct), not Floor Area Ratio.  
 Full FIND IT + how to calculate **achieved FAR**:  
 [`docs/AT1.2-density-FAR-footscray.md`](./AT1.2-density-FAR-footscray.md)  
-Primary web source: https://planning-schemes.app.planning.vic.gov.au/MARIBYRNONG/ordinance/37.08-s1
+Primary web source: https://planning-schemes.app.planning.vic.gov.au/MARIBYRNONG/ordinance/37.08-s1  
+Full Maribyrnong planning index (ACZ1 PDF, Clause 58.05, overlays): [`docs/maribyrnong-planning-resources.md`](./maribyrnong-planning-resources.md)
 
 ## Mass timber companion catalog
 

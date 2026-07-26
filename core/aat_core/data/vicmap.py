@@ -73,6 +73,8 @@ class VicmapClient:
             "clause58_applies": True,
             "guidance": [
                 "Confirm height / setback metrics in ACZ1 schedule and precinct guidelines.",
+                "See resources/planning/Maribyrnong-ACZ1-Schedule-37.08-s1-Footscray-MAC.pdf and docs/maribyrnong-planning-resources.md.",
+                "Clause 58.05 private open space, storage, accessibility: https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/ordinance/58.05",
                 "Document any variations with design excellence / sustainability justification.",
                 "Pull parking rates from Parking Overlay schedule.",
             ],

@@ -1,0 +1,169 @@
+{
+  "scheme": "Maribyrnong Planning Scheme",
+  "scheme_code": "MARI",
+  "portal_base": "https://planning-schemes.app.planning.vic.gov.au/Maribyrnong",
+  "last_checked": "2026-07-26",
+  "site": {
+    "address": "63-67 Nicholson Street, Footscray",
+    "zone": "ACZ1",
+    "zone_label": "Activity Centre Zone — Schedule 1 (Footscray Metropolitan Activity Centre)",
+    "overlays_curated": ["DCPO2", "HO3", "HO4", "HO5", "PO1", "PO2", "NCO2"]
+  },
+  "local_pdfs": [
+    {
+      "file": "resources/planning/Maribyrnong-ACZ1-Schedule-37.08-s1-Footscray-MAC.pdf",
+      "title": "Schedule 1 to Clause 37.08 — ACZ1 Footscray MAC",
+      "pages": 39,
+      "use_for": ["AT1.2", "height", "setback", "precinct", "use controls"]
+    },
+    {
+      "file": "resources/Apartment-Design-Guidelines-for-Victoria.pdf",
+      "title": "Apartment Design Guidelines for Victoria 2021 (Clause 58 / BADS guidance)",
+      "use_for": ["AT1.2", "AT2.1", "clause 58", "private open space", "daylight", "storage"]
+    }
+  ],
+  "ordinance_categories": [
+    {
+      "id": "zones-acz",
+      "title": "Activity Centre Zone",
+      "clauses": [
+        {
+          "id": "37.08",
+          "label": "Clause 37.08 — Activity Centre Zone",
+          "url": "https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/ordinance/37.08"
+        },
+        {
+          "id": "37.08-s1",
+          "label": "Schedule 1 — ACZ1 Footscray MAC",
+          "url": "https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/ordinance/37.08-s1",
+          "local_pdf": "resources/planning/Maribyrnong-ACZ1-Schedule-37.08-s1-Footscray-MAC.pdf"
+        }
+      ]
+    },
+    {
+      "id": "clause-58-apartments",
+      "title": "Clause 58 — Apartment developments (BADS)",
+      "applies": "All apartment developments in ACZ (including 5+ storeys and all storeys in non-residential zones)",
+      "clauses": [
+        {
+          "id": "58",
+          "label": "Clause 58 — Apartment developments",
+          "url": "https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/ordinance/58"
+        },
+        {
+          "id": "58.05",
+          "label": "Clause 58.05 — Dwelling amenity (private open space, storage, accessibility)",
+          "url": "https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/ordinance/58.05",
+          "standards": ["D19/D20 private open space", "storage", "accessibility"]
+        },
+        {
+          "id": "58.06",
+          "label": "Clause 58.06 — Building entry and circulation",
+          "url": "https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/ordinance/58.06"
+        },
+        {
+          "id": "58.07",
+          "label": "Clause 58.07 — Internal light, ventilation, layout",
+          "url": "https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/ordinance/58.07"
+        },
+        {
+          "id": "58.03",
+          "label": "Clause 58.03 — Building setback",
+          "url": "https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/ordinance/58.03"
+        },
+        {
+          "id": "58.04",
+          "label": "Clause 58.04 — Communal open space",
+          "url": "https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/ordinance/58.04"
+        },
+        {
+          "id": "58.02",
+          "label": "Clause 58.02 — Site layout and building massing",
+          "url": "https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/ordinance/58.02"
+        }
+      ]
+    },
+    {
+      "id": "residential-clauses",
+      "title": "Residential development (referenced by ACZ1 for small lots / low rise)",
+      "clauses": [
+        {
+          "id": "54",
+          "label": "Clause 54 — One dwelling on a lot",
+          "url": "https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/ordinance/54"
+        },
+        {
+          "id": "55",
+          "label": "Clause 55 — Two or more dwellings (≤4 storeys)",
+          "url": "https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/ordinance/55"
+        }
+      ]
+    },
+    {
+      "id": "overlays",
+      "title": "Overlays (confirm on VicPlan for 63-67 Nicholson St)",
+      "clauses": [
+        {
+          "id": "43",
+          "label": "Clause 43 — Heritage Overlay",
+          "url": "https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/ordinance/43"
+        },
+        {
+          "id": "45",
+          "label": "Clause 45 — Development Contributions Plan Overlay",
+          "url": "https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/ordinance/45"
+        },
+        {
+          "id": "52",
+          "label": "Clause 52 — Parking Overlay",
+          "url": "https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/ordinance/52"
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "title": "Other scheme categories",
+      "links": [
+        {
+          "label": "Ordinance home (all clauses)",
+          "url": "https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/ordinance"
+        },
+        {
+          "label": "Incorporated documents",
+          "url": "https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/docs?page=1&status=current"
+        },
+        {
+          "label": "Planning scheme maps",
+          "url": "https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/maps"
+        },
+        {
+          "label": "VicPlan property report",
+          "url": "https://mapshare.vic.gov.au/vicplan/"
+        }
+      ]
+    }
+  ],
+  "key_controls_for_footscray": {
+    "density": "No statutory FAR in ACZ1 — use preferred maximum building height by sub-precinct",
+    "nicholson_street": "Precinct 1 emphasises Nicholson Street as key north/south corridor; confirm sub-precinct on ACZ1 map",
+    "student_housing": "ACZ1 objective: encourage appropriate student housing in FMAC",
+    "clause_58_private_open_space": {
+      "ordinance": "Clause 58.05-3",
+      "options": [
+        "Ground level: min 25 sqm, min dimension 3m, access from living room",
+        "Balcony: min area/dimension per orientation table (Table D8 in ordinance / Table D5 in 2021 BADS guide)",
+        "Podium: min 15 sqm, min dimension 3m",
+        "Roof: min 10 sqm, min dimension 2m"
+      ],
+      "balcony_table_studio_1bed_other": {
+        "north": { "area_sqm": 8, "min_dimension_m": 1.7 },
+        "south": { "area_sqm": 8, "min_dimension_m": 1.2 },
+        "other_studio_1bed": { "area_sqm": 8, "min_dimension_m": 1.8 },
+        "other_2bed": { "area_sqm": 8, "min_dimension_m": 2.0 },
+        "other_3plus_bed": { "area_sqm": 12, "min_dimension_m": 2.4 }
+      },
+      "ac_on_balcony": "Add min 1.5 sqm to balcony area if cooling/heating unit on balcony",
+      "high_rise_40m_plus": "Table D9 additional internal area may replace balcony requirement (8 sqm studio/1-2 bed; 12 sqm 3+ bed)"
+    }
+  }
+}

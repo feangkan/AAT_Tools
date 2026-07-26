@@ -107,6 +107,31 @@
         "title": "Storage",
         "rule": "Provide storage volumes per Clause 58 dwelling type",
         "severity": "should"
+      },
+      {
+        "id": "C58-PRIVATE-OS",
+        "title": "Private open space (Clause 58.05-3)",
+        "rule": "Each dwelling: ground 25 sqm (3m min dim), balcony per orientation table, podium 15 sqm, or roof 10 sqm — convenient access from living room",
+        "params": {
+          "ground_min_sqm": 25,
+          "ground_min_dim_m": 3,
+          "balcony_north_sqm": 8,
+          "balcony_north_min_dim_m": 1.7,
+          "balcony_south_sqm": 8,
+          "balcony_south_min_dim_m": 1.2,
+          "balcony_other_studio_sqm": 8,
+          "balcony_other_studio_min_dim_m": 1.8,
+          "balcony_2bed_sqm": 8,
+          "balcony_2bed_min_dim_m": 2.0,
+          "balcony_3plus_sqm": 12,
+          "balcony_3plus_min_dim_m": 2.4,
+          "ac_unit_extra_sqm": 1.5,
+          "high_rise_internal_alt_sqm": 8,
+          "high_rise_internal_alt_3plus_sqm": 12,
+          "high_rise_threshold_m": 40
+        },
+        "severity": "mandatory",
+        "source": "https://planning-schemes.app.planning.vic.gov.au/Maribyrnong/ordinance/58.05"
       }
     ]
   },

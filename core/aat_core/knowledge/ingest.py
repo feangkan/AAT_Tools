@@ -110,7 +110,7 @@ def ingest_pdfs(
     for folder in folders:
         if not folder.exists():
             continue
-        for pdf in sorted(folder.glob("*.pdf")):
+        for pdf in sorted(folder.rglob("*.pdf")):
             try:
                 doc = fitz.open(pdf)
             except Exception as exc:
