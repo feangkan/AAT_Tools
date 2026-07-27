@@ -141,7 +141,56 @@ There is currently **no large-volume Indigenous-owned CLT or glulam manufacturer
 
 ---
 
-## 9. Australian native timber species (carried from Week 1 research)
+## 9. Mass timber acoustic detailing
+
+Mass timber's structural efficiency is also its acoustic weakness: **sound and vibration control are mass-driven**, and CLT is light relative to concrete, so it is inherently more sensitive to airborne and impact sound transmission than an equivalent concrete floor — this matters directly on a Class 3 building where privacy between unrelated occupants (NCC Part F7 sound transmission) is a compliance and liveability requirement, not an optional upgrade.
+
+**Baseline floor assembly (no direct fixed ceiling):** finish floor → concrete or gypsum topping screed → acoustic resilient mat → CLT structural panel, with nothing hard-fixed to the underside so the exposed timber soffit stays visible in corridors/communal areas while the topping and mat above do the acoustic work.
+
+**Performance targets and what they cost in section depth:**
+
+| Target | Assembly depth (in addition to the CLT structure itself) | Notes |
+|---|---|---|
+| Code-minimum airborne separation (STC 50, matching the NCC's equivalent sound transmission requirement between sole-occupancy units) | ~100 mm (4") buildup | Achievable with a standard topping + resilient mat |
+| Higher-performance target (STC ~58, closer to the STC/IIC 60–65 that high-end residential/hospitality briefs often target) | ~195 mm (7-5/8") buildup | Roughly double the floor buildup — this is a real floor-to-floor height and cost trade-off, not a finishes-only decision |
+
+**Design implications for this project:**
+- Floor buildup depth is a **structural coordination item, not a finishes afterthought** — it has to be locked in early because it affects floor-to-floor height, which compounds across every storey of a multi-storey Class 3 tower.
+- **Flanking sound** — sound travelling around a wall/floor junction rather than through it — is a known limitation of continuous CLT panels and rigid structural connections; it is actively researched and not yet fully solved, so junction detailing (especially at CLT party walls between studios, and at the CLT-to-glulam beam line) needs deliberate acoustic breaks, not just a "the panel is thick enough" assumption.
+- **Party walls between studios** (where CLT loadbearing walls are used, per Section 1) should be treated as an acoustic assembly in their own right — resilient layers or a break in panel continuity between adjoining studios — rather than assuming the CLT panel alone clears STC 50.
+- This is worth its own sheet in the folio: a section through a typical studio party wall + floor junction, annotated with the acoustic buildup and STC target, cross-referenced to NCC F7 in the compliance sheets.
+
+---
+
+## 10. Span report — why this grid, and why it's the efficient choice
+
+This section answers the question directly: **why a 6.0 m grid (7.2 m alternative), and is it actually the cheap/efficient choice, or just a round number?** The answer comes from published CLT span capacity and cost-per-span data (not assumed) — sourced from the mass timber structural design resources in this repo.
+
+### 10.1 What CLT can actually span, by panel thickness
+
+| CLT panel | Typical floor span (dead load + 50 psf live) | Typical roof span (dead load + 30 psf live) |
+|---|---|---|
+| 3-ply | ~3.4–3.7 m (11'–12') | ~3.7–4.3 m (12'–14') |
+| 5-ply | ~4.9–5.2 m (16'–17') | ~5.5–6.1 m (18'–20') |
+| 7-ply | ~6.1–6.4 m (20'–21') | ~7.3–7.6 m (24'–25') |
+
+Two governing rules worth stating plainly: **floor spans are almost always governed by vibration** (the panel feels "springy" before it's structurally overstressed), while **roof spans are almost always governed by flexural strength**. This is why a floor panel and a roof panel of the same thickness don't span the same distance — vibration is the stricter limit for occupied floors.
+
+**Reading this against our grid:** a 6.0 m floor span sits right at the top of what a **7-ply CLT panel** can achieve before vibration governs — i.e., 6.0 m is close to the practical ceiling for a single CLT span without an intermediate beam, not an arbitrary round number. Pushing to 7.2 m would require either stepping up panel thickness further (diminishing returns — more timber volume for a narrower usable span gain) or accepting an intermediate beam within the bay.
+
+### 10.2 What it costs to go wider — the actual cost-per-span data
+
+Published comparative cost studies (glulam girders + CLT floor, conceptual cost per m² plotted against grid spacing) show a consistent pattern, and it directly explains why "just make the grid bigger" is not automatically cheaper:
+
+- **Single-span case (CLT spanning directly between girders, no secondary beams):** cost per m² rises in an almost straight line as girder spacing increases — wider spacing means thicker/heavier CLT to span it, so cost tracks span linearly with no efficiency gained by going wider.
+- **Square bay with one secondary beam:** this is where an *optimum* actually appears — cost per m² decreases as bay size grows at first (fewer connections spread over more floor area), reaches a minimum around a **~7.3 m (24 ft) square bay**, then rises again as spans get large enough that beam/girder depth (and therefore timber volume and connection demand) grows faster than the floor area it serves.
+- **Stepped grid study (beam span increased first, then girder span):** cost increases in a stair-step pattern, with the **cheapest configurations at the smaller grids with shorter beam spans** — because girder/beam depth (and therefore total timber volume) is minimised, which also protects clear floor-to-ceiling height, since deeper beams eat directly into it.
+
+**Direct answer to "why this span, is it cheap or efficient":** it's both, for the same reason. A 6.0 m grid keeps CLT within its efficient, vibration-governed span range without stepping up to thicker (heavier, costlier) panels or adding secondary beams within every bay; and it sits close to the cost-optimal square-bay range the published data identifies (~7.3 m optimum, with smaller grids consistently cheaper than large ones once beam depth is accounted for). The 7.2 m alternative is not a compromise — it's close to the actual published cost-optimum for a square bay with a secondary beam — but it should be understood as trading slightly higher cost-efficiency for wider, more flexible studio/corridor planning, not assumed to be free. **This is a genuine design choice between 6.0 m (tighter to CLT's efficient span, cheaper per the stepped-grid data) and 7.2 m (matches the published cost-optimum bay size, more planning flexibility) — worth stating as a choice in the report rather than picking one silently.**
+
+---
+
+## 11. Australian native timber species (carried from Week 1 research)
 
 | Species | Native range | Relevant to this site? | Role |
 |---|---|---|---|
@@ -151,7 +200,7 @@ There is currently **no large-volume Indigenous-owned CLT or glulam manufacturer
 
 ---
 
-## 10. What's now locked, and what's still open
+## 12. What's now locked, and what's still open
 
 **Locked:** Hybrid B — RC podium/core/transfer + CLT/glulam tower. Grid at 6.0 m (7.2 m alternative). Species: Victorian Ash/Tasmanian Oak glulam + Radiata Pine CLT.
 
@@ -166,7 +215,8 @@ Next step: fold Sections 1–9 into the AT1.4 six-sheet folio (`docs/AT1.4-claud
 
 ## Sources consulted
 
-- Kingsley, *Structural Basics of Mass Timber* (`resources/5-MassTimberPedagogy-101-StructuralBasics.pdf`)
+- Kingsley, *Structural Basics of Mass Timber* (`resources/5-MassTimberPedagogy-101-StructuralBasics.pdf`) — CLT span capacity tables (§10.1)
+- *Structural Design with Mass Timber* (`resources/6-MassTimberPedagogy-101-StructuralDesign.pdf`) — acoustic assembly buildups and STC data (§9); structural grid cost-optimisation study (§10.2); WoodWorks Mass Timber Fire & Acoustic Database referenced therein
 - APA – The Engineered Wood Association; naturallywood.com; US Forest Service Research & Development — CLT manufacturing
 - Techlam / AJ Laminated Beams / Unalam — glulam manufacturing (finger-jointing, lamination, curing)
 - ASH (Australian Sustainable Hardwoods), *MASSLAM* glulam product information, Heyfield VIC

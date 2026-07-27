@@ -1,9 +1,9 @@
-# AT1.4 Claude Design Handoff — NCC-led 6× A3 Folio
+# AT1.4 Claude Design Handoff — NCC-led A3 Folio (min. 6 sheets, expand as needed)
 
 Use this document as the **single brief** for Claude (or Canva/InDesign) to build the Week 2 **Structural System Report** on the AAT template.
 
 **Project:** 63–67 Nicholson St, Footscray · RMIT ARCH3372 · Student accommodation + retail  
-**Deliverable:** AT1.4 · **6× A3 landscape** · ~**70% NCC** · compact functional narrative  
+**Deliverable:** AT1.4 · **A3 landscape, minimum 6 sheets** — add more sheets where the content needs it (structure, acoustics, span rationale, connections, precedents, First Nations) · ~**70% NCC** across the classification/compliance sheets · compact functional narrative  
 **Classification:** **Class 3** residential + **Class 6** retail  
 
 ---
@@ -86,7 +86,7 @@ git checkout cursor/aat-tools-resources-3c74
 | PDF export engine | `backend/app/services/a3_export.py` | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/backend/app/services/a3_export.py |
 | Structure options copy | `backend/app/services/details.py` | https://github.com/feangkan/AAT_Tools/blob/cursor/aat-tools-resources-3c74/backend/app/services/details.py |
 
-**Template specs:** A3 **landscape** · 420 × 297 mm · title block bottom-right · site line “63–67 Nicholson St, Footscray · ACZ1 · Wurundjeri Country” · sheet x/6.
+**Template specs:** A3 **landscape** · 420 × 297 mm · title block bottom-right · site line “63–67 Nicholson St, Footscray · ACZ1 · Wurundjeri Country” · sheet x/N (N = total sheet count in the final set, not fixed at 6).
 
 ---
 
@@ -102,7 +102,7 @@ git checkout cursor/aat-tools-resources-3c74
 
 ---
 
-## 5. Design order — 6 sheets (copy to Claude)
+## 5. Design order — minimum 6 sheets, expand as needed (copy to Claude)
 
 **Rules:** Left = one diagram. Right = short narrative (~80–120 words). Yellow-highlight 1–2 NCC phrases. **Refs as tiny footer on each sheet** (Chicago, not separate page). ~70% NCC.
 
@@ -207,7 +207,7 @@ git checkout cursor/aat-tools-resources-3c74
 ## 6. Claude prompt (paste as-is)
 
 ```
-Build 6× A3 landscape folio pages for RMIT AT1.4 Structural System Report.
+Build an A3 landscape folio for RMIT AT1.4 Structural System Report — minimum 6 sheets, add more pages where needed to cover the content properly (do not compress content to force-fit 6).
 
 Repo: https://github.com/feangkan/AAT_Tools (branch cursor/aat-tools-resources-3c74)
 Handoff: docs/AT1.4-claude-design-handoff.md
@@ -223,7 +223,7 @@ Rules:
 - Use NCC 2022 online for current clause wording if repo PDF is older
 
 Follow sheet order 01–06 in the handoff doc exactly.
-Site: 63–67 Nicholson St, Footscray. Format: A3 landscape. 6 pages minimum.
+Site: 63–67 Nicholson St, Footscray. Format: A3 landscape. Minimum 6 pages — expand as needed.
 ```
 
 ---
