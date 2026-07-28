@@ -1,20 +1,42 @@
 # AT1.4 (Week 2) — Structural System Report: Sheet Build Spec
 
-**Status:** Hybrid B (Mass Timber + Concrete) locked. Grid: **6.0 m**. **21 sheets.** Reordered so the narrative now goes: **system → how it's actually made and engineered → proof it's been built → NCC compliance → summary.** This reads as "here is the system, here is everything about it in depth, and here is the evidence" before the folio pivots to code compliance — rather than jumping straight to precedent proof before the technical case has been made.
+**Status:** Hybrid B (Mass Timber + Concrete) locked. Grid: **6.0 m**. **22 sheets** (Sheet 0 + 21). Reordered so the narrative now goes: **system → how it's actually made and engineered → proof it's been built → NCC compliance → summary.** This reads as "here is the system, here is everything about it in depth, and here is the evidence" before the folio pivots to code compliance — rather than jumping straight to precedent proof before the technical case has been made.
 
-**Format:** A3 landscape, 420 × 297 mm · left = one diagram, right = narrative (~150–200 words) + comparison/data table + a bolded **Why** line + a bolded **Takeaway** line · yellow-highlight 1–2 key phrases per sheet · Chicago footer refs on every sheet · title block bottom-right: "63–67 Nicholson St, Footscray · ACZ1 · Wurundjeri Country · Sheet x/21"
+**Format:** A3 landscape, 420 × 297 mm · left = one diagram, right = narrative (~150–200 words) + comparison/data table + a bolded **Why** line + a bolded **Takeaway** line · yellow-highlight 1–2 key phrases per sheet · Chicago footer refs on every sheet · title block bottom-right: "63–67 Nicholson St, Footscray · ACZ1 · Wurundjeri Country · Sheet x/22"
 
-**What changed from the last draft:** sheet *content* is unchanged — only the order moved, and every cross-reference between sheets has been corrected to match. New order:
+**What changed from the last draft:** a new **Sheet 0** now opens the folio, answering "why mass timber at all" before Sheet 01 commits to Hybrid B specifically — it synthesises the repo's own mass timber pedagogy PDFs and industry sourcing to name six concrete benefits, then explicitly cross-references which later sheet develops each one. Sheet *content* elsewhere is otherwise unchanged from the last version — only the order moved (previous update), and every cross-reference between sheets has been corrected to match. Full order now:
 
 | Block | Sheets | Content |
 |---|---|---|
+| **Why mass timber (new)** | **0** | **Six benefits, sourced, cross-referenced to every later sheet** |
 | System | 01 | Hybrid B overview |
-| **Mass timber technical (moved up)** | **02–09** | **Material production, forms/shapes, connections, embodied energy, span report, acoustics, construction sequence, First Nations** |
-| **Precedents (moved down)** | **10–15** | **Fenner Hall, La Trobe, Brock Commons, Monash, Atlassian, 25 King Street** |
+| Mass timber technical | 02–09 | Material production, forms/shapes, connections, embodied energy, span report, acoustics, construction sequence, First Nations |
+| Precedents | 10–15 | Fenner Hall, La Trobe, Brock Commons, Monash, Atlassian, 25 King Street |
 | NCC compliance | 16–20 | Classification, consequences, escape, fire, F2/DDA |
 | Summary | 21 | Whole-building summary |
 
 Full research backing every sheet lives in `docs/AT1.4-structural-system-report-final.md`. Image sourcing guide (`docs/AT1.4-week2-image-sourcing-guide.md`) has been renumbered to match — check that file if you're cross-referencing image plans by sheet number, it's been updated.
+
+---
+
+### Sheet 0 — Why we choose mass timber?
+
+**Narrative:** WoodWorks' *"Know Your Why for Mass Timber"* (Ricky McLain, referenced in this sheet's sources) makes a simple but important point: a project team should be able to name the *specific* reason it's choosing mass timber before committing to it, because that reason then shapes every downstream decision — grid, connections, exposure strategy, even which hybrid to pair it with. This sheet names ours. Drawing on the structural pedagogy resources in this repo (`resources/5-...` and `resources/6-MassTimberPedagogy`) alongside the wider industry evidence, mass timber offers six benefits that matter directly to this project: **(1) speed** — prefabricated, dry-erected panels compress the construction programme (developed on Sheet 08); **(2) reduced structural weight** — timber weighs roughly a fifth of an equivalent concrete/steel structure, meaning lighter foundations and smaller footings; **(3) embodied carbon reduction and biogenic carbon storage** — timber sequesters carbon rather than emitting it in production (Sheet 05); **(4) biophilic occupant wellbeing** — exposed timber is associated with lower stress and better focus, directly relevant to a *student* accommodation typology where wellbeing outcomes matter; **(5) predictable fire performance through char** — timber doesn't need to be hidden to be fire-safe (Sheet 19); and **(6) structural efficiency at repetitive floor plates** — CLT's two-way span suits exactly the repeated studio module this brief requires (Sheet 06). **None of these six benefits, on their own, solve this site's non-negotiable demands** — a long-span Class 6 retail podium, a fire-isolated core, a structural transfer, and lateral stability — which is precisely why this report doesn't propose pure mass timber. It proposes Hybrid B (Sheet 01): concrete exactly where the site's constraints require it, mass timber everywhere its six benefits can actually be realised.
+
+| Benefit | Why it matters here | Developed on |
+|---|---|---|
+| Speed (prefabrication, dry erection) | Compresses tower construction programme | Sheet 08 |
+| Reduced structural weight | Lighter foundations, smaller footings | Sheet 06 |
+| Embodied/biogenic carbon | Lower whole-building carbon vs. concrete | Sheet 05 |
+| Biophilic occupant wellbeing | Directly relevant to student accommodation | Sheets 10–13 (precedents) |
+| Predictable fire performance (char) | Timber can stay exposed and still meet FRL | Sheet 19 |
+| Structural efficiency, repetitive plates | Matches the repeated studio module | Sheet 06 |
+
+**Why this matters:** naming the "why" before the design starts is what stops mass timber becoming a materials choice made for its own sake — every one of the six benefits above is either directly enabled or directly constrained by choosing Hybrid B specifically, not pure timber and not pure concrete.
+**Takeaway:** *This project isn't using mass timber because it's fashionable — it's using it because six specific, provable benefits apply directly to a multi-storey student residence, and Hybrid B is the only structural strategy that lets this site keep all six while still meeting its non-negotiable constraints.*
+
+**Diagram:** Six-icon benefit strip (speed / weight / carbon / wellbeing / fire / efficiency), each with a small arrow pointing to the sheet number where it's developed.
+**Footer refs:** McLain, R., *Know Your Why for Mass Timber*, WoodWorks "2 Min Tuesdays" (youtube.com/watch?v=W123P4BP1vo). *Structural Basics of Mass Timber* / *Structural Design with Mass Timber* (`resources/5-...`, `resources/6-...`). HDR, *Why Mass Timber?*; Skanska, *Beyond Sustainability: Four Remarkable Benefits of Mass Timber*.
 
 ---
 

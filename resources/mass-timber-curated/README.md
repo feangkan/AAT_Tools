@@ -120,3 +120,6 @@ A working collection of mass timber links, studies, and precedents found during 
 - [Atlassian Central Sydney](https://www.dezeen.com/2026/07/23/world-tallest-timber-tower-atlassian-central-sydney/) — Sydney, 2026 — world's tallest timber tower, surpassing Brock Commons — **CRITICAL PRECEDENT: Shows mass timber can reach beyond 18 storeys at scale, in Australia**
 - [Atlassian Central Sydney — YouTube](https://www.youtube.com/watch?v=D7blV73Afqo) — Video documentation of the project
 
+
+### "Why mass timber" — foundational reasoning (AT1.4 Sheet 0)
+- [Know Your Why for Mass Timber — Ricky McLain / WoodWorks](https://www.youtube.com/watch?v=W123P4BP1vo) — "2 Min Tuesdays" series. Argues a project team should name its specific driving reason for choosing mass timber before committing, since that reason shapes every downstream design decision. Used as the framing device for AT1.4 Sheet 0, which names six specific benefits (speed, reduced structural weight, embodied/biogenic carbon, biophilic wellbeing, fire performance via char, structural efficiency at repetitive floor plates) and cross-references which later sheet develops each one.

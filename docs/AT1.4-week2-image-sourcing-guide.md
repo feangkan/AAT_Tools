@@ -17,6 +17,7 @@ Re-searched fresh for this pass, in sheet order, so this list matches the curren
 
 | Sheet | Needs a photo? | Status |
 |---|---|---|
+| **0 — Why mass timber** | Optional reference | No photo needed — icon strip (speed/weight/carbon/wellbeing/fire/efficiency), Claude Design can build this as simple iconography rather than sourcing photos for six separate concepts |
 | 01 — Hybrid B overview | Optional reference | ✅ Found — WoodWorks "Mass Timber Buildings on a Podium" is a strong match |
 | 02 — Material production | Yes | ✅ Found — Kallesoe/Ledinek CLT press lines |
 | 03 — Forms/shapes | Optional reference | ✅ Found — VCE Publications CLT ply diagram |
@@ -155,7 +156,7 @@ These aren't source photos to reproduce as-is — they're **reference material**
 ```
 Build an A3 landscape folio for RMIT AT1.4 Structural System Report — Week 2.
 Repo: https://github.com/feangkan/AAT_Tools (branch cursor/aat-tools-resources-3c74)
-Build spec: docs/AT1.4-week2-sheet-build-spec.md (21 sheets, content below)
+Build spec: docs/AT1.4-week2-sheet-build-spec.md (22 sheets — Sheet 0 + 21, content below)
 Image sourcing guide: docs/AT1.4-week2-image-sourcing-guide.md
 Full research backing each sheet: docs/AT1.4-structural-system-report-final.md
 
@@ -173,7 +174,7 @@ Rules:
 - Left = one diagram/image, right = narrative (~150-200 words) + comparison/data table + a bolded "Why" line + a bolded "Takeaway" line, per sheet as specified.
 - Yellow-highlight 1-2 key NCC/structural phrases per sheet.
 - Chicago refs as a tiny footer on every sheet (no separate references page).
-- Title block bottom-right: "63-67 Nicholson St, Footscray - ACZ1 - Wurundjeri Country - Sheet x/21"
+- Title block bottom-right: "63-67 Nicholson St, Footscray - ACZ1 - Wurundjeri Country - Sheet x/22"
 - Add a small photo credit caption under every uploaded precedent image (architect/photographer, per the sourcing guide).
 - Hybrid B (Mass Timber + Concrete) is locked, grid is 6.0 m — do not reintroduce Hybrid A/C or the 7.2 m alternative as open options.
 - Precedent order (Sheets 10-15) is deliberate — do not reorder by height or fame.
