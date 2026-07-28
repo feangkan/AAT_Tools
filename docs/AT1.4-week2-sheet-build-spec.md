@@ -430,29 +430,9 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 
 ---
 
-## Claude Design prompt (paste as-is)
+## Claude Design prompt
 
-```
-Build an A3 landscape folio for RMIT AT1.4 Structural System Report — Week 2.
-Repo: https://github.com/feangkan/AAT_Tools (branch cursor/aat-tools-resources-3c74)
-Build spec: docs/AT1.4-week2-sheet-build-spec.md (21 sheets, content below)
-Image sourcing guide: docs/AT1.4-week2-image-sourcing-guide.md
-Full research backing each sheet: docs/AT1.4-structural-system-report-final.md
-
-Rules:
-- A3 landscape, 420 x 297mm. Follow the 21-sheet order exactly as written in the build spec.
-- Left = one diagram, right = narrative (~150-200 words) + comparison/data table + a bolded "Why" line + a bolded "Takeaway" line, per sheet as specified.
-- Yellow-highlight 1-2 key NCC/structural phrases per sheet.
-- Chicago refs as a tiny footer on every sheet (no separate references page).
-- Title block bottom-right: "63-67 Nicholson St, Footscray - ACZ1 - Wurundjeri Country - Sheet x/21"
-
-IMAGE SOURCING (REQUIRED — do not leave blank placeholder diagrams):
-- For every diagram/image, follow this priority: (1) pull source images from the repo's resources/ PDFs and project-information/, (2) if none exists, search the internet for a relevant real image, (3) cite every image with a caption (architect/photographer/project/year), (4) for precedent sheets (02-07), use real project photos where sourceable — do not fabricate AI-generated photorealistic images of these real buildings, (5) technical sheets (08-21) can use fresh vector redraws where no source exists.
-
-- Hybrid B (Mass Timber + Concrete) is locked, grid is 6.0 m — do not reintroduce Hybrid A/C or the 7.2 m alternative as open options.
-- Precedent order (Sheets 02-07) is deliberate — closest structural match to Hybrid B first (Fenner Hall, La Trobe, Brock Commons, Monash), then adjacent/different-purpose evidence last (Atlassian Central, 25 King Street). Do not reorder by height or fame.
-- Sheet 06 (Atlassian) and Sheet 05 (Monash) must state clearly in the narrative that they are NOT identical matches to Hybrid B — Atlassian adds a steel exoskeleton, and the Grimshaw case study should NOT be cited for Monash (it documents a different, unrelated Monash building).
-```
+**Use the prompt in `docs/AT1.4-week2-image-sourcing-guide.md`** (not duplicated here) — it includes the image upload workflow, which is required for Claude Design to actually show real precedent photos instead of blank placeholders. Read that file's top section first: Claude Design can't fetch images from the internet on its own, so the guide sets out exactly how to get real photos into the folio before you paste the prompt.
 
 ---
 
