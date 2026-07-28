@@ -400,9 +400,16 @@ Rules:
 - Yellow-highlight 1-2 key NCC/structural phrases per sheet.
 - Chicago refs as a tiny footer on every sheet (no separate references page).
 - Title block bottom-right: "63-67 Nicholson St, Footscray - ACZ1 - Wurundjeri Country - Sheet x/19"
-- Pull diagram source images from resources/ PDFs and project-information/ where noted per sheet; draw hybrid sections/connection details fresh where no source image exists.
+
+IMAGE SOURCING (REQUIRED — do not leave blank placeholder diagrams):
+- For every diagram/image on each sheet, follow this priority:
+  1. FIRST: Try to extract/pull source images from the repo's PDF files (resources/ folder) and project-information/
+  2. SECOND: If no source image exists in the repo, SEARCH THE INTERNET for a relevant image matching the sheet's content (e.g. "CLT panel cross-section diagram", "Brock Commons student residence building photo", "concrete podium structure timber tower hybrid", etc.)
+  3. CITE EVERY IMAGE: add a small caption below the image with source attribution (photographer/architect name, project name, website if applicable)
+  4. For precedent sheets (02-05): use real project photos/diagrams from the internet where sourceable (Brock Commons, La Trobe, Fenner Hall, 25 King St — these are all real buildings with published photos); credit architect/photographer. Do NOT fabricate or use AI-generated photorealistic images of real buildings.
+  5. For technical/diagram sheets (06-19): diagrams can be fresh vector/schematic redraws if no source exists, but always prefer sourced images where available (e.g. connection details from PDFs, span tables, acoustic diagrams, etc.)
+
 - Hybrid B (Mass Timber + Concrete) is locked, grid is 6.0 m — do not reintroduce Hybrid A/C or the 7.2 m alternative as open options.
-- Precedent sheets (02-05): use real project photos/diagrams where sourceable (credit architect/photographer), otherwise clean structural diagram redraws — do not fabricate photorealistic images of these real buildings.
 ```
 
 ---
