@@ -1,26 +1,26 @@
 # AT1.4 (Week 2) — Structural System Report: Sheet Build Spec
 
-**Status:** Hybrid B (Mass Timber + Concrete) locked. Grid: **6.0 m**. **21 sheets.** Precedents expanded to 6 and reordered: the set now leads with the projects that most precisely match this project's own structural system (concrete + mass timber, no steel exoskeleton), so the first thing a reviewer sees is proof this *exact* hybrid has been built, before the set broadens to scale (Atlassian) and facade language (25 King).
+**Status:** Hybrid B (Mass Timber + Concrete) locked. Grid: **6.0 m**. **21 sheets.** Reordered so the narrative now goes: **system → how it's actually made and engineered → proof it's been built → NCC compliance → summary.** This reads as "here is the system, here is everything about it in depth, and here is the evidence" before the folio pivots to code compliance — rather than jumping straight to precedent proof before the technical case has been made.
 
 **Format:** A3 landscape, 420 × 297 mm · left = one diagram, right = narrative (~150–200 words) + comparison/data table + a bolded **Why** line + a bolded **Takeaway** line · yellow-highlight 1–2 key phrases per sheet · Chicago footer refs on every sheet · title block bottom-right: "63–67 Nicholson St, Footscray · ACZ1 · Wurundjeri Country · Sheet x/21"
 
-**What changed from the last draft:**
-- Precedents go from 4 → **6 sheets**, and are reordered by *how closely each one matches Hybrid B*, not by size or fame:
-  1. **Fenner Hall** (purest match — concrete plinth + CLT walls, no steel)
-  2. **La Trobe** (very close match — 90%+ CLT/glulam, concrete/steel only at transfer/core)
-  3. **Brock Commons** (close match — concrete core + glulam + CLT, no exoskeleton)
-  4. **Monash** (close match — two generations of CLT student housing, repeat institutional commitment) — *corrected: combines Gillies Hall (built) and the new Clayton residence (underway); the Grimshaw link supplied was actually for Monash's Woodside Building, a different, steel-framed academic building, not used here*
-  5. **Atlassian Central** (adjacent, not identical — adds a steel exoskeleton alongside the concrete core and timber floors; included honestly as proof of scale, not proof of this exact system)
-  6. **25 King Street** (different purpose — facade language, kept from your earlier "facade detail" request, positioned after the Hybrid B evidence group)
-- Total sheet count: 21 (was 19). Everything after the precedents shifts down by 2 sheet numbers; content is otherwise unchanged from the last version.
+**What changed from the last draft:** sheet *content* is unchanged — only the order moved, and every cross-reference between sheets has been corrected to match. New order:
 
-Full research backing every sheet lives in `docs/AT1.4-structural-system-report-final.md`.
+| Block | Sheets | Content |
+|---|---|---|
+| System | 01 | Hybrid B overview |
+| **Mass timber technical (moved up)** | **02–09** | **Material production, forms/shapes, connections, embodied energy, span report, acoustics, construction sequence, First Nations** |
+| **Precedents (moved down)** | **10–15** | **Fenner Hall, La Trobe, Brock Commons, Monash, Atlassian, 25 King Street** |
+| NCC compliance | 16–20 | Classification, consequences, escape, fire, F2/DDA |
+| Summary | 21 | Whole-building summary |
+
+Full research backing every sheet lives in `docs/AT1.4-structural-system-report-final.md`. Image sourcing guide (`docs/AT1.4-week2-image-sourcing-guide.md`) has been renumbered to match — check that file if you're cross-referencing image plans by sheet number, it's been updated.
 
 ---
 
 ### Sheet 01 — Chosen structural system: Hybrid B overview
 
-**Narrative:** **Reinforced concrete carries the podium, core, and transfer level. CLT + glulam carry every residential floor above.** Three hybrid options were tested against this site's actual constraints (long Class 6 retail spans, a fire-isolated core, a podium-to-tower transfer, wind/seismic stability) before Hybrid B was chosen. Steel (Hybrid A) solves the spans but needs fire protection that undercuts an exposed-structure aesthetic. Light-frame infill (Hybrid C) doesn't solve the podium or lateral problem on its own. Concrete does double duty here: the RC core NCC already wants for fire-isolated stairs/lifts *is* the lateral system, so nothing is redundant. **The six precedents that follow are ordered deliberately — the closest matches to this exact system come first, so the buildability case is made before the set broadens to scale and facade evidence.**
+**Narrative:** **Reinforced concrete carries the podium, core, and transfer level. CLT + glulam carry every residential floor above.** Three hybrid options were tested against this site's actual constraints (long Class 6 retail spans, a fire-isolated core, a podium-to-tower transfer, wind/seismic stability) before Hybrid B was chosen. Steel (Hybrid A) solves the spans but needs fire protection that undercuts an exposed-structure aesthetic. Light-frame infill (Hybrid C) doesn't solve the podium or lateral problem on its own. Concrete does double duty here: the RC core NCC already wants for fire-isolated stairs/lifts *is* the lateral system, so nothing is redundant. **The sheets that follow go deep on how this system is actually made, engineered, and connected (Sheets 02–09), then show six buildings where it's already been built (Sheets 10–15), before turning to NCC compliance.**
 
 | Option | Solves long retail span | Solves transfer | Solves lateral system | Matches exposed-structure direction |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 | **B — MT + Concrete (chosen)** | **Yes** | **Yes (RC transfer slab)** | **Core does it naturally** | **Strong — exposed concrete + timber** |
 | C — MT + Light frame | No (needs pairing with A/B) | N/A | N/A | Weak — frame gets lined and hidden |
 
-**Why this system:** it answers every structural demand the site creates with no redundant structure, and — as the next six sheets show — it's the option with the deepest built precedent base, from a modest six-storey Australian student residence right through to a 39-storey commercial tower.
+**Why this system:** it answers every structural demand the site creates with no redundant structure, and it's the option with the deepest built precedent base, from a modest six-storey Australian student residence right through to a 39-storey commercial tower.
 **Takeaway:** *Hybrid B isn't the "safe middle option" — it's the one where the fire-rated core, the lateral system, and the architectural direction all point the same way, and it's the most-built of the three.*
 
 **Diagram:** Full-height section — RC podium/core, transfer slab, timber tower, labelled by element.
@@ -36,126 +36,7 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 
 ---
 
-### Sheet 02 — Precedent: Fenner Hall, ANU Kambri Precinct
-
-**Narrative:** Canberra — 450 rooms across two CLT towers, delivered by Lendlease, completed 2019 — the **first CLT student residence built in Australia**. Structurally this is Hybrid B in its purest form, with no steel exoskeleton and no compromise material: a **two-storey concrete plinth forms the podium**, and **CLT walls rise directly from it** to form the primary structure of every student room above. The measurable outcomes are the ones worth leading a presentation with: CLT construction cut the build programme by roughly **30%**, and the finished building used approximately **33% of the embodied carbon** of an equivalent all-concrete scheme — a real, audited figure, not a modelled estimate.
-
-| Metric | Fenner Hall |
-|---|---|
-| Scale | 450 rooms, 2 CLT towers |
-| Structure | 2-storey concrete plinth + CLT walls above — **no steel exoskeleton** |
-| Programme saving | ~30% vs. conventional construction |
-| Embodied carbon | ~33% of an equivalent all-concrete building |
-| Significance | First CLT student residence built in Australia |
-
-**Why this precedent leads the set:** it is the closest structural match to this project of any building researched — concrete base, timber tower, nothing else — built at national scale, for the exact typology (student accommodation) this brief requires.
-**Takeaway:** *This is the sheet that answers "has Hybrid B, exactly as proposed, actually been built for student housing in Australia?" — yes, and it cut both carbon and programme by roughly a third.*
-
-**Diagram:** Section showing concrete plinth-to-CLT-tower transition, callout to embodied carbon/programme figures.
-**Footer refs:** AT1.4 Structural System Report §2 (extended). ArchitectureAU, *Kambri at ANU*; Make It Wood, Fenner Hall exemplar project.
-
----
-
-### Sheet 03 — Precedent: La Trobe University Student Accommodation
-
-**Narrative:** Bundoora, Melbourne — two six-level buildings, 624 beds, designed by Jackson Clements Burrows Architects, built by Multiplex — the largest mass timber project in Victoria by volume at the time of completion. Over 75% of the gross floor/roof area and over 90% of loadbearing walls and columns are CLT and glulam, with concrete and steel handling only the transfer level and service cores — the same Hybrid B split proposed here, at nearly triple Fenner Hall's scale. Supplied by the **same Victorian CLT/glulam manufacturing base** (Wodonga CLT, Victorian glulam) recommended for this project, so the supply-chain question isn't hypothetical — it's already answered by a completed, occupied building in the same city.
-
-| Metric | La Trobe Student Accommodation |
-|---|---|
-| Scale | 624 beds, 2 × 6-level buildings |
-| CLT/glulam share | 75%+ of floor/roof area, 90%+ of walls/columns |
-| Location | Bundoora, Melbourne — same city as this site |
-| Supply chain | Same Victorian CLT/glulam base proposed here |
-| Rating | 5-Star Green Star design |
-
-**Why this precedent:** it removes the "can this actually be sourced and built here" doubt — same city, same supply chain, same student accommodation typology, already delivered at nearly triple the scale of Fenner Hall.
-**Takeaway:** *This isn't an idea being imported from elsewhere — the exact material supply chain this project needs already built 624 beds twenty minutes from this site.*
-
-**Diagram:** Building section/photo placeholder + structural diagram callout, facade material palette referencing site's landscape context.
-**Footer refs:** AT1.4 Structural System Report §2. Jackson Clements Burrows Architects.
-
----
-
-### Sheet 04 — Precedent: Brock Commons Tallwood House
-
-**Narrative:** University of British Columbia, Vancouver — 18 storeys, ~53 m, completed 2017 — the tallest mass timber building in the world at the time. Designed by Acton Ostry Architects, using the same core logic as Sheets 02–03: a **concrete core** for lateral stability and fire-isolated egress, **glulam columns** carrying gravity load storey to storey, **CLT floor panels** spanning between them as both structure and the fire-rated diaphragm — **no steel exoskeleton**. Built as **student residence** for UBC, the same typology this brief requires. Once the timber structure started, it was erected by a crew of only nine installers in roughly 70 days — a real, published, verifiable construction-speed figure, not a marketing estimate.
-
-| Metric | Brock Commons |
-|---|---|
-| Height | 18 storeys, ~53 m |
-| Structure | RC core + glulam columns + CLT floors — no steel exoskeleton |
-| Typology | Student residence (UBC) |
-| Erection time (timber structure) | ~70 days, crew of 9 |
-| Completed | 2017 |
-
-**Why this precedent:** after two Australian examples at low-to-mid rise, this is the evidence that the *same, unmodified* system — no steel exoskeleton added — comfortably reaches 18 storeys internationally.
-**Takeaway:** *Fenner Hall and La Trobe prove Hybrid B works here; Brock Commons proves the same system, unchanged, reaches genuine height elsewhere — before Sheet 06 shows what happens when steel is added on top of it.*
-
-**Diagram:** Building section/photo placeholder + structural diagram callout (core/columns/floors labelled).
-**Footer refs:** AT1.4 Structural System Report §2. Acton Ostry Architects / UBC.
-
----
-
-### Sheet 05 — Precedent: Monash University — two generations of CLT student housing
-
-**Narrative:** Melbourne — Monash has committed to CLT student housing twice, which matters more than either building alone: it shows the decision wasn't a one-off. **Gillies Hall** (Peninsula campus, completed 2019, Jackson Clements Burrows) is a 150-room, five-storey CLT building that also achieved **Passive House certification** — at the time, Australia's largest combination of CLT structure and Passive House performance — with the CLT panels alone roughly **halving embodied carbon** compared to an equivalent concrete structure. Monash then repeated the approach at greater scale: a **252-bed, six-storey hybrid CLT residence** at the Clayton campus, designed again by Jackson Clements Burrows and now under construction by ADCO, having broken ground in August 2025. *(Note: the Grimshaw case study originally supplied for this precedent documents Monash's Woodside Building — a separate, steel-framed academic building, not a student residence — so it isn't used as evidence here; Gillies Hall and the Clayton project are the correct, verified precedents.)*
-
-| Metric | Gillies Hall (built, 2019) | Clayton Residence (under construction) |
-|---|---|---|
-| Scale | 150 rooms, 5 storeys | 252 beds, 6 storeys, 7,500 m² |
-| Structure | CLT + Passive House certified | Hybrid CLT (concrete/steel transfer, per Hybrid B logic) |
-| Embodied carbon | ~50% of equivalent concrete structure | Not yet published |
-| Status | Complete, occupied | Broke ground Aug 2025, ADCO delivering |
-
-**Why this precedent:** one built, one currently rising — together they show an Australian university returning to Hybrid B for student housing a second time, at greater scale, which is a stronger buildability signal than a single project.
-**Takeaway:** *When a client repeats a structural strategy on their next building rather than reverting to concrete, that's the client behaving as its own case study — Monash did exactly that.*
-
-**Diagram:** Two-panel comparison — Gillies Hall completed photo/section, Clayton residence construction progress/rendering.
-**Footer refs:** AT1.4 Structural System Report §2 (extended). AECOM, *Gillies Hall*; Jackson Clements Burrows Architects; Wood Central, *Monash Hybrid-Timber Student Residence*; The Urban Developer, *Monash Uni Taps ADCO*.
-
----
-
-### Sheet 06 — Precedent: Atlassian Central, Sydney (scale, not a direct match)
-
-**Narrative:** This sheet is included deliberately, and framed honestly: Atlassian Central is **not** a direct Hybrid B match, and presenting it as one would be the wrong claim to make. Topping out in July 2026 at 39 storeys and 180 m — the world's tallest hybrid timber tower, surpassing the previous record by almost 100 m — it combines a **concrete core**, a **steel exoskeleton**, and **CLT/glulam "timber habitat" floors** stacked in four-storey modules. The steel exoskeleton is doing real structural work here, not decoration — this is a **three-material hybrid**, closer to a combination of this report's Hybrid A and Hybrid B than to Hybrid B alone. What it does prove: mass timber's structural ceiling, when *some* steel is introduced, extends far beyond what this project needs — useful as an upper bound, not as the model being followed.
-
-| Metric | Atlassian Central |
-|---|---|
-| Height | 39 storeys, ~180 m — world's tallest hybrid timber tower |
-| Structure | Concrete core + **steel exoskeleton** + CLT/glulam floors |
-| Materials used | ~10,000 m³ engineered timber, ~8,000 t structural steel, ~30,000 m³ low-carbon concrete |
-| Embodied carbon target | ~50% reduction vs. a conventional steel/concrete tower |
-| Status | Topped out July 2026; completion late 2026 |
-
-**Why this precedent, honestly:** it shows the outer limit of what hybrid mass timber can reach when steel is added to the mix — genuinely impressive, but a different structural strategy from the one proposed on Sheet 01, and it should be presented as adjacent evidence, not as proof of this project's exact system.
-**Takeaway:** *If asked "could this go taller than proposed," Atlassian is the honest answer — but the answer comes with an asterisk: only with a steel exoskeleton this project doesn't need or propose.*
-
-**Diagram:** Building section/photo placeholder + structural diagram distinguishing concrete core / steel exoskeleton / timber habitat zones.
-**Footer refs:** Dezeen, *World's tallest timber tower tops out in Sydney* (23 July 2026); The Urban Developer; Inside Construction; New Atlas — Atlassian Central, SHoP Architects / BVN.
-
----
-
-### Sheet 07 — Precedent: 25 King Street, Brisbane (facade detail)
-
-**Narrative:** A different kind of evidence to the five sheets before it — this one exists to answer a facade question, not a buildability one. Brisbane — Bates Smart for Lendlease, completed 2018, Australia's tallest engineered timber building at the time. **Concrete is used only at the basement and ground floor**, for damp and termite protection — above that, a glulam column-and-beam frame on a **6 × 8 m grid**, with CLT core walls and floor planks. The facade-relevant move: **diagonal glulam bracing is expressed directly across the building's glazed facades**, providing lateral restraint *and* forming the visible architectural pattern of the elevation at the same time — the brace is not hidden behind a decorative screen, it *is* the facade. At ground level, an exposed glulam v-column colonnade transfers load from the timber grid into the concrete base.
-
-| Metric | 25 King Street |
-|---|---|
-| Height | 10 storeys, 45 m (timber portion) |
-| Grid | 6 × 8 m |
-| Concrete use | Basement + ground floor only |
-| Facade structure | Diagonal glulam bracing, expressed |
-| Ground transfer | Exposed glulam v-column colonnade |
-
-**Why this precedent:** it answers the facade question the Neometro reference raises — how the frame can *be* the elevation, not just be visible through it — with a completed, occupied Australian building.
-**Takeaway:** *The diagonal bracing at 25 King is proof the lateral system and the facade pattern can be the same design decision — the direct precedent for keeping this project's timber structure exposed rather than lined and hidden.*
-
-**Diagram:** Facade elevation detail showing diagonal glulam bracing pattern + ground-floor v-column colonnade transfer to concrete base.
-**Footer refs:** AT1.4 Structural System Report §2 (extended). Bates Smart / Archello; RIBAJ, *Lofty ambitions: 25 King goes up down under*.
-
----
-
-### Sheet 08 — How the materials are made: production process
+### Sheet 02 — How the materials are made: production process
 
 **Narrative:** Understanding how each material is manufactured explains *why* it behaves the way it does structurally. **Concrete** starts with Portland cement — limestone and clay heated to ~1450°C in a kiln, ground with gypsum — mixed with aggregate and water at a batching plant, then either poured in-situ into formwork or cast off-site as precast panels; reinforcing steel gives it the tensile strength plain concrete lacks, and it needs roughly 28 days to reach full design strength. **CLT** starts as kiln-dried softwood boards, planed and graded, layered with each layer rotated 90° to the one beneath it, glued, and pressed into a solid panel — that cross-orientation is what makes it dimensionally stable and able to span two ways. **Glulam** takes the same graded timber but finger-joints boards end-to-end into continuous lengths, then laminates them **all facing the same grain direction** and presses them into a beam or column.
 
@@ -165,7 +46,7 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 | CLT | Boards layered at 90° → glued → pressed → CNC-cut | Flat two-way spanning panel, pre-cut on arrival |
 | Glulam | Boards finger-jointed → laminated one-direction → pressed | Linear beam/column, straight or curved |
 
-**Why this matters:** the manufacturing process is the reason CLT arrives pre-cut and ready to lift while concrete has to cure on site — the construction sequence on Sheet 14 follows directly from this.
+**Why this matters:** the manufacturing process is the reason CLT arrives pre-cut and ready to lift while concrete has to cure on site — the construction sequence on Sheet 08 follows directly from this.
 **Takeaway:** *Every programme and cost advantage claimed for this hybrid traces back to one fact: timber is finished in a factory before it reaches site, concrete is finished on site after it arrives.*
 
 **Diagram:** Three-column process strip — concrete (kiln/batching/pour), CLT (layup/press/CNC), glulam (finger-joint/lamination/press).
@@ -173,7 +54,7 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 
 ---
 
-### Sheet 09 — Forms and shapes each material comes in
+### Sheet 03 — Forms and shapes each material comes in
 
 **Narrative:** The shape a material is supplied in directly constrains what the drawings can do. **Concrete** is the most flexible — in-situ pour takes any formwork shape, precast panels give a more consistent finish, post-tensioning allows a longer podium span without deepening the slab. **CLT** arrives as a flat rectangular panel — typically **2.4–3.0 m wide** (transport-limited), up to **16–18 m long**, in **3, 5, or 7-ply** builds (roughly 90–280 mm+ thick) — supplied pre-cut, with openings and connection pockets already machined in. **Glulam** comes as a linear member that can be dead straight, **cambered**, or genuinely **curved/arched**, because thin lamination layers can be bent before gluing.
 
@@ -183,7 +64,7 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 | CLT | Flat panel, ~2.4–3.0 m wide, up to ~16–18 m long, 3/5/7-ply (~90–280 mm+) |
 | Glulam | Straight · cambered · curved/arched sections |
 
-**Why this matters:** CLT's panel-width limit (transport, not manufacturing) is one of the reasons the studio module and structural grid need to be coordinated early — panel joints have to land somewhere sensible, which is the logic behind the 6.0 m grid on Sheet 12.
+**Why this matters:** CLT's panel-width limit (transport, not manufacturing) is one of the reasons the studio module and structural grid need to be coordinated early — panel joints have to land somewhere sensible, which is the logic behind the 6.0 m grid on Sheet 06.
 **Takeaway:** *The material's shipped form isn't a fabrication detail — CLT's transport-width limit and glulam's ability to curve are both directly shaping the plan and the facade before a single connection is drawn.*
 
 **Diagram:** Sample forms — CLT panel with ply build-up callout, glulam straight/cambered/curved profiles, concrete off-form texture sample.
@@ -191,7 +72,7 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 
 ---
 
-### Sheet 10 — Structural connections: the four details that make it a hybrid
+### Sheet 04 — Structural connections: the four details that make it a hybrid
 
 **Narrative:** A hybrid building is defined by its joints, not just by which two materials appear in it. Four connection types cover every material transition in this scheme: **(1)** the glulam column base has to keep timber end grain off damp concrete permanently, or it rots from the base up; **(2)** the CLT-to-glulam beam junction has to stay visually clean if the soffit is meant to stay exposed; **(3)** the timber floor diaphragm has to physically connect to the concrete core, or wind/seismic load has nowhere to go; **(4)** the transfer level has to resolve two different grids *and* form the fire separation in the same pour. None of these are optional extras.
 
@@ -210,27 +91,27 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 
 ---
 
-### Sheet 11 — Embodied energy comparison
+### Sheet 05 — Embodied energy comparison
 
-**Narrative:** Embodied energy numbers get quoted a lot in mass timber marketing, so it's worth being precise. **Per kilogram**, concrete is genuinely low-carbon (~0.36 kg CO₂e/kg) — the problem is volume: a building uses so much of it that it still ends up the dominant contributor in most whole-building assessments. Structural steel is far higher per kilogram (~3.9–4.3 kg CO₂e/kg), one of the reasons Hybrid A was set aside on Sheet 01, and one of the reasons Atlassian Central (Sheet 06) is presented as adjacent rather than as the model. At the whole-building level, an Australian mid-rise study found mass timber buildings averaging **~417 kg CO₂e/m²** against **~465 kg CO₂e/m²** for an equivalent concrete building, and a separate Australian CLT-vs-RC comparison found roughly **30% GHG savings**. Fenner Hall's built figure — **33%** of an all-concrete equivalent — and Gillies Hall's **~50%** reduction both sit at or beyond that modelled range.
+**Narrative:** Embodied energy numbers get quoted a lot in mass timber marketing, so it's worth being precise. **Per kilogram**, concrete is genuinely low-carbon (~0.36 kg CO₂e/kg) — the problem is volume: a building uses so much of it that it still ends up the dominant contributor in most whole-building assessments. Structural steel is far higher per kilogram (~3.9–4.3 kg CO₂e/kg), one of the reasons Hybrid A was set aside on Sheet 01, and one of the reasons Atlassian Central (Sheet 14) is presented as adjacent rather than as the model. At the whole-building level, an Australian mid-rise study found mass timber buildings averaging **~417 kg CO₂e/m²** against **~465 kg CO₂e/m²** for an equivalent concrete building, and a separate Australian CLT-vs-RC comparison found roughly **30% GHG savings**. Fenner Hall's built figure (Sheet 10) — **33%** of an all-concrete equivalent — and Gillies Hall's **~50%** reduction (Sheet 13) both sit at or beyond that modelled range.
 
 | Material / project | Embodied carbon | Basis |
 |---|---|---|
 | Concrete | ~0.36 kg CO₂e/kg | Low per-kg, high volume in this hybrid |
 | Structural steel | ~3.9–4.3 kg CO₂e/kg | Australian material factors |
 | Mass timber building (whole-building, modelled) | ~417 kg CO₂e/m² (mean) | Australian mid-rise uncertainty study |
-| Fenner Hall (built, audited) | ~33% of all-concrete equivalent | Real completed building |
-| Gillies Hall (built, audited) | ~50% of equivalent concrete structure | Real completed building |
+| Fenner Hall (built, audited) | ~33% of all-concrete equivalent | Real completed building — Sheet 10 |
+| Gillies Hall (built, audited) | ~50% of equivalent concrete structure | Real completed building — Sheet 13 |
 
-**Why this matters:** the honest claim for this hybrid is "substantially lower than an all-concrete building," not "carbon neutral" — and now there are two independent built Australian student-housing figures (Fenner Hall, Gillies Hall) to point to, not just one modelled study.
-**Takeaway:** *Lead with the built numbers — 33% and roughly 50% — not the modelled range; two real buildings beat one study in a crit.*
+**Why this matters:** the honest claim for this hybrid is "substantially lower than an all-concrete building," not "carbon neutral" — and the two built figures referenced above (introduced properly on Sheets 10 and 13) back this modelled range up with real numbers.
+**Takeaway:** *Lead with the built numbers — 33% and roughly 50% — not the modelled range; a real building beats a study every time in a crit.*
 
 **Diagram:** Bar chart — kg CO₂e/m² mass timber vs. concrete building, plus Fenner Hall/Gillies Hall built figures marked against it.
 **Footer refs:** AT1.4 Structural System Report §6. Certified Energy, Australian material factors; Jayalath et al., CLT vs. RC Australian LCA.
 
 ---
 
-### Sheet 12 — Span report: why this grid, and why it's the efficient choice
+### Sheet 06 — Span report: why this grid, and why it's the efficient choice
 
 **Narrative:** This sheet answers a question directly, with data instead of a round number: **why 6.0 m, and is it actually the cheap/efficient choice?** Floor spans are almost always governed by **vibration**, not strength, and a 7-ply CLT panel tops out around 6.1–6.4 m before vibration governs — so 6.0 m sits right at that practical ceiling, the widest span achievable without stepping up panel thickness or adding an intermediate beam. Separately, published cost-per-span studies show cost rising almost linearly with span in a single-span layout, but an actual **cost-optimum appears near a ~7.3 m square bay with one secondary beam** — smaller grids are consistently cheaper once beam depth is accounted for. Both data sets point the same direction: **6.0 m is inside CLT's efficient span range and on the cheap side of the cost curve.**
 
@@ -254,7 +135,7 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 
 ---
 
-### Sheet 13 — Mass timber acoustic detailing
+### Sheet 07 — Mass timber acoustic detailing
 
 **Narrative:** Mass timber's biggest structural advantage — being light — is also its acoustic weakness, because sound transmission is **mass-driven**. This matters directly on a Class 3 building, where privacy between unrelated student occupants is both an NCC requirement (Part F7) and a basic liveability expectation. The baseline floor assembly keeps the timber soffit exposed below while doing the acoustic work above: finish floor, topping screed, resilient acoustic mat, then the CLT panel. The **code-minimum** airborne rating (STC 50) needs roughly 100 mm of buildup above the CLT; a **higher-performance** target (~STC 58) needs closer to 195 mm — almost double the depth. **Flanking sound** — noise travelling around a junction rather than through the panel — is a known, still-researched limitation of rigid CLT connections.
 
@@ -271,9 +152,9 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 
 ---
 
-### Sheet 14 — Construction sequence: how it's actually built
+### Sheet 08 — Construction sequence: how it's actually built
 
-**Narrative:** The programme benefit claimed for this hybrid is only credible if the build order is stated explicitly. **(1)** Foundations and the RC podium go first — conventional and critical-path. **(2)** The RC core climbs ahead, jump-formed, as both lateral bracing and construction access. **(3)** The transfer slab/beams are cast once the podium cures — where the grid resolves and the fire separation forms. **(4)** The timber tower erects **storey by storey** — pre-cut glulam and CLT craned in dry, each storey forming the platform for the next. **(5)** Envelope and fit-out follow only a few storeys behind. The honest summary: the podium is no faster than a conventional podium — the speed gain is entirely in the tower, exactly as Brock Commons (Sheet 04) demonstrated.
+**Narrative:** The programme benefit claimed for this hybrid is only credible if the build order is stated explicitly. **(1)** Foundations and the RC podium go first — conventional and critical-path. **(2)** The RC core climbs ahead, jump-formed, as both lateral bracing and construction access. **(3)** The transfer slab/beams are cast once the podium cures — where the grid resolves and the fire separation forms. **(4)** The timber tower erects **storey by storey** — pre-cut glulam and CLT craned in dry, each storey forming the platform for the next. **(5)** Envelope and fit-out follow only a few storeys behind. The honest summary: the podium is no faster than a conventional podium — the speed gain is entirely in the tower, exactly as Brock Commons (Sheet 12) demonstrated.
 
 | Step | What happens | Speed characteristic |
 |---|---|---|
@@ -291,7 +172,7 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 
 ---
 
-### Sheet 15 — First Nations materials, suppliers, and construction methods
+### Sheet 09 — First Nations materials, suppliers, and construction methods
 
 **Narrative:** Treated as a genuine procurement and design decision, carried forward into the **AT3 Project Portfolio**. **Supply Nation** certifies businesses at least 51% Aboriginal or Torres Strait Islander owned, managed, and controlled — the practical starting point for civil, joinery, and project-services trades on this project. Contemporary practice is already exploring Aboriginal bush materials in built architecture, not just as ornament but as construction input. At industrial scale, the **Tiwi Forestry Project** (NT) shows Indigenous-led commercial forestry already funding real infrastructure. At the delivery end, **Intract Indigenous Contractors** (51% Indigenous-owned) delivers civil work today, and suppliers such as **Gambarra Building Supplies** are worth verifying for Supply Nation certification as the project develops. The honest gap: **no large-volume Indigenous-owned CLT or glulam mill currently supplies Victoria** — the realistic response is certified subcontractors wherever the chain allows, plus genuine engagement with the **Wurundjeri Woi-wurrung Cultural Heritage Aboriginal Corporation** from schematic design onward.
 
@@ -311,9 +192,128 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 
 ---
 
+### Sheet 10 — Precedent: Fenner Hall, ANU Kambri Precinct
+
+**Narrative:** Having gone through how this system is made, connected, and engineered (Sheets 02–09), this is where the folio turns to proof it's actually been built. Canberra — 450 rooms across two CLT towers, delivered by Lendlease, completed 2019 — the **first CLT student residence built in Australia**. Structurally this is Hybrid B in its purest form, with no steel exoskeleton and no compromise material: a **two-storey concrete plinth forms the podium**, and **CLT walls rise directly from it** to form the primary structure of every student room above. The measurable outcomes worth leading with: CLT construction cut the build programme by roughly **30%** (compare Sheet 08's construction sequence), and the finished building used approximately **33% of the embodied carbon** of an equivalent all-concrete scheme — a real, audited figure, already referenced on Sheet 05.
+
+| Metric | Fenner Hall |
+|---|---|
+| Scale | 450 rooms, 2 CLT towers |
+| Structure | 2-storey concrete plinth + CLT walls above — **no steel exoskeleton** |
+| Programme saving | ~30% vs. conventional construction |
+| Embodied carbon | ~33% of an equivalent all-concrete building |
+| Significance | First CLT student residence built in Australia |
+
+**Why this precedent leads the set:** it is the closest structural match to this project of any building researched — concrete base, timber tower, nothing else — built at national scale, for the exact typology (student accommodation) this brief requires.
+**Takeaway:** *This is the sheet that answers "has Hybrid B, exactly as proposed and just explained in Sheets 02–09, actually been built for student housing in Australia?" — yes, and it cut both carbon and programme by roughly a third.*
+
+**Diagram:** Section showing concrete plinth-to-CLT-tower transition, callout to embodied carbon/programme figures.
+**Footer refs:** AT1.4 Structural System Report §2 (extended). ArchitectureAU, *Kambri at ANU*; Make It Wood, Fenner Hall exemplar project.
+
+---
+
+### Sheet 11 — Precedent: La Trobe University Student Accommodation
+
+**Narrative:** Bundoora, Melbourne — two six-level buildings, 624 beds, designed by Jackson Clements Burrows Architects, built by Multiplex — the largest mass timber project in Victoria by volume at the time of completion. Over 75% of the gross floor/roof area and over 90% of loadbearing walls and columns are CLT and glulam, with concrete and steel handling only the transfer level and service cores — the same Hybrid B split proposed here (Sheet 01), at nearly triple Fenner Hall's scale. Supplied by the **same Victorian CLT/glulam manufacturing base** (Wodonga CLT, Victorian glulam) referenced on Sheet 02, so the supply-chain question isn't hypothetical — it's already answered by a completed, occupied building in the same city.
+
+| Metric | La Trobe Student Accommodation |
+|---|---|
+| Scale | 624 beds, 2 × 6-level buildings |
+| CLT/glulam share | 75%+ of floor/roof area, 90%+ of walls/columns |
+| Location | Bundoora, Melbourne — same city as this site |
+| Supply chain | Same Victorian CLT/glulam base referenced on Sheet 02 |
+| Rating | 5-Star Green Star design |
+
+**Why this precedent:** it removes the "can this actually be sourced and built here" doubt — same city, same supply chain, same student accommodation typology, already delivered at nearly triple the scale of Fenner Hall.
+**Takeaway:** *This isn't an idea being imported from elsewhere — the exact material supply chain explained on Sheet 02 already built 624 beds twenty minutes from this site.*
+
+**Diagram:** Building section/photo placeholder + structural diagram callout, facade material palette referencing site's landscape context.
+**Footer refs:** AT1.4 Structural System Report §2. Jackson Clements Burrows Architects.
+
+---
+
+### Sheet 12 — Precedent: Brock Commons Tallwood House
+
+**Narrative:** University of British Columbia, Vancouver — 18 storeys, ~53 m, completed 2017 — the tallest mass timber building in the world at the time. Designed by Acton Ostry Architects, using the same core logic as Sheets 10–11: a **concrete core** for lateral stability and fire-isolated egress, **glulam columns** carrying gravity load storey to storey, **CLT floor panels** spanning between them as both structure and the fire-rated diaphragm — **no steel exoskeleton**. Built as **student residence** for UBC, the same typology this brief requires. Once the timber structure started, it was erected by a crew of only nine installers in roughly 70 days — the figure quoted on Sheet 08's construction sequence, real, published, and verifiable.
+
+| Metric | Brock Commons |
+|---|---|
+| Height | 18 storeys, ~53 m |
+| Structure | RC core + glulam columns + CLT floors — no steel exoskeleton |
+| Typology | Student residence (UBC) |
+| Erection time (timber structure) | ~70 days, crew of 9 |
+| Completed | 2017 |
+
+**Why this precedent:** after two Australian examples at low-to-mid rise, this is the evidence that the *same, unmodified* system — no steel exoskeleton added — comfortably reaches 18 storeys internationally.
+**Takeaway:** *Fenner Hall and La Trobe prove Hybrid B works here; Brock Commons proves the same system, unchanged, reaches genuine height elsewhere — before Sheet 14 shows what happens when steel is added on top of it.*
+
+**Diagram:** Building section/photo placeholder + structural diagram callout (core/columns/floors labelled).
+**Footer refs:** AT1.4 Structural System Report §2. Acton Ostry Architects / UBC.
+
+---
+
+### Sheet 13 — Precedent: Monash University — two generations of CLT student housing
+
+**Narrative:** Melbourne — Monash has committed to CLT student housing twice, which matters more than either building alone: it shows the decision wasn't a one-off. **Gillies Hall** (Peninsula campus, completed 2019, Jackson Clements Burrows) is a 150-room, five-storey CLT building that also achieved **Passive House certification** — at the time, Australia's largest combination of CLT structure and Passive House performance — with the CLT panels alone roughly **halving embodied carbon** compared to an equivalent concrete structure, the figure referenced on Sheet 05. Monash then repeated the approach at greater scale: a **252-bed, six-storey hybrid CLT residence** at the Clayton campus, designed again by Jackson Clements Burrows and now under construction by ADCO, having broken ground in August 2025. *(Note: the Grimshaw case study originally supplied for this precedent documents Monash's Woodside Building — a separate, steel-framed academic building, not a student residence — so it isn't used as evidence here; Gillies Hall and the Clayton project are the correct, verified precedents.)*
+
+| Metric | Gillies Hall (built, 2019) | Clayton Residence (under construction) |
+|---|---|---|
+| Scale | 150 rooms, 5 storeys | 252 beds, 6 storeys, 7,500 m² |
+| Structure | CLT + Passive House certified | Hybrid CLT (concrete/steel transfer, per Hybrid B logic) |
+| Embodied carbon | ~50% of equivalent concrete structure | Not yet published |
+| Status | Complete, occupied | Broke ground Aug 2025, ADCO delivering |
+
+**Why this precedent:** one built, one currently rising — together they show an Australian university returning to Hybrid B for student housing a second time, at greater scale, which is a stronger buildability signal than a single project.
+**Takeaway:** *When a client repeats a structural strategy on their next building rather than reverting to concrete, that's the client behaving as its own case study — Monash did exactly that.*
+
+**Diagram:** Two-panel comparison — Gillies Hall completed photo/section, Clayton residence construction progress/rendering.
+**Footer refs:** AT1.4 Structural System Report §2 (extended). AECOM, *Gillies Hall*; Jackson Clements Burrows Architects; Wood Central, *Monash Hybrid-Timber Student Residence*; The Urban Developer, *Monash Uni Taps ADCO*.
+
+---
+
+### Sheet 14 — Precedent: Atlassian Central, Sydney (scale, not a direct match)
+
+**Narrative:** This sheet is included deliberately, and framed honestly: Atlassian Central is **not** a direct Hybrid B match, and presenting it as one would be the wrong claim to make. Topping out in July 2026 at 39 storeys and 180 m — the world's tallest hybrid timber tower, surpassing the previous record by almost 100 m — it combines a **concrete core**, a **steel exoskeleton**, and **CLT/glulam "timber habitat" floors** stacked in four-storey modules. The steel exoskeleton is doing real structural work here, not decoration — this is a **three-material hybrid**, closer to a combination of this report's Hybrid A and Hybrid B (Sheet 01) than to Hybrid B alone. What it does prove: mass timber's structural ceiling, when *some* steel is introduced, extends far beyond what this project needs — useful as an upper bound, not as the model being followed.
+
+| Metric | Atlassian Central |
+|---|---|
+| Height | 39 storeys, ~180 m — world's tallest hybrid timber tower |
+| Structure | Concrete core + **steel exoskeleton** + CLT/glulam floors |
+| Materials used | ~10,000 m³ engineered timber, ~8,000 t structural steel, ~30,000 m³ low-carbon concrete |
+| Embodied carbon target | ~50% reduction vs. a conventional steel/concrete tower |
+| Status | Topped out July 2026; completion late 2026 |
+
+**Why this precedent, honestly:** it shows the outer limit of what hybrid mass timber can reach when steel is added to the mix — genuinely impressive, but a different structural strategy from the one proposed on Sheet 01, and it should be presented as adjacent evidence, not as proof of this project's exact system.
+**Takeaway:** *If asked "could this go taller than proposed," Atlassian is the honest answer — but the answer comes with an asterisk: only with a steel exoskeleton this project doesn't need or propose.*
+
+**Diagram:** Building section/photo placeholder + structural diagram distinguishing concrete core / steel exoskeleton / timber habitat zones.
+**Footer refs:** Dezeen, *World's tallest timber tower tops out in Sydney* (23 July 2026); The Urban Developer; Inside Construction; New Atlas — Atlassian Central, SHoP Architects / BVN.
+
+---
+
+### Sheet 15 — Precedent: 25 King Street, Brisbane (facade detail)
+
+**Narrative:** A different kind of evidence to the five sheets before it — this one exists to answer a facade question, not a buildability one. Brisbane — Bates Smart for Lendlease, completed 2018, Australia's tallest engineered timber building at the time. **Concrete is used only at the basement and ground floor**, for damp and termite protection — above that, a glulam column-and-beam frame on a **6 × 8 m grid**, with CLT core walls and floor planks. The facade-relevant move: **diagonal glulam bracing is expressed directly across the building's glazed facades**, providing lateral restraint *and* forming the visible architectural pattern of the elevation at the same time — the brace is not hidden behind a decorative screen, it *is* the facade. At ground level, an exposed glulam v-column colonnade transfers load from the timber grid into the concrete base.
+
+| Metric | 25 King Street |
+|---|---|
+| Height | 10 storeys, 45 m (timber portion) |
+| Grid | 6 × 8 m |
+| Concrete use | Basement + ground floor only |
+| Facade structure | Diagonal glulam bracing, expressed |
+| Ground transfer | Exposed glulam v-column colonnade |
+
+**Why this precedent:** it answers the facade question the Neometro reference raises — how the frame can *be* the elevation, not just be visible through it — with a completed, occupied Australian building, and closes out the precedent block (Sheets 10–15) before the folio turns to NCC compliance.
+**Takeaway:** *The diagonal bracing at 25 King is proof the lateral system and the facade pattern can be the same design decision — the direct precedent for keeping this project's timber structure exposed rather than lined and hidden.*
+
+**Diagram:** Facade elevation detail showing diagonal glulam bracing pattern + ground-floor v-column colonnade transfer to concrete base.
+**Footer refs:** AT1.4 Structural System Report §2 (extended). Bates Smart / Archello; RIBAJ, *Lofty ambitions: 25 King goes up down under*.
+
+---
+
 ### Sheet 16 — What is this building under the NCC?
 
-**Narrative:** Classification in the NCC follows **use**, not appearance. This is a mixed building: **Class 3** student lodging above **Class 6** retail, each classified separately under **A6G1**. Class 3 (**A6G4**) covers long-term or transient accommodation for unrelated persons — a hostel or lodging house, not a Class 2 apartment building, which is the load-bearing constraint for this project. The evidence is programmatic: a shared, managed communal kitchen of 120–150 m², studios of 15–25 m² with ensuite, and shared laundry, gym, and study facilities.
+**Narrative:** With the structural system explained in depth (Sheets 01–09) and proven built (Sheets 10–15), the folio now turns to NCC compliance. Classification follows **use**, not appearance. This is a mixed building: **Class 3** student lodging above **Class 6** retail, each classified separately under **A6G1**. Class 3 (**A6G4**) covers long-term or transient accommodation for unrelated persons — a hostel or lodging house, not a Class 2 apartment building, which is the load-bearing constraint for this project. The evidence is programmatic: a shared, managed communal kitchen of 120–150 m², studios of 15–25 m² with ensuite, and shared laundry, gym, and study facilities.
 
 | Classification | Basis | Evidence in this design |
 |---|---|---|
@@ -335,7 +335,7 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 
 | NCC issue | Consequence | Where resolved |
 |---|---|---|
-| Fire separation | Rated separation Class 6 ↔ Class 3 | Sheet 10, Sheet 19 |
+| Fire separation | Rated separation Class 6 ↔ Class 3 | Sheet 04, Sheet 19 |
 | Sprinklers | Class 3, 2+ storeys → sprinklers throughout | Sheet 19 |
 | D1 | Minimum 2 fire-isolated exits | Sheet 18 |
 | B1/2.1 | Structure + FRL support the fire strategy | Sheet 19 |
@@ -351,7 +351,7 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 
 ### Sheet 18 — Escape (D1) with typical floor plan
 
-**Narrative:** The plan is organised around escape before fire spread, drawn on the same 6.0 m structural grid established on Sheet 12. With roughly 20 rooms per floor, the numbers push toward **two fire-isolated stairs**, positioned so travel and dead-end distances both stay inside limit: exits at minimum 1000 mm width, corridors 1.8–2.0 m, plus the project brief's own 10% fire/duct services allowance. Because the stairs sit inside the RC core (Sheet 01), their location is fixed by the structural decision made there — structure and egress were resolved together, not sequentially.
+**Narrative:** The plan is organised around escape before fire spread, drawn on the same 6.0 m structural grid established on Sheet 06. With roughly 20 rooms per floor, the numbers push toward **two fire-isolated stairs**, positioned so travel and dead-end distances both stay inside limit: exits at minimum 1000 mm width, corridors 1.8–2.0 m, plus the project brief's own 10% fire/duct services allowance. Because the stairs sit inside the RC core (Sheet 01), their location is fixed by the structural decision made there — structure and egress were resolved together, not sequentially.
 
 | Requirement | Value |
 |---|---|
@@ -381,7 +381,7 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 | Char-design / encapsulation | CLT and glulam | Meets FRL while keeping timber visible |
 | RC podium | Retail/transfer level | Naturally satisfies separation |
 
-**Why this matters:** char-design is the specific mechanism that lets this project keep the exposed timber aesthetic set out on Sheets 02–07 while still meeting the NCC.
+**Why this matters:** char-design is the specific mechanism that lets this project keep the exposed timber aesthetic set out on Sheets 10–15 while still meeting the NCC.
 **Takeaway:** *The exposed CLT soffits and glulam columns shown throughout this set are only NCC-compliant because of the char-design calculation on this sheet.*
 
 **Diagram:** Section — RC podium | timber tower | char layer callout | sprinkler zone.
@@ -400,7 +400,7 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 | Accessible gradient | — | 1:20 (AS 1428.1) |
 | Clear door width | Standard | ≥850 mm |
 
-**Why this matters:** the DDA studio sitting on the same grid as every other studio proves the grid chosen on Sheet 12 is flexible enough to absorb the hardest planning case in the building.
+**Why this matters:** the DDA studio sitting on the same grid as every other studio proves the grid chosen on Sheet 06 is flexible enough to absorb the hardest planning case in the building.
 **Takeaway:** *The DDA studio isn't an exception to the grid — it's evidence the 6.0 m grid works for the hardest case, not just the easy one.*
 
 **Diagram:** DDA room plan + ensuite wet-area hatch, on the 6.0 m structural grid.
@@ -410,17 +410,19 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 
 ### Sheet 21 — Whole-building summary
 
-**Narrative:** This closing sheet shows the whole argument as one connected system. The building is mixed **Class 3/Class 6** (Sheet 16); Hybrid B — RC podium/core/transfer with CLT and glulam floors above on a **6.0 m grid** — is the structural **means** of meeting that classification. Escape works through dual stairs inside the same core doing the lateral structural work; fire performance comes from sprinklers, compartmentation, and char-designed exposed timber; amenity comes from F2, Part 10.2, AS 1428.1, and the acoustic buildup; embodied energy is honestly stated as substantially reduced, backed by two real built figures (Fenner Hall 33%, Gillies Hall ~50%); procurement carries First Nations engagement into AT3; and six precedents — ordered from closest structural match to furthest — carry the buildability argument from a 150-room Passive House residence right through to a 39-storey commercial tower.
+**Narrative:** This closing sheet shows the whole argument as one connected system. The building is mixed **Class 3/Class 6** (Sheet 16); Hybrid B — RC podium/core/transfer with CLT and glulam floors above on a **6.0 m grid** — is the structural **means** of meeting that classification (Sheet 01), explained in depth across Sheets 02–09, and proven built across Sheets 10–15. Escape works through dual stairs inside the same core doing the lateral structural work; fire performance comes from sprinklers, compartmentation, and char-designed exposed timber; amenity comes from F2, Part 10.2, AS 1428.1, and the acoustic buildup; embodied energy is honestly stated as substantially reduced, backed by two real built figures (Fenner Hall 33%, Gillies Hall ~50%); procurement carries First Nations engagement into AT3.
 
 | Part | Response | Evidence sheet |
 |---|---|---|
+| Structure | Hybrid B — RC podium/core + CLT/glulam tower, 6.0 m grid | 01, 04, 06 |
+| Material/connections | Production, forms, connections, acoustics, sequence | 02–04, 07–08 |
+| First Nations | Procurement + engagement pathway | 09 |
+| Precedent | Six buildings, closest-match first | 10–15 |
 | A6 classification | Class 3 tower + Class 6 retail | 16 |
 | D1 escape | Dual stairs inside structural core | 18 |
 | C/B1 fire | RC podium; char-designed timber | 19 |
-| F2/10.2/F7 amenity | Ensuites + communal; waterproof; acoustic buildup | 13, 20 |
+| F2/10.2/F7 amenity | Ensuites + communal; waterproof; acoustic buildup | 07, 20 |
 | AS 1428.1 access | DDA 1:20, standard grid | 20 |
-| Structure | Hybrid B — RC podium/core + CLT/glulam tower, 6.0 m grid | 01, 10, 12 |
-| Precedent | Six buildings, closest-match first | 02–07 |
 
 **Why this matters:** a reviewer's strongest question is usually "does this all fit together, or is it separate good ideas stapled to one section?" — this sheet is the direct, cross-referenced answer.
 **Takeaway:** *Every system on this final sheet traces back to one decision on Sheet 01 — everything since has been demonstrating that decision was correct, not making new ones.*
@@ -432,10 +434,10 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 
 ## Claude Design prompt
 
-**Use the prompt in `docs/AT1.4-week2-image-sourcing-guide.md`** (not duplicated here) — it includes the image upload workflow, which is required for Claude Design to actually show real precedent photos instead of blank placeholders. Read that file's top section first: Claude Design can't fetch images from the internet on its own, so the guide sets out exactly how to get real photos into the folio before you paste the prompt.
+**Use the prompt in `docs/AT1.4-week2-image-sourcing-guide.md`** — it includes the image upload workflow, which is required for Claude Design to actually show real precedent photos instead of blank placeholders. That file has been renumbered to match this new sheet order; read its top section first.
 
 ---
 
 ## Still open
 
-**Grid — still locked at 6.0 m**, now referenced on Sheets 01, 12, 18, 20, 21.
+**Grid — still locked at 6.0 m**, now referenced on Sheets 01, 03, 06, 18, 20, 21.
