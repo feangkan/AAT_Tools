@@ -17,7 +17,7 @@ Re-searched fresh for this pass, in sheet order, so this list matches the curren
 
 | Sheet | Needs a photo? | Status |
 |---|---|---|
-| **0 — Why mass timber** | Optional reference | No photo needed — icon strip (speed/weight/carbon/wellbeing/fire/efficiency), Claude Design can build this as simple iconography rather than sourcing photos for six separate concepts |
+| **0 — Why mass timber** | Optional reference | ✅ Found — naturallywood's "what is mass timber" infographic (clean icon-style reference for the six-benefit strip) + a biophilic interior photo (Think Wood, "Benefits of Wood Construction") if you want one benefit shown as a real photo rather than an icon |
 | 01 — Hybrid B overview | Optional reference | ✅ Found — WoodWorks "Mass Timber Buildings on a Podium" is a strong match |
 | 02 — Material production | Yes | ✅ Found — Kallesoe/Ledinek CLT press lines |
 | 03 — Forms/shapes | Optional reference | ✅ Found — VCE Publications CLT ply diagram |
@@ -113,9 +113,12 @@ These are the specific images I located for the five real-building precedent she
 
 ---
 
-## Reference images for technical/diagram sheets (01–09, 16–21)
+## Reference images for technical/diagram sheets (0–09, 16–21)
 
 These aren't source photos to reproduce as-is — they're **reference material** to give Claude Design something concrete to work from when it draws each sheet's schematic (rather than inventing a diagram from a text description alone).
+
+- **Sheet 0 — Why mass timber** — "mass timber benefits infographic icons sustainability speed wellbeing" · "exposed CLT timber ceiling interior biophilic student residence"
+  **My comment:** two different options here depending on how you want this sheet to read. The naturallywood "what is mass timber" infographic result is a clean, already-iconified reference — useful if you want the six-benefit strip to look like simple pictograms (speed/weight/carbon/wellbeing/fire/efficiency), which suits a sheet that's making six distinct small points rather than one big argument. Alternatively, Think Wood's "Benefits of Wood Construction" page has real interior photography showing exposed CLT — if you'd rather lead with one strong photo (for the "biophilic wellbeing" point specifically, since that's the hardest benefit to convey as an icon) and handle the other five as small icons or a text list, that's a legitimate alternative layout. I'd lean toward the icon-strip approach since this sheet's job is to be a fast map to the rest of the folio, not a standalone visual statement — save the strongest single photo moment for Sheet 10 (Fenner Hall) instead, where a real building carries more weight than an interior stock shot.
 
 - **Sheet 01 — Hybrid B overview** — search "concrete podium mass timber tower building section"
   **My comment:** better result this time than my earlier pass — WoodWorks' "Mass Timber Buildings on a Podium" is a purpose-written industry piece on exactly this condition (concrete podium + timber tower), likely to have a genuinely relevant diagram rather than a loosely-related stock photo. Worth using over a generic drawn section if the diagram is clean.
