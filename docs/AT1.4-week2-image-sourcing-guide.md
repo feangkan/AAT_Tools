@@ -67,6 +67,27 @@ These are the specific images I located for the five real-building precedent she
 
 ---
 
+## Reference images for technical/diagram sheets (01, 08–21)
+
+These aren't source photos to reproduce as-is — they're **reference material** to give Claude Design something concrete to work from when it draws each sheet's schematic (rather than inventing a diagram from a text description alone). Search these terms yourself if you want to see and save specific images; I've noted what came up and where it's useful.
+
+| Sheet | Search terms that return useful reference images | What to use it for |
+|---|---|---|
+| **01** — Hybrid B overview | "mixed use building podium tower concrete base commercial retail section" | General podium/tower massing reference — not this project's exact building, just a reference for how a concrete-base/tower-above section reads |
+| **08** — Material production | "CLT cross laminated timber manufacturing factory production line" (Ledinek, Kallesoe Machinery show real CLT press lines) · "glulam beam finger joint lamination press manufacturing" (Ledinek, AJ Laminated Beams) · "concrete batching plant pour construction site" | Real manufacturing photos for the 3-column process strip — genuinely improves on a pure schematic since these show actual machinery |
+| **09** — Forms/shapes | "CLT panel cross section layers ply thickness" (VCE Publications fact sheet has a clean ply diagram) | Reference for drawing the ply-layer cross-section accurately |
+| **10** — Connections | "glulam column steel base plate connection detail timber" · "CLT to glulam beam concealed steel connector timber construction" (Simpson Strong-Tie, Knapp Connectors show real concealed connector hardware) | Real connector hardware photos — useful for making the 1:5 details look technically credible rather than generic |
+| **13** — Acoustics | "mass timber floor acoustic assembly section resilient layer" | Reference for the layered section — several hits show real assembly cutaways |
+| **14** — Construction sequence | "mass timber building construction crane erecting CLT panels storey" (Think Wood has good sequence photography) | Real erection-in-progress photos for the timber tower step |
+| **15** — First Nations | "Australian native forest timber plantation harvest sustainable" | General reference only — be careful not to imply a specific Indigenous-owned operation without verifying it first; better to keep this sheet's diagram as a drawn flowchart rather than a stock photo, to avoid misattribution |
+| **16** — NCC classification | Same podium/tower reference as Sheet 01 | General massing reference |
+| **19** — Fire resistance | "CLT char layer fire test cross laminated timber burn" (Timber iQ has real fire-test photography showing char depth) | Genuinely useful — a real char-test photo makes the char-design explanation on this sheet much more credible than a drawn diagram alone |
+| **20** — F2/DDA | "DDA accessible bathroom wheelchair turning circle design" | Reference for drawing the turning circle and clearances accurately |
+
+**Sheets 11, 12, 17, 18, 21 have no useful photo reference** — these are data charts (11, 12), a compliance flow diagram (17), a project-specific floor plan (18), and a project-specific axonometric (21). Claude Design should build these directly from the data/description in the build spec; searching for stock images would add noise, not accuracy.
+
+---
+
 ## Updated Claude Design prompt (paste as-is)
 
 ```
