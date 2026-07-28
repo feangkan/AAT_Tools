@@ -88,3 +88,28 @@ A working collection of mass timber links, studies, and precedents found during 
 
 *(Frank, paste your finds in this section — I'll move them into categories as they accumulate)*
 
+
+---
+
+## Recently added (Frank's finds)
+
+### CLT — Technical/Product Info
+- [Stora Enso CLT Building Products](https://www.storaenso.com/en/products/mass-timber-construction/building-products/clt) — CLT manufacturer product specs, technical guidance
+
+### Australian Mass Timber Precedents — Student Accommodation
+
+#### Hybrid timber student housing (built/underway)
+- [La Trobe University Student Accommodation](https://www.multiplex.global/) — Multiplex completion, Victoria's largest mass timber project by volume (referenced AT1.4 Sheet 03)
+- [Monash University Hybrid Timber Student Residence](https://woodcentral.com.au/monash-to-begin-work-on-new-hybrid-timber-student-residence/) — Adco architects, hybrid mass timber + concrete student housing, currently in development — directly aligned to this project's typology and Hybrid B strategy
+- [Grimshaw Sustainability Case Study — Monash](https://grimshaw.global/sustainability/monash-case-study/) — Design and sustainability outcomes for Monash hybrid timber student project
+
+#### International precedent (facade/massing interest)
+- [Tietgen Dormitory](https://www.archdaily.com/474237/tietgen-dormitory-lundgaard-and-tranberg-architects) — Copenhagen, Lundgaard & Tranberg Architects — innovative facade language and student housing typology (precedent for exposed structure as architectural expression)
+
+### Indigenous / First Nations Materials & Suppliers
+- [Architecture AU — Aboriginal Bush Materials in Contemporary Architecture](https://architectureau.com/articles/Aboriginal-bush-materials-in-contemporary-architecture/) — Contemporary architectural practice using First Nations materials (relevant to AT1.4 §8, §13, and AT3 First Nations pathway)
+- [Gambarra Building Supplies](https://gambarrabuildingssupplies.com.au/) — Indigenous-owned building materials supplier (Check Supply Nation certification status)
+
+### Structural Connections
+- [NACHI — Lateral Load Connections](https://www.nachi.org/gallery/framing-2/lateral-load-connection) — Lateral connection detailing reference (supports AT1.4 Sheet 08 connection details)
+
