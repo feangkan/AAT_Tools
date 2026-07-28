@@ -100,8 +100,10 @@ A working collection of mass timber links, studies, and precedents found during 
 
 #### Hybrid timber student housing (built/underway)
 - [La Trobe University Student Accommodation](https://www.multiplex.global/) — Multiplex completion, Victoria's largest mass timber project by volume (referenced AT1.4 Sheet 03)
-- [Monash University Hybrid Timber Student Residence](https://woodcentral.com.au/monash-to-begin-work-on-new-hybrid-timber-student-residence/) — Adco architects, hybrid mass timber + concrete student housing, currently in development — directly aligned to this project's typology and Hybrid B strategy
-- [Grimshaw Sustainability Case Study — Monash](https://grimshaw.global/sustainability/monash-case-study/) — Design and sustainability outcomes for Monash hybrid timber student project
+- [Monash University Hybrid Timber Student Residence (Clayton)](https://woodcentral.com.au/monash-to-begin-work-on-new-hybrid-timber-student-residence/) — Adco builder, Jackson Clements Burrows architect, 252 beds, 6 storeys, groundbreaking Aug 2025, under construction (referenced AT1.4 Sheet 05)
+- [Monash Uni Taps ADCO for 252-Bed Hybrid Timber Build](https://www.theurbandeveloper.com/articles/monash-uni-taps-adco-for-252-bed-hybrid-timber-build) — Same Clayton project, additional detail
+- Gillies Hall, Monash Peninsula campus — 150 rooms, 5 storeys, CLT + Passive House certified, completed 2019, largest CLT/Passive House combination in Australia at the time (referenced AT1.4 Sheet 05)
+- **Correction:** [Grimshaw's Monash Woodside Building case study](https://grimshaw.global/sustainability/monash-case-study/) documents a *different* Monash building — a steel-framed academic/teaching facility, not student accommodation and not a concrete+timber hybrid. Not used as evidence for the timber student residence precedent.
 
 #### International precedent (facade/massing interest)
 - [Tietgen Dormitory](https://www.archdaily.com/474237/tietgen-dormitory-lundgaard-and-tranberg-architects) — Copenhagen, Lundgaard & Tranberg Architects — innovative facade language and student housing typology (precedent for exposed structure as architectural expression)
