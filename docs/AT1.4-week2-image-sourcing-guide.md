@@ -53,15 +53,28 @@ Claude Design **cannot autonomously search the internet and pull photos into a d
 
 ## Precedent photo links (direct — for downloading now)
 
-These are the specific images I located for the five real-building precedent sheets. Open each, save the image, and follow the upload workflow above.
+These are the specific images I located for the five real-building precedent sheets, with my notes on each.
 
-- **Fenner Hall:** https://www.indeawards.com/ (search "Fenner Hall") · https://makeitwood.org/
-- **La Trobe:** search "Jackson Clements Burrows La Trobe student accommodation" on architectureau.com
-- **Brock Commons:** https://mercermasstimber.com/ (search "Brock Commons Tallwood House")
-- **Monash — Gillies Hall:** https://aecom.com/projects/gillies-hall-student-accommodation-peninsula-campus-monash-university-victoria-australia/
-- **Monash — Clayton (under construction):** https://woodcentral.com.au/monash-to-begin-work-on-new-hybrid-timber-student-residence/
-- **Atlassian Central:** https://newatlas.com/architecture/atlassian-central-timber-tower-tops-out/ · https://www.dezeen.com/2026/07/23/world-tallest-timber-tower-atlassian-central-sydney/
-- **25 King Street:** search "25 King Street Brisbane" on archdaily.com or builtworks.com.au
+- **Fenner Hall** — https://www.indeawards.com/ (search "Fenner Hall") · https://makeitwood.org/
+  **My comment:** the Make It Wood result is the better pick — it's the industry body's own project page, so the photo is more likely to be a proper high-res architectural shot rather than an awards-thumbnail. Look for an exterior shot that shows the two-storey concrete base clearly against the CLT tower above — that's the detail the sheet's narrative depends on, so a full-building shot works better here than a close-up.
+
+- **La Trobe** — search "Jackson Clements Burrows La Trobe student accommodation" on architectureau.com
+  **My comment:** ArchitectureAU tends to publish JCB's own supplied photography, which is usually well-lit and credited properly — safer than a random image aggregator. Try to find one that shows both buildings together (there are two blocks) rather than a single close-up, since the sheet's "624 beds, 2 buildings" claim reads better with a shot that shows scale.
+
+- **Brock Commons** — https://mercermasstimber.com/ (search "Brock Commons Tallwood House")
+  **My comment:** Mercer's own page is good because it's a manufacturer case study, so it'll likely have a section diagram alongside the photo — grab both if available, since a section is more useful than a photo for this sheet's "18 storeys, no exoskeleton" argument. If only exterior photos come up, an angle showing the building's full height against the UBC campus reads better than a ground-level shot that crops the top off.
+
+- **Monash — Gillies Hall** — https://aecom.com/projects/gillies-hall-student-accommodation-peninsula-campus-monash-university-victoria-australia/
+  **My comment:** AECOM's project page is the engineering consultant's own case study, so it may include interior shots showing exposed CLT — worth grabbing one of those in addition to the exterior, since "exposed CLT ceiling" is mentioned in Sheet 05's narrative and a photo backs that up better than description alone.
+
+- **Monash — Clayton (under construction)** — https://woodcentral.com.au/monash-to-begin-work-on-new-hybrid-timber-student-residence/
+  **My comment:** this one's genuinely useful precisely *because* it's under construction — a construction-progress photo or rendering makes the "currently rising" claim visually obvious in a way a finished-building photo can't. If Wood Central only has a rendering, that's fine to use here — just caption it "artist's impression" rather than implying it's a photo of the completed building.
+
+- **Atlassian Central** — https://newatlas.com/architecture/atlassian-central-timber-tower-tops-out/ · https://www.dezeen.com/2026/07/23/world-tallest-timber-tower-atlassian-central-sydney/
+  **My comment:** Dezeen's coverage is more likely to have a clean, professionally shot exterior. New Atlas's piece is the one that specifically calls out the steel exoskeleton in its text, so if it has a photo that shows the exoskeleton structure clearly (not just glass facade), prefer that one — the sheet's whole point is "you can see this isn't pure timber+concrete," so the image needs to visibly earn that claim, not just be a generic tower photo.
+
+- **25 King Street** — search "25 King Street Brisbane" on archdaily.com or builtworks.com.au
+  **My comment:** prioritise a photo that actually shows the diagonal glulam bracing pattern on the facade, not just a general exterior shot — several results for this building are ground-level entry photos that don't show the bracing at all, and that's the one structural feature this sheet exists to illustrate. If you can only find a general exterior, it's worth searching "25 King Street diagonal bracing" specifically before settling.
 
 **Note on copyright:** these are professional architecture photos, typically credited to the architect/photographer on the source page. Use them for this coursework with attribution (as the sheet spec already requires in its Footer refs), and don't strip or omit the credit line when uploading.
 
@@ -69,20 +82,37 @@ These are the specific images I located for the five real-building precedent she
 
 ## Reference images for technical/diagram sheets (01, 08–21)
 
-These aren't source photos to reproduce as-is — they're **reference material** to give Claude Design something concrete to work from when it draws each sheet's schematic (rather than inventing a diagram from a text description alone). Search these terms yourself if you want to see and save specific images; I've noted what came up and where it's useful.
+These aren't source photos to reproduce as-is — they're **reference material** to give Claude Design something concrete to work from when it draws each sheet's schematic (rather than inventing a diagram from a text description alone).
 
-| Sheet | Search terms that return useful reference images | What to use it for |
-|---|---|---|
-| **01** — Hybrid B overview | "mixed use building podium tower concrete base commercial retail section" | General podium/tower massing reference — not this project's exact building, just a reference for how a concrete-base/tower-above section reads |
-| **08** — Material production | "CLT cross laminated timber manufacturing factory production line" (Ledinek, Kallesoe Machinery show real CLT press lines) · "glulam beam finger joint lamination press manufacturing" (Ledinek, AJ Laminated Beams) · "concrete batching plant pour construction site" | Real manufacturing photos for the 3-column process strip — genuinely improves on a pure schematic since these show actual machinery |
-| **09** — Forms/shapes | "CLT panel cross section layers ply thickness" (VCE Publications fact sheet has a clean ply diagram) | Reference for drawing the ply-layer cross-section accurately |
-| **10** — Connections | "glulam column steel base plate connection detail timber" · "CLT to glulam beam concealed steel connector timber construction" (Simpson Strong-Tie, Knapp Connectors show real concealed connector hardware) | Real connector hardware photos — useful for making the 1:5 details look technically credible rather than generic |
-| **13** — Acoustics | "mass timber floor acoustic assembly section resilient layer" | Reference for the layered section — several hits show real assembly cutaways |
-| **14** — Construction sequence | "mass timber building construction crane erecting CLT panels storey" (Think Wood has good sequence photography) | Real erection-in-progress photos for the timber tower step |
-| **15** — First Nations | "Australian native forest timber plantation harvest sustainable" | General reference only — be careful not to imply a specific Indigenous-owned operation without verifying it first; better to keep this sheet's diagram as a drawn flowchart rather than a stock photo, to avoid misattribution |
-| **16** — NCC classification | Same podium/tower reference as Sheet 01 | General massing reference |
-| **19** — Fire resistance | "CLT char layer fire test cross laminated timber burn" (Timber iQ has real fire-test photography showing char depth) | Genuinely useful — a real char-test photo makes the char-design explanation on this sheet much more credible than a drawn diagram alone |
-| **20** — F2/DDA | "DDA accessible bathroom wheelchair turning circle design" | Reference for drawing the turning circle and clearances accurately |
+- **Sheet 01 — Hybrid B overview** — search "mixed use building podium tower concrete base commercial retail section"
+  **My comment:** none of what came up is a great match (mostly generic commercial podium examples, not residential-over-retail). Don't force a real photo here — this sheet's diagram is a labelled section specific to *this* building, so it's better as a clean drawn section than dressed up with a loosely-related stock photo that might confuse rather than clarify.
+
+- **Sheet 08 — Material production** — "CLT cross laminated timber manufacturing factory production line" · "glulam beam finger joint lamination press manufacturing" · "concrete batching plant pour construction site"
+  **My comment:** genuinely good results here — the Ledinek and Kallesoe Machinery hits are real CLT/glulam press-line photography, which is exactly the "how it's actually made" imagery this sheet needs. Worth using all three (CLT press, glulam finger-joint line, concrete batching) side by side rather than picking one, since the sheet's whole point is comparing three manufacturing processes.
+
+- **Sheet 09 — Forms/shapes** — "CLT panel cross section layers ply thickness"
+  **My comment:** the VCE Publications fact sheet result is the strongest one — it's an educational diagram, not a stock photo, so it's already labelled and clean, which suits this sheet's "3/5/7-ply" comparison better than a photo would.
+
+- **Sheet 10 — Connections** — "glulam column steel base plate connection detail timber" · "CLT to glulam beam concealed steel connector timber construction"
+  **My comment:** the Simpson Strong-Tie and Knapp Connectors results are the useful ones — these are manufacturer product photos of actual concealed connector hardware, which will make the 1:5 details look like real engineering rather than an invented diagram. Skip the Pinterest/general "wood deck framing" result — it's residential deck hardware, wrong scale and wrong application for this project.
+
+- **Sheet 13 — Acoustics** — "mass timber floor acoustic assembly section resilient layer"
+  **My comment:** mixed results — a couple are genuinely useful cutaway sections, but one or two are more about impact-sound testing data than the physical buildup. Prioritise any result that shows a labelled section (finish/screed/mat/CLT layers) over one that's just a testing chart.
+
+- **Sheet 14 — Construction sequence** — "mass timber building construction crane erecting CLT panels storey"
+  **My comment:** the Think Wood result is the best of the three — it's specifically about mass timber erection sequencing, which matches this sheet's platform-construction narrative directly. The other two results are more general "why mass timber" pieces, less useful as a specific reference image.
+
+- **Sheet 15 — First Nations** — "Australian native forest timber plantation harvest sustainable"
+  **My comment:** I'd actually recommend **against** using any of these as the sheet's image. They're generic sustainable-forestry stock photography with no connection to Indigenous-owned or -operated forestry specifically, and using one here risks visually implying a claim (Indigenous involvement) the photo doesn't actually support. This is the one sheet where I'd keep the image as a drawn procurement-chain flowchart rather than a photo — safer and more accurate to what the sheet is actually arguing.
+
+- **Sheet 16 — NCC classification** — same podium/tower reference search as Sheet 01
+  **My comment:** same conclusion as Sheet 01 — draw this one, don't force a stock photo.
+
+- **Sheet 19 — Fire resistance** — "CLT char layer fire test cross laminated timber burn"
+  **My comment:** this is the standout result of the whole search — Timber iQ's fire-test photography shows an actual charred CLT cross-section, which is precisely the physical evidence this sheet's char-design argument needs. I'd prioritise sourcing and using this one over almost any other image in the set; a drawn diagram can show the char layer as a dimension, but a real burnt-timber photo makes "this is a real, measured phenomenon" land in a way a diagram can't.
+
+- **Sheet 20 — F2/DDA** — "DDA accessible bathroom wheelchair turning circle design"
+  **My comment:** the Ironwood Manufacturing result is the clearest — it's an actual dimensioned clearance diagram, not a lifestyle photo, which is what this sheet needs (a plan reference, not an inspirational bathroom photo).
 
 **Sheets 11, 12, 17, 18, 21 have no useful photo reference** — these are data charts (11, 12), a compliance flow diagram (17), a project-specific floor plan (18), and a project-specific axonometric (21). Claude Design should build these directly from the data/description in the build spec; searching for stock images would add noise, not accuracy.
 
