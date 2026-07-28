@@ -113,3 +113,8 @@ A working collection of mass timber links, studies, and precedents found during 
 ### Structural Connections
 - [NACHI — Lateral Load Connections](https://www.nachi.org/gallery/framing-2/lateral-load-connection) — Lateral connection detailing reference (supports AT1.4 Sheet 08 connection details)
 
+
+### **WORLD'S TALLEST MASS TIMBER BUILDING** (NEW)
+- [Atlassian Central Sydney](https://www.dezeen.com/2026/07/23/world-tallest-timber-tower-atlassian-central-sydney/) — Sydney, 2026 — world's tallest timber tower, surpassing Brock Commons — **CRITICAL PRECEDENT: Shows mass timber can reach beyond 18 storeys at scale, in Australia**
+- [Atlassian Central Sydney — YouTube](https://www.youtube.com/watch?v=D7blV73Afqo) — Video documentation of the project
+
