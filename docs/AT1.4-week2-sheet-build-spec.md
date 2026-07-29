@@ -4,13 +4,13 @@
 
 **Format:** A3 landscape, 420 × 297 mm · left = one diagram, right = narrative (~150–200 words) + comparison/data table + a bolded **Why** line + a bolded **Takeaway** line · yellow-highlight 1–2 key phrases per sheet · Chicago footer refs on every sheet · title block bottom-right: "63–67 Nicholson St, Footscray · ACZ1 · Wurundjeri Country · Sheet x/22"
 
-**What changed from the last draft:** a new **Sheet 0** now opens the folio, answering "why mass timber at all" before Sheet 01 commits to Hybrid B specifically — it synthesises the repo's own mass timber pedagogy PDFs and industry sourcing to name six concrete benefits, then explicitly cross-references which later sheet develops each one. Sheet *content* elsewhere is otherwise unchanged from the last version — only the order moved (previous update), and every cross-reference between sheets has been corrected to match. Full order now:
+**What changed from the last draft:** **Sheets 02 and 03 replaced.** The old "how materials are made" and "forms/shapes" sheets are gone — in their place, two sheets sourced from `resources/5-MassTimberPedagogy-101-StructuralBasics.pdf` (pp. 13–28): **Sheet 02** compares CLT against every other mass timber product (NLT, DLT, GLT, glulam, LVL, LSL, MPP) and states specifically why each alternative was rejected, not just what was chosen; **Sheet 03** compares the three mass timber structural system types (bearing wall / post-and-plate / post-and-beam) and explains why a post-and-beam frame — not Brock Commons' point-supported system — is the right choice for a building whose grid has to change at the podium transfer. This is more assignment-relevant than the previous two sheets: it's a first-principles comparison against real alternatives, not a generic "how it's made" explainer. A new **Sheet 0** now opens the folio, answering "why mass timber at all" before Sheet 01 commits to Hybrid B specifically — it synthesises the repo's own mass timber pedagogy PDFs and industry sourcing to name six concrete benefits, then explicitly cross-references which later sheet develops each one. Sheet content elsewhere is otherwise unchanged from the last version — only the order moved (previous update), and every cross-reference between sheets has been corrected to match. Full order now:
 
 | Block | Sheets | Content |
 |---|---|---|
 | **Why mass timber (new)** | **0** | **Six benefits, sourced, cross-referenced to every later sheet** |
 | System | 01 | Hybrid B overview |
-| Mass timber technical | 02–09 | Material production, forms/shapes, connections, embodied energy, span report, acoustics, construction sequence, First Nations |
+| Mass timber technical | 02–09 | Product types (CLT/glulam vs. alternatives), structural systems (post-and-beam vs. alternatives), connections, embodied energy, span report, acoustics, construction sequence, First Nations |
 | Precedents | 10–15 | Fenner Hall, La Trobe, Brock Commons, Monash, Atlassian, 25 King Street |
 | NCC compliance | 16–20 | Classification, consequences, escape, fire, F2/DDA |
 | Summary | 21 | Whole-building summary |
@@ -58,39 +58,43 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 
 ---
 
-### Sheet 02 — How the materials are made: production process
+### Sheet 02 — Mass timber product types: why CLT + glulam over the alternatives
 
-**Narrative:** Understanding how each material is manufactured explains *why* it behaves the way it does structurally. **Concrete** starts with Portland cement — limestone and clay heated to ~1450°C in a kiln, ground with gypsum — mixed with aggregate and water at a batching plant, then either poured in-situ into formwork or cast off-site as precast panels; reinforcing steel gives it the tensile strength plain concrete lacks, and it needs roughly 28 days to reach full design strength. **CLT** starts as kiln-dried softwood boards, planed and graded, layered with each layer rotated 90° to the one beneath it, glued, and pressed into a solid panel — that cross-orientation is what makes it dimensionally stable and able to span two ways. **Glulam** takes the same graded timber but finger-joints boards end-to-end into continuous lengths, then laminates them **all facing the same grain direction** and presses them into a beam or column.
+**Narrative:** Mass timber isn't one product — it's a family of panel and lineal elements with genuinely different structural capabilities, and picking the right ones is a first-principles engineering decision, not a default. **CLT** is the most common panel: dimensional lumber glued in layers with alternating (perpendicular) grain direction, giving it **two-way spanning capability** and strong in-plane dimensional stability — this is why it was chosen for this project's floors. **NLT and DLT** (nail- or dowel-laminated) are one-way spanning, low-tech, low-cost alternatives, but both are non-standardised and prone to significant cumulative moisture movement, requiring substantial movement joints — a real risk on a multi-storey building where movement compounds storey to storey. **GLT** and **glulam** are similar to each other (dimensional lumber glued edge-to-edge or laminated), but glulam is **non-uniformly graded** specifically to place higher-grade material where stress is highest — this is why glulam, not GLT, was chosen for this project's columns and beams. **LVL, secondary LVL, and LSL** are veneer- or strand-based composites, mostly one-way spanning; **MPP** (mass plywood panels) is a genuine two-way alternative to CLT but is a patented, North-America-only proprietary product with no Australian supply chain. Reduced to the two decisions this project actually needed to make: **CLT for two-way floor spans with dimensional stability, glulam for graded, stress-optimised columns and beams** — not because they're the "default" mass timber choice, but because every listed alternative fails a specific requirement this project has.
 
-| Material | Core manufacturing step | What it produces |
-|---|---|---|
-| Concrete | Kiln (limestone/clay → clinker) → batching → pour/cure | Poured or precast mass, reinforced with steel |
-| CLT | Boards layered at 90° → glued → pressed → CNC-cut | Flat two-way spanning panel, pre-cut on arrival |
-| Glulam | Boards finger-jointed → laminated one-direction → pressed | Linear beam/column, straight or curved |
+| Product | Spanning | Key limitation vs. CLT/glulam | Used on this project? |
+|---|---|---|---|
+| CLT | Two-way | — | **Yes — floors** |
+| NLT / DLT | One-way | Non-standardised, significant cumulative moisture movement | No |
+| GLT | One-way | Uniformly graded (less structurally efficient than glulam) | No |
+| **Glulam** | One-way (lineal) | — | **Yes — columns/beams** |
+| LVL / secondary LVL | One-way | Standardised, but not two-way spanning | No |
+| LSL | One-way | Grain oriented randomly-ish; not two-way | No |
+| MPP | Two-way | Proprietary, North America only, no Australian supply | No |
 
-**Why this matters:** the manufacturing process is the reason CLT arrives pre-cut and ready to lift while concrete has to cure on site — the construction sequence on Sheet 08 follows directly from this.
-**Takeaway:** *Every programme and cost advantage claimed for this hybrid traces back to one fact: timber is finished in a factory before it reaches site, concrete is finished on site after it arrives.*
+**Why this matters:** naming *why* the alternatives were rejected is stronger evidence than just naming what was chosen — it shows the material selection was a comparison, not an assumption.
+**Takeaway:** *CLT and glulam weren't picked because they're the most-talked-about mass timber products — they were picked because NLT/DLT's moisture movement, GLT's uniform grading, and MPP's lack of Australian supply each rule themselves out for this specific building.*
 
-**Diagram:** Three-column process strip — concrete (kiln/batching/pour), CLT (layup/press/CNC), glulam (finger-joint/lamination/press).
-**Footer refs:** AT1.4 Structural System Report §3. APA Engineered Wood Association; XLam Australia (Wodonga plant); Stora Enso, CLT building products.
+**Diagram:** Comparison strip — CLT / NLT / DLT / GLT / glulam / LVL / LSL / MPP cross-sections, with a "used here" tick against CLT and glulam.
+**Footer refs:** *Structural Basics of Mass Timber* (`resources/5-MassTimberPedagogy-101-StructuralBasics.pdf`, pp. 13–22). ANSI/APA PRG 320-2025 (CLT grading, pp. 23–24).
 
 ---
 
-### Sheet 03 — Forms and shapes each material comes in
+### Sheet 03 — Mass timber structural systems: why a post-and-beam frame
 
-**Narrative:** The shape a material is supplied in directly constrains what the drawings can do. **Concrete** is the most flexible — in-situ pour takes any formwork shape, precast panels give a more consistent finish, post-tensioning allows a longer podium span without deepening the slab. **CLT** arrives as a flat rectangular panel — typically **2.4–3.0 m wide** (transport-limited), up to **16–18 m long**, in **3, 5, or 7-ply** builds (roughly 90–280 mm+ thick) — supplied pre-cut, with openings and connection pockets already machined in. **Glulam** comes as a linear member that can be dead straight, **cambered**, or genuinely **curved/arched**, because thin lamination layers can be bent before gluing.
+**Narrative:** Beyond product selection, mass timber structural *systems* fall into three organising types, and the choice between them shapes everything from column spacing to facade openings. **Bearing wall systems** carry vertical load through mass timber or light-frame walls — an efficient, simple load path suited to regular, stacked plans (schools, some residential), but restrictive for a building wanting large glazed openings and flexible retail below. **Post-and-plate (point-supported) systems** — the system Brock Commons uses — carry load through columns directly into flat two-way CLT panels, with no beams interrupting the ceiling; efficient structural depth and compatible with large windows, but column spacing must align exactly with panel dimensions, and two-way panels need to be thicker than one-way ones. **Post-and-beam (frame) systems** carry load through beams spanning between columns, with floors as one-way panels or secondary framing — more flexible, suited to open plans and longer spans, and the system used on **this project**: glulam beams and columns on the 6.0 m grid (Sheet 06), carrying CLT floor panels. This is also the system needed to resolve the podium transfer cleanly (Sheet 01) — a beam grid can pick up a changed column layout at the transfer level in a way a rigid point-supported panel grid cannot.
 
-| Material | Standard forms available |
-|---|---|
-| Concrete | In-situ (any formwork shape) · precast panels · post-tensioned slabs · finish: smooth to textured off-form |
-| CLT | Flat panel, ~2.4–3.0 m wide, up to ~16–18 m long, 3/5/7-ply (~90–280 mm+) |
-| Glulam | Straight · cambered · curved/arched sections |
+| System | Load path | Best suited to | Chosen for this project? |
+|---|---|---|---|
+| Bearing wall | Walls carry load directly | Regular, stacked plans (schools, some residential) | No — too restrictive for retail podium below |
+| Post-and-plate (point-supported) | Columns → flat CLT panel directly | Large windows, minimal structural depth | No — column spacing rigidly tied to panel size |
+| **Post-and-beam (frame)** | Columns → beams → floor panels | Open plans, long spans, grid changes at transfer | **Yes — this project** |
 
-**Why this matters:** CLT's panel-width limit (transport, not manufacturing) is one of the reasons the studio module and structural grid need to be coordinated early — panel joints have to land somewhere sensible, which is the logic behind the 6.0 m grid on Sheet 06.
-**Takeaway:** *The material's shipped form isn't a fabrication detail — CLT's transport-width limit and glulam's ability to curve are both directly shaping the plan and the facade before a single connection is drawn.*
+**Why this matters:** the post-and-beam choice isn't just a structural preference — it's the specific system that lets the podium-to-tower grid transfer (Sheet 01) actually resolve, because a beam can pick up a shifted column line in a way a point-supported panel grid can't.
+**Takeaway:** *Brock Commons (Sheet 12) uses point-supported CLT because its plan doesn't need to change grid at any level — this project's retail podium below and residential grid above are different enough that only a post-and-beam frame can carry the transfer cleanly.*
 
-**Diagram:** Sample forms — CLT panel with ply build-up callout, glulam straight/cambered/curved profiles, concrete off-form texture sample.
-**Footer refs:** AT1.4 Structural System Report §4.
+**Diagram:** Three-system comparison — bearing wall / post-and-plate / post-and-beam axonometric fragments, this project's system highlighted.
+**Footer refs:** *Structural Basics of Mass Timber* (`resources/5-MassTimberPedagogy-101-StructuralBasics.pdf`, pp. 25–28).
 
 ---
 
@@ -236,18 +240,18 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 
 ### Sheet 11 — Precedent: La Trobe University Student Accommodation
 
-**Narrative:** Bundoora, Melbourne — two six-level buildings, 624 beds, designed by Jackson Clements Burrows Architects, built by Multiplex — the largest mass timber project in Victoria by volume at the time of completion. Over 75% of the gross floor/roof area and over 90% of loadbearing walls and columns are CLT and glulam, with concrete and steel handling only the transfer level and service cores — the same Hybrid B split proposed here (Sheet 01), at nearly triple Fenner Hall's scale. Supplied by the **same Victorian CLT/glulam manufacturing base** (Wodonga CLT, Victorian glulam) referenced on Sheet 02, so the supply-chain question isn't hypothetical — it's already answered by a completed, occupied building in the same city.
+**Narrative:** Bundoora, Melbourne — two six-level buildings, 624 beds, designed by Jackson Clements Burrows Architects, built by Multiplex — the largest mass timber project in Victoria by volume at the time of completion. Over 75% of the gross floor/roof area and over 90% of loadbearing walls and columns are CLT and glulam, with concrete and steel handling only the transfer level and service cores — the same Hybrid B split proposed here (Sheet 01), at nearly triple Fenner Hall's scale. Supplied by the **same Victorian CLT/glulam manufacturing base** (Wodonga CLT, Victorian glulam) this project would draw on, so the supply-chain question isn't hypothetical — it's already answered by a completed, occupied building in the same city.
 
 | Metric | La Trobe Student Accommodation |
 |---|---|
 | Scale | 624 beds, 2 × 6-level buildings |
 | CLT/glulam share | 75%+ of floor/roof area, 90%+ of walls/columns |
 | Location | Bundoora, Melbourne — same city as this site |
-| Supply chain | Same Victorian CLT/glulam base referenced on Sheet 02 |
+| Supply chain | Same Victorian CLT/glulam base this project would draw on |
 | Rating | 5-Star Green Star design |
 
 **Why this precedent:** it removes the "can this actually be sourced and built here" doubt — same city, same supply chain, same student accommodation typology, already delivered at nearly triple the scale of Fenner Hall.
-**Takeaway:** *This isn't an idea being imported from elsewhere — the exact material supply chain explained on Sheet 02 already built 624 beds twenty minutes from this site.*
+**Takeaway:** *This isn't an idea being imported from elsewhere — the exact Victorian CLT/glulam supply chain already built 624 beds twenty minutes from this site.*
 
 **Diagram:** Building section/photo placeholder + structural diagram callout, facade material palette referencing site's landscape context.
 **Footer refs:** AT1.4 Structural System Report §2. Jackson Clements Burrows Architects.
@@ -437,7 +441,7 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 | Part | Response | Evidence sheet |
 |---|---|---|
 | Structure | Hybrid B — RC podium/core + CLT/glulam tower, 6.0 m grid | 01, 04, 06 |
-| Material/connections | Production, forms, connections, acoustics, sequence | 02–04, 07–08 |
+| Material/system selection, connections | Product types, structural systems, connections, acoustics, sequence | 02–04, 07–08 |
 | First Nations | Procurement + engagement pathway | 09 |
 | Precedent | Six buildings, closest-match first | 10–15 |
 | A6 classification | Class 3 tower + Class 6 retail | 16 |

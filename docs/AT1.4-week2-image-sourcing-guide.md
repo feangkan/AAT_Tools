@@ -19,8 +19,8 @@ Re-searched fresh for this pass, in sheet order, so this list matches the curren
 |---|---|---|
 | **0 — Why mass timber** | Optional reference | ✅ Found — naturallywood's "what is mass timber" infographic (clean icon-style reference for the six-benefit strip) + a biophilic interior photo (Think Wood, "Benefits of Wood Construction") if you want one benefit shown as a real photo rather than an icon |
 | 01 — Hybrid B overview | Optional reference | ✅ Found — WoodWorks "Mass Timber Buildings on a Podium" is a strong match |
-| 02 — Material production | Yes | ✅ Found — Kallesoe/Ledinek CLT press lines |
-| 03 — Forms/shapes | Optional reference | ✅ Found — VCE Publications CLT ply diagram |
+| 02 — Mass timber product types | Optional reference | ✅ Found — WoodWorks "What Does it All Mean?" is a genuine CLT/GLT/NLT comparison piece |
+| 03 — Mass timber structural systems | Optional reference | ⚠️ Mixed — general "post and beam" results are mostly light-frame residential, not mass timber-specific; better drawn fresh from the PDF's own diagrams (pp. 26–28) |
 | 04 — Connections | Yes | ✅ Found — Simpson Strong-Tie concealed connectors |
 | 05 — Embodied energy | **No** | Data chart — build from spec numbers |
 | 06 — Span report | **No** | Data chart — build from spec numbers |
@@ -123,11 +123,11 @@ These aren't source photos to reproduce as-is — they're **reference material**
 - **Sheet 01 — Hybrid B overview** — search "concrete podium mass timber tower building section"
   **My comment:** better result this time than my earlier pass — WoodWorks' "Mass Timber Buildings on a Podium" is a purpose-written industry piece on exactly this condition (concrete podium + timber tower), likely to have a genuinely relevant diagram rather than a loosely-related stock photo. Worth using over a generic drawn section if the diagram is clean.
 
-- **Sheet 02 — Material production** — "CLT cross laminated timber manufacturing factory production line" · "glulam beam finger joint lamination press manufacturing" · "concrete batching plant pour construction site"
-  **My comment:** genuinely good results here — the Ledinek and Kallesoe Machinery hits are real CLT/glulam press-line photography, which is exactly the "how it's actually made" imagery this sheet needs. Worth using all three (CLT press, glulam finger-joint line, concrete batching) side by side rather than picking one, since the sheet's whole point is comparing three manufacturing processes.
+- **Sheet 02 — Mass timber product types** — "mass timber product types CLT NLT DLT glulam comparison diagram"
+  **My comment:** the WoodWorks "Mass Timber, CLT, GLT, NLT, and Others: What Does it All Mean?" result is genuinely useful — it's an industry explainer covering the same product family this sheet compares, so its diagrams (if any) will use consistent, correct terminology. Better option, though: the source PDF itself (`resources/5-MassTimberPedagogy-101-StructuralBasics.pdf`, pages 13–22) has its own labelled cross-section diagrams for every product type (CLT layup, NLT/DLT member build-up, GLT layup, glulam layup, LVL layup, LSL panel composition, MPP layup) — since this sheet's whole point is a precise technical comparison, redrawing from those source diagrams (screenshot the relevant PDF pages, or trace them) will be more accurate than a stock image search.
 
-- **Sheet 03 — Forms/shapes** — "CLT panel cross section layers ply thickness"
-  **My comment:** the VCE Publications fact sheet result is the strongest one — it's an educational diagram, not a stock photo, so it's already labelled and clean, which suits this sheet's "3/5/7-ply" comparison better than a photo would.
+- **Sheet 03 — Mass timber structural systems** — "post and beam frame structural system mass timber diagram bearing wall"
+  **My comment:** the search results here aren't strong — most hits are generic light-frame residential post-and-beam content (barns, timber-frame houses), not the mass timber-specific bearing wall / post-and-plate / post-and-beam comparison this sheet needs. **Skip the image search for this one** and go straight to the source: `resources/5-MassTimberPedagogy-101-StructuralBasics.pdf` pages 26–28 have exactly the right diagrams (bearing wall system, post-and-plate/point-supported system, post-and-beam/frame system), plus real project photos already correctly labelled for each (Mississippi Workshop for bearing wall, Brock Commons for post-and-plate, Northlake Commons for post-and-beam) — redraw or excerpt from these directly rather than searching further.
 
 - **Sheet 04 — Connections** — "glulam column steel base plate connection detail timber" · "CLT to glulam beam concealed steel connector timber construction"
   **My comment:** the Simpson Strong-Tie and Knapp Connectors results are the useful ones — these are manufacturer product photos of actual concealed connector hardware, which will make the 1:5 details look like real engineering rather than an invented diagram. Skip the Pinterest/general "wood deck framing" result — it's residential deck hardware, wrong scale and wrong application for this project.
