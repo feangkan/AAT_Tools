@@ -65,6 +65,7 @@ A working collection of mass timber links, studies, and precedents found during 
 
 - [WoodWorks Mass Timber Fire & Acoustic Database](https://www.woodworks.org/) — STC ratings, assembly buildups (referenced AT1.4 §9, §11)
 - *Structural Design with Mass Timber* (local repo, §3) — Acoustic assembly details
+- [WoodWorks — Hybrid Design: Mass Timber Floor and Roof Panels Over Light-Frame Wood Walls](https://www.woodworks.org/resources/hybrid-design-mass-timber-floor-and-roof-panels-over-light-frame-wood-walls/) — **Note on relevance:** this describes a *different* hybrid to ours (light-frame wood walls supporting mass timber floor/roof panels, not our RC core/CLT floor split), so it isn't a direct precedent. What transfers to AT1.4 Sheet 7: WoodWorks confirms that wherever two different structural/wall systems meet, acoustic and fire performance both concentrate at that junction and need dedicated detailing — the same principle applies to our CLT floor/RC core junction, just with different materials on each side. Also confirms Type IV-HT code allowances exist for mixed light-frame/mass-timber assemblies generally, reinforcing that material-transition detailing is an industry-wide known challenge, not a problem specific to this project's hybrid.
 
 ---
 

@@ -163,18 +163,18 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 
 ### Sheet 07 — Mass timber acoustic detailing
 
-**Narrative:** Mass timber's biggest structural advantage — being light — is also its acoustic weakness, because sound transmission is **mass-driven**. This matters directly on a Class 3 building, where privacy between unrelated student occupants is both an NCC requirement (Part F7) and a basic liveability expectation. The baseline floor assembly keeps the timber soffit exposed below while doing the acoustic work above: finish floor, topping screed, resilient acoustic mat, then the CLT panel. The **code-minimum** airborne rating (STC 50) needs roughly 100 mm of buildup above the CLT; a **higher-performance** target (~STC 58) needs closer to 195 mm — almost double the depth. **Flanking sound** — noise travelling around a junction rather than through the panel — is a known, still-researched limitation of rigid CLT connections.
+**Narrative:** Mass timber's biggest structural advantage — being light — is also its acoustic weakness, because sound transmission is **mass-driven**. This matters directly on a Class 3 building, where privacy between unrelated student occupants is both an NCC requirement (Part F7) and a basic liveability expectation. The baseline floor assembly keeps the timber soffit exposed below while doing the acoustic work above: finish floor, topping screed, resilient acoustic mat, then the CLT panel. The **code-minimum** airborne rating (STC 50) needs roughly 100 mm of buildup above the CLT; a **higher-performance** target (~STC 58) needs closer to 195 mm — almost double the depth. **Flanking sound** — noise travelling around a junction rather than through the panel — is a known, still-researched limitation of rigid CLT connections, and it isn't confined to CLT-to-CLT joints: WoodWorks' own guidance on hybrid mass timber assemblies confirms that **wherever two different structural systems meet, acoustic and fire performance both concentrate at that junction** — true generally across the industry, not a problem unique to this project. For this building, that means the **CLT floor-to-RC core junction** (Sheet 04) needs the same deliberate acoustic detailing as a CLT-to-CLT floor joint, not just a structural connection resolved and left acoustically unconsidered.
 
 | Target | Buildup above CLT | Trade-off |
 |---|---|---|
 | Code-minimum (STC 50) | ~100 mm | Standard topping + resilient mat |
 | Higher-performance (~STC 58) | ~195 mm | Nearly double the depth |
 
-**Why this matters:** floor buildup depth compounds across every storey of a multi-storey tower, so it has to be locked in during schematic design, not left as a finishes decision.
-**Takeaway:** *At ~195 mm for the higher-performance option, this is effectively adding a partial storey of depth across the whole building if it's not planned for now.*
+**Why this matters:** floor buildup depth compounds across every storey of a multi-storey tower, so it has to be locked in during schematic design, not left as a finishes decision — and the CLT-to-RC junction needs the same early attention as the floor buildup itself, since it's a second, easily-overlooked flanking path.
+**Takeaway:** *At ~195 mm for the higher-performance option, this is effectively adding a partial storey of depth across the whole building if it's not planned for now — and the CLT-to-concrete-core junction is exactly the kind of material transition where flanking sound concentrates, so it can't be treated as "just" a structural detail.*
 
-**Diagram:** Section through typical studio party wall + floor junction, annotated buildup and STC target.
-**Footer refs:** AT1.4 Structural System Report §9. *Structural Design with Mass Timber* (`resources/6-...`); WoodWorks Mass Timber Fire & Acoustic Database. ABCB, *NCC 2022*, F7.
+**Diagram:** Section through typical studio party wall + floor junction, annotated buildup and STC target, with a callout at the CLT-to-RC core junction showing the acoustic break.
+**Footer refs:** AT1.4 Structural System Report §9. *Structural Design with Mass Timber* (`resources/6-...`); WoodWorks Mass Timber Fire & Acoustic Database; WoodWorks, *Hybrid Design: Mass Timber Floor and Roof Panels Over Light-Frame Wood Walls*. ABCB, *NCC 2022*, F7.
 
 ---
 
