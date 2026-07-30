@@ -220,21 +220,23 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 
 ### Sheet 10 — Precedent: Fenner Hall, ANU Kambri Precinct
 
-**Narrative:** Having gone through how this system is made, connected, and engineered (Sheets 02–09), this is where the folio turns to proof it's actually been built. Canberra — 450 rooms across two CLT towers, delivered by Lendlease, completed 2019 — the **first CLT student residence built in Australia**. Structurally this is Hybrid B in its purest form, with no steel exoskeleton and no compromise material: a **two-storey concrete plinth forms the podium**, and **CLT walls rise directly from it** to form the primary structure of every student room above. The measurable outcomes worth leading with: CLT construction cut the build programme by roughly **30%** (compare Sheet 08's construction sequence), and the finished building used approximately **33% of the embodied carbon** of an equivalent all-concrete scheme — a real, audited figure, already referenced on Sheet 05.
+**Narrative:** Having gone through how this system is made, connected, and engineered (Sheets 02–09), this is where the folio turns to proof it's actually been built. Canberra — 450 rooms across two CLT towers, **designed by BVN Architects and delivered by Lendlease DesignMake**, completed 2019 — the **first CLT student residence built in Australia**, and winner of the Multi-Residential category at the 2019 Australian Timber Design Awards, shared between the two firms. Structurally this is Hybrid B in its purest form, with no steel exoskeleton and no compromise material: a **two-storey concrete plinth forms the podium**, and **CLT walls rise directly from it** to form the primary structure of every student room above. The measurable outcomes worth leading with: CLT construction cut the build programme by roughly **30%** (compare Sheet 08's construction sequence), the timber towers were erected by a crew of just **13 people**, and the finished building used approximately **33% of the embodied carbon** of an equivalent all-concrete scheme — a real, audited figure, already referenced on Sheet 05. The client's environmental brief required managing and reporting embodied carbon against a One Planet sustainability framework — the wider Kambri precinct achieved a **0.6-planet ecological footprint**, roughly half the typical university campus figure of 1.3 planets.
 
 | Metric | Fenner Hall |
 |---|---|
 | Scale | 450 rooms, 2 CLT towers |
+| Architect / Builder | BVN Architects / Lendlease DesignMake |
 | Structure | 2-storey concrete plinth + CLT walls above — **no steel exoskeleton** |
 | Programme saving | ~30% vs. conventional construction |
+| Erection crew (timber towers) | 13 people |
 | Embodied carbon | ~33% of an equivalent all-concrete building |
-| Significance | First CLT student residence built in Australia |
+| Significance | First CLT student residence built in Australia; 2019 ATDA Multi-Residential winner |
 
-**Why this precedent leads the set:** it is the closest structural match to this project of any building researched — concrete base, timber tower, nothing else — built at national scale, for the exact typology (student accommodation) this brief requires.
-**Takeaway:** *This is the sheet that answers "has Hybrid B, exactly as proposed and just explained in Sheets 02–09, actually been built for student housing in Australia?" — yes, and it cut both carbon and programme by roughly a third.*
+**Why this precedent leads the set:** it is the closest structural match to this project of any building researched — concrete base, timber tower, nothing else — built at national scale, for the exact typology (student accommodation) this brief requires, and independently recognised by the industry's own design awards.
+**Takeaway:** *This is the sheet that answers "has Hybrid B, exactly as proposed and just explained in Sheets 02–09, actually been built for student housing in Australia?" — yes, it cut both carbon and programme by roughly a third, and a jury of the client's peers gave it the country's top prize for the typology.*
 
 **Diagram:** Section showing concrete plinth-to-CLT-tower transition, callout to embodied carbon/programme figures.
-**Footer refs:** AT1.4 Structural System Report §2 (extended). ArchitectureAU, *Kambri at ANU*; Make It Wood, Fenner Hall exemplar project.
+**Footer refs:** AT1.4 Structural System Report §2 (extended). ArchitectureAU, *Kambri at ANU*; Make It Wood, Fenner Hall exemplar project; BVN, *Innovative Timber Designs Awarded*; WoodSolutions, 2019 ATDA Fenner Hall presentation; Stora Enso Building Solutions, *ANU Kambri Precinct* project reference.
 
 ---
 

@@ -31,7 +31,10 @@ A working collection of mass timber links, studies, and precedents found during 
 
 #### Student accommodation
 - [La Trobe University Student Accommodation](https://www.latrobe.edu.au/) — Melbourne, 624 beds, Jackson Clements Burrows Architects (referenced AT1.4 Sheet 03)
-- [Fenner Hall, ANU Kambri Precinct](https://www.anu.edu.au/) — Canberra, 450 rooms, first CLT student residence in Australia (referenced AT1.4 Sheet 04)
+- [Fenner Hall, ANU Kambri Precinct](https://www.anu.edu.au/) — Canberra, 450 rooms, first CLT student residence in Australia (referenced AT1.4 Sheet 10)
+- [Fenner Hall — 2019 Australian Timber Design Awards presentation (WoodSolutions PDF)](https://www.woodsolutions.com.au/system/files/presentations/6%20-%202019%20ATDA%20Fenner%20Hall%20-%20ANU.pdf?check_logged_in=1) — Presentation for the project's 2019 ATDA Multi-Residential category win (shared between BVN and Lendlease DesignMake). Note: this link requires being logged in to WoodSolutions to view (`?check_logged_in=1` in the URL) — may need a free WoodSolutions account.
+- [BVN — Innovative Timber Designs Awarded](https://www.bvn.com.au/article/innovative-timber-designs-awarded/) — BVN's own announcement confirming they are the **architect** of Fenner Hall (shared credit with Lendlease DesignMake as builder) — corrects earlier AT1.4 sourcing, which credited Lendlease alone.
+- [Stora Enso Building Solutions — ANU Kambri Precinct project reference](https://references.buildingsolutions.storaenso.com/en/projects/education/australia/australian-national-university-kambri-precinct) — Manufacturer's own project case study. Confirms: timber buildings erected with a crew of 13; ~A$260 million precinct redevelopment; project achieved a 0.6-planet ecological footprint under the One Planet framework (vs. ~1.3 planets typical for university campuses); prefabricated mega-panel brick facade sections (13 m long) installed in 20 minutes each.
 
 #### Mixed-use / Commercial
 - [25 King Street, Brisbane](https://brisbanedevelopment.com.au/) — Bates Smart, exposed glulam facade, 6 × 8 m grid (referenced AT1.4 Sheet 05)
