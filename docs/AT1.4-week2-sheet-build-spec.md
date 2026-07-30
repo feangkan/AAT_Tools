@@ -242,21 +242,24 @@ Full research backing every sheet lives in `docs/AT1.4-structural-system-report-
 
 ### Sheet 11 — Precedent: La Trobe University Student Accommodation
 
-**Narrative:** Bundoora, Melbourne — two six-level buildings, 624 beds, designed by Jackson Clements Burrows Architects, built by Multiplex — the largest mass timber project in Victoria by volume at the time of completion. Over 75% of the gross floor/roof area and over 90% of loadbearing walls and columns are CLT and glulam, with concrete and steel handling only the transfer level and service cores — the same Hybrid B split proposed here (Sheet 01), at nearly triple Fenner Hall's scale. Supplied by the **same Victorian CLT/glulam manufacturing base** (Wodonga CLT, Victorian glulam) this project would draw on, so the supply-chain question isn't hypothetical — it's already answered by a completed, occupied building in the same city.
+**Narrative:** Bundoora, Melbourne — two six-level buildings, 624 beds, designed by Jackson Clements Burrows Architects, built by Multiplex, **structural engineering by TTW** — the largest mass timber project in Victoria by volume at the time of completion. Over 75% of the gross floor/roof area and over 90% of loadbearing walls and columns are CLT and glulam, with concrete and steel handling only the transfer level and service cores — the same Hybrid B split proposed here (Sheet 01), at nearly triple Fenner Hall's scale. Supplied by the **same Victorian CLT/glulam manufacturing base** (Wodonga CLT, Victorian glulam) this project would draw on, so the supply-chain question isn't hypothetical — it's already answered by a completed, occupied building in the same city. TTW's own account of the delivery is worth citing directly: engaged by Multiplex on the strength of earlier value-engineering advice, TTW delivered **every structural package — CLT, glulam, and the concrete substructure — in under two months from appointment**, to meet a fast-tracked programme. TTW states the CLT structure has the capacity to **halve embodied carbon relative to an equivalent concrete building** — a stronger, more specific claim than the ~30% modelled GHG-savings figure previously cited on Sheet 05, and one that comes directly from the project's own structural engineer rather than a third-party study.
 
 | Metric | La Trobe Student Accommodation |
 |---|---|
 | Scale | 624 beds, 2 × 6-level buildings |
+| Team | Jackson Clements Burrows (architect), Multiplex (builder), **TTW (structural engineer)** |
 | CLT/glulam share | 75%+ of floor/roof area, 90%+ of walls/columns |
 | Location | Bundoora, Melbourne — same city as this site |
 | Supply chain | Same Victorian CLT/glulam base this project would draw on |
-| Rating | 5-Star Green Star design |
+| Structural delivery | All packages (CLT/glulam/concrete substructure) in under 2 months from appointment |
+| Embodied carbon | CLT structure halves embodied carbon vs. equivalent concrete (TTW's own figure) |
+| Rating | 5-Star Green Star design; targeting 5-Star as-built |
 
-**Why this precedent:** it removes the "can this actually be sourced and built here" doubt — same city, same supply chain, same student accommodation typology, already delivered at nearly triple the scale of Fenner Hall.
-**Takeaway:** *This isn't an idea being imported from elsewhere — the exact Victorian CLT/glulam supply chain already built 624 beds twenty minutes from this site.*
+**Why this precedent:** it removes the "can this actually be sourced and built here" doubt — same city, same supply chain, same student accommodation typology, already delivered at nearly triple the scale of Fenner Hall — and its structural engineer's own embodied-carbon figure (halved, not just reduced) strengthens the case made on Sheet 05.
+**Takeaway:** *This isn't an idea being imported from elsewhere — the exact Victorian CLT/glulam supply chain already built 624 beds twenty minutes from this site, and the engineer who actually did the calculations says it halved the embodied carbon.*
 
 **Diagram:** Building section/photo placeholder + structural diagram callout, facade material palette referencing site's landscape context.
-**Footer refs:** AT1.4 Structural System Report §2. Jackson Clements Burrows Architects.
+**Footer refs:** AT1.4 Structural System Report §2. Jackson Clements Burrows Architects; TTW Engineers, *La Trobe University Student Accommodation* project page.
 
 ---
 
