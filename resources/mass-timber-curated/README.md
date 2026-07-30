@@ -50,6 +50,7 @@ A working collection of mass timber links, studies, and precedents found during 
 ### Connections & Fire detailing
 - [Timber Fire Safety in Construction](https://www.timberdesign.ca/) — Connection details, char-design approach (referenced AT1.4 §5, §17)
 - [WoodWorks Mass Timber Fire & Acoustic Database](https://www.woodworks.org/) — FRL tables, STC buildups
+- **[WoodWorks Index of Mass Timber Connections (May 2024)](https://www.woodworks.org/wp-content/uploads/wood_solution_paper_Index_Mass_Timber_Connections_05.2024.pdf)** — Comprehensive 16-table index covering 80+ connector types across panel-to-panel, panel-to-beam/column/wall/concrete interfaces. Includes Class 1/2/3 categorization, load capacity, cost, fire-rating levels (I/II/III), constructability notes, and moisture/tolerance guidance. **For AT1.4:** See `AT1.4-Connector-Strategy.md` which identifies 4 core connectors for your PBSA design (podium-residential interface, floor-floor, perimeter walls, base connections) and shows how repetition yields 15–20% cost savings.
 
 ---
 
