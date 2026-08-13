@@ -7,8 +7,11 @@ Sheet-by-sheet specs:
 
 | Task | Continues | Doc |
 |------|-----------|-----|
-| **AT2.1 NCC Report** | AT1.4 Sheets 16–21 (plus AT1.2 parking overlay) | [`docs/AT2.1-ncc-report-handoff.md`](./AT2.1-ncc-report-handoff.md) |
-| **AT2.2 LHD & BADS** | AT1.2 Clause 58 + AT1.4 Sheet 20 amenity | [`docs/AT2.2-lhd-bads-handoff.md`](./AT2.2-lhd-bads-handoff.md) |
+| **AT2.1 NCC Report (this week)** | AT1.4 Sheets 16–21 | **[`docs/AT2.1-week5-sheet-build-spec.md`](./AT2.1-week5-sheet-build-spec.md)** — 8 **text slides** + paste-ready Claude Design prompt |
+| AT2.1 (short map) | same | [`docs/AT2.1-ncc-report-handoff.md`](./AT2.1-ncc-report-handoff.md) |
+| **AT2.2 LHD & BADS** | AT1.2 Clause 58 + AT1.4 Sheet 20 | [`docs/AT2.2-lhd-bads-handoff.md`](./AT2.2-lhd-bads-handoff.md) |
+
+**Week 5 layout:** full-page **text slides** (clause screenshot + explanation). Not the AT1.4 left-diagram / right-text split.
 
 ---
 
@@ -45,7 +48,7 @@ AT1.4 already told the NCC story. Tutors for AT2.1 want **highlighted clauses** 
 | 07 AS 2890.1 | AT1.2 Parking Overlay | Only new topic. Bike / loading / nil cars unless AT1.2 already drew bays |
 | 08 Drawing map | Sheet 21 | Points at AT2.4 sheet numbers instead of AT1.4 sheet numbers |
 
-Graphic rules stay AT1.4: A3 landscape, left diagram / right 80–120 words, yellow clause, Chicago footer, title block “63–67 Nicholson St, Footscray · ACZ1 · Wurundjeri Country”.
+**Week 5 Claude Design:** [`docs/AT2.1-week5-sheet-build-spec.md`](./AT2.1-week5-sheet-build-spec.md). Full-page **text slides** (highlighted clause + 180–220 word explanation). Not the AT1.4 diagram split.
 
 ---
 

@@ -28,7 +28,7 @@ This is **not a new NCC argument.** AT1.4 already classified the building, place
 | Part 2.1 | **Part B1** |
 | Part 10.2 | **Part F2** + Spec 26 |
 
-Format: same as AT1.4 (A3 landscape, left diagram, 80–120 words, yellow highlight, Chicago footer, Nicholson St title block).
+**Claude Design (Week 5):** paste the prompt at the bottom of [`docs/AT2.1-week5-sheet-build-spec.md`](./AT2.1-week5-sheet-build-spec.md). **Text slides**, not left-diagram / right-text.
 
 ---
 
