@@ -44,7 +44,7 @@ def main():
         "ground_open_space_pct": gf["metrics"]["ground_open_space_pct"],
         "exit_count": core["stairs_exits"]["count"],
         "max_travel_distance_m": core["stairs_exits"]["max_travel_distance_est_m"],
-        "classification": {"primary": "Class 2"},
+        "classification": {"primary": "Class 3", "retail": "Class 6", "dda": "Class 3"},
         "zone": "ACZ1",
         "building_height_m": mass["height_m"],
         "height_limit_m": mass["height_limit_m"],

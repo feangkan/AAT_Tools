@@ -1,126 +1,86 @@
-# AT2 Week 5 working brief — NCC + what comes next
+# AT2 continues AT1 — Week 5 working brief
 
-**Project:** 63–67 Nicholson St, Footscray · ARCH3372 / AAT 2650  
-**Today:** Thu 13 Aug 2026 · **Week 5 starts Mon 17 Aug 2026**  
-**AT2 package due:** Mon 7 Sep 2026, 12:00 · 25%  
-**Working branch:** `cursor/at2-week5-f836` (from `cursor/aat-tools-resources-3c74`)
+**Project:** 63–67 Nicholson St, Footscray · ARCH3372  
+**Rule:** AT2 is design development of the **same building** AT1 already argued. Do not reopen Hybrid B, the 6.0 m grid, or Class 3 lodging.
 
-This file is the status + question list. Sheet-by-sheet build specs:
+Sheet-by-sheet specs:
 
-| Task | Week | Doc |
-|------|------|-----|
-| **AT2.1 NCC Report** | 5 | [`docs/AT2.1-ncc-report-handoff.md`](./AT2.1-ncc-report-handoff.md) |
-| **AT2.2 LHD & BADS Report** | 6 | [`docs/AT2.2-lhd-bads-handoff.md`](./AT2.2-lhd-bads-handoff.md) |
-| AT2.3 Environmental / energy | 5 (same tutorial) | not started — see Q1 |
-| AT2.4 DD drawings (Revit) | 4–7 | not started — see Q6 |
+| Task | Continues | Doc |
+|------|-----------|-----|
+| **AT2.1 NCC Report** | AT1.4 Sheets 16–21 (plus AT1.2 parking overlay) | [`docs/AT2.1-ncc-report-handoff.md`](./AT2.1-ncc-report-handoff.md) |
+| **AT2.2 LHD & BADS** | AT1.2 Clause 58 + AT1.4 Sheet 20 amenity | [`docs/AT2.2-lhd-bads-handoff.md`](./AT2.2-lhd-bads-handoff.md) |
 
 ---
 
-## 1. Canvas numbering (repo was wrong)
+## 1. AT1 → AT2 carry-forward (locked)
 
-The machine-readable brief used to call **AT2.2** “Design Development Drawings”. Canvas does not. Correct map:
+| AT1 piece | What was decided | AT2 uses it for |
+|-----------|------------------|-----------------|
+| **AT1.1 Site** | Little Saigon / Nicholson St, Wurundjeri Country, solar, entry, 50% ground open space | Ground plan, accessible path from street, Country line on every title block |
+| **AT1.2 Planning** | ACZ1; no FAR — height by sub-precinct; overlays DCPO / HO / PO; Clause 58 already in play; student housing above commercial | Height/setback on DD drawings; **AT2.2** is the deep Clause 58 folio; **AT2.1 Sheet 07** is AS 2890.1 against the Parking Overlay |
+| **AT1.3 Precedents** | Best-of set fed AT1.4 Sheets 10–15 | Do not add new structural precedents. Cite Fenner, La Trobe (TTW), Brock Commons, Gillies Hall, 25 King when a clause needs a built example |
+| **AT1.4 Structure** | **Hybrid B**; **6.0 m** grid; post-and-beam CLT/glulam over RC podium/core/transfer; dual stairs **inside** the RC core; ~**20 rooms/floor**; DDA on the same bay; char-design fire; CLT acoustic buildup 100 / 195 mm | **AT2.1** is the clause-highlighted, drawing-evidenced version of Sheets 16–21. Sheet 04 of AT2.1 points back to AT1.4 — it does not redesign the frame |
+| **AT1.4 NCC (Sheets 16–21)** | **Class 3** lodging (A6G4) + **Class 6** retail (A6G1). Not Class 2 apartments. Shared kitchen 120–150 m² is the evidence | AT2.1 Sheet 01 **repeats this sentence**. Course AT2.2/AT2.3 still say “Class 2” — we apply G7/J as amenity/energy to this Class 3 PBSA, we do **not** reclassify |
+| **AT1.4 Sheet 09** | First Nations procurement gap + Wurundjeri engagement | Park for **AT3**; one-line reminder only |
+| **AT1.5 Facade** | Neometro / 9 Wilson Ave — structure as finish; 25 King expressed bracing as facade evidence | DD elevations keep timber/concrete expressed; wet-area and acoustic buildups sit behind that finish |
+| **AT1.6 Schematic drawings** | Revit massing / typical floor that AT2.4 will develop | AT2.1 travel distances are measured on **that** typical floor, not a new plan |
 
-| ID | Name | Tutorial week | Min folio |
-|----|------|---------------|-----------|
-| **AT2.1** | NCC Report | **Week 5** | 6 × A3 landscape |
-| **AT2.3** | Environmental Design Analysis (Section J / H6) | **Week 5** | 6 × A3 landscape |
-| **AT2.2** | LHD + BADS (Clause 58 + NCC G7) | **Week 6** | 9 × A3 landscape |
-| **AT2.4** | Design Development Drawings (Revit 2026) | Weeks 4–7 | drawing set + A4 transmittal |
-
-Week 5 lecture/tutorial focus (syllabus): **NCC Report, Environmental Design Report, and Design Development Drawings**.
-
-If you said “AT2.1–AT2.2” meaning *this week’s work*, Canvas also wants **AT2.3** in the same tutorial. Say if you want that started in parallel.
-
----
-
-## 2. What is already locked from AT1.4
-
-Do not reopen these unless the tutor rejected them:
-
-- **Hybrid B** — RC podium + RC core + transfer; CLT floors + glulam frame above
-- **6.0 m** residential grid
-- **Fire-isolated dual stairs** in the RC core
-- Site: ACZ1 Footscray, 63–67 Nicholson St, ≥50% ground public open space
-- Program: 200+ studios 15–25 m², DDA 30–35 m² at 1:20/floor, FTC ≥ 2.7 m, communal kitchen 120–150 m²
-
-Full structural case: `docs/AT1.4-week2-sheet-build-spec.md`.
+Primary write-up: `docs/AT1.4-week2-sheet-build-spec.md`  
+Machine lock: `data/brief/project_brief.json` → `design_lock`
 
 ---
 
-## 3. Questions that block AT2.1 (answer these)
+## 2. What AT2.1 adds (and what it does not)
 
-Reply with numbers / yes-no. I will then write measured sheets (travel paths, sanitary counts, parking bays) instead of generic clause dumps.
+AT1.4 already told the NCC story. Tutors for AT2.1 want **highlighted clauses** and **evidence on the DD drawings**.
 
-### Q1 — Scope this week
-Do you want **AT2.1 only**, **AT2.1 + AT2.2 start**, or **AT2.1 + AT2.3** (AT2.3 is also Week 5)?
+| AT2.1 sheet | AT1.4 parent | New work |
+|-------------|--------------|----------|
+| 01 Classification | Sheet 16 + 17 | Yellow-highlight A6G4 / A6G7; same Class 3 argument |
+| 02 Escape | Sheet 18 | **Measure** travel / dead-end on the AT1.6 typical floor (6.0 m, two stairs in core, ~20 rooms) |
+| 03 Sanitary | Sheet 20 (F2) | Highlight Tables F2.3/F2.4 → F4; ensuites + communal, not a hostel dorm count |
+| 04 Structure B1 | Sheets 01, 06, 19 | One Hybrid B section + B1 highlight — “already chosen” |
+| 05 Wet areas | Sheet 20 (10.2) + Sheet 07 | Membrane on the **CLT acoustic buildup**, not on raw timber |
+| 06 AS 1428.1 | Sheet 20 DDA | Same 30–35 m² bay on 6.0 m grid; 850 mm doors |
+| 07 AS 2890.1 | AT1.2 Parking Overlay | Only new topic. Bike / loading / nil cars unless AT1.2 already drew bays |
+| 08 Drawing map | Sheet 21 | Points at AT2.4 sheet numbers instead of AT1.4 sheet numbers |
 
-### Q2 — Building classification (most important)
-Three documents disagree:
-
-| Source | Residential class |
-|--------|-------------------|
-| Project brief | **Class 2** studios + **Class 3** DDA rooms + **Class 6** retail |
-| AT1.4 folio (locked) | Whole tower as **Class 3** lodging + Class 6 |
-| AT2.2 / AT2.3 briefs | Treat as **Class 2** SOUs (G7 LHD + J1P2/J1P3) |
-
-**Ask your tutor this sentence:** *“Are the typical studios Class 2 sole-occupancy units, with only the DDA rooms Class 3, or is the whole residential building Class 3 lodging?”*
-
-Until then, which track should the folio use?
-
-- **A.** Class 2 tower + Class 6 podium (best fit for AT2.2/AT2.3)
-- **B.** Class 3 tower + Class 6 podium (matches AT1.4)
-- **C.** Mixed: Class 2 typical studios, Class 3 DDA rooms, Class 6 retail (matches the written brief)
-
-### Q3 — Schematic numbers
-From your current Revit / AT1.6 set, send:
-
-1. Storeys (podium + tower). ACZ1 default for Precinct **1B** is **6 storeys / 19.2 m** — confirm sub-precinct.
-2. Units per typical floor, and DDA count on that floor.
-3. Are typical floors **single-level studios** or **two-level units** (AT2.4 asks for A102 lower + A103 upper)?
-4. Basement: yes / no. If yes: bikes, rainwater, substation, cars?
-5. Car parking: none / loading only / N accessible bays / full basement car park.
-
-### Q4 — Typical floor to measure
-AT2.1 **must** evidence D1.4 travel distances on a plan. Can you upload:
-
-- a typical-floor PDF/PNG from Revit, **or**
-- say “draw a schematic 6.0 m grid double-loaded corridor and I will replace it later”
-
-### Q5 — Group / presentation
-Group of 3 names? Who leads AT2.1? Tutor last name (Canvas filename uses it)? Week 5 presentation date?
-
-### Q6 — Revit
-Is there a live Revit 2026 model for AT2.4, or is the model still schematic? I cannot run Revit here; I can write sheet checklists, transmittal rows, and plan/section notes.
-
-### Q7 — Folio graphic style
-Reuse AT1.4 rules (A3 landscape, left diagram / right 80–120 words, yellow clause highlights, Chicago footer each sheet)?
+Graphic rules stay AT1.4: A3 landscape, left diagram / right 80–120 words, yellow clause, Chicago footer, title block “63–67 Nicholson St, Footscray · ACZ1 · Wurundjeri Country”.
 
 ---
 
-## 4. How each AT2.1 sheet will use your answers
+## 3. Canvas numbering (for the diary, not a redesign)
 
-| Sheet | Needs from you |
-|-------|----------------|
-| 01 Classification | Q2 |
-| 02 Escape D1 / D2D5 | Q3 + Q4 (measured m to exit) |
-| 03 Sanitary F2 / F4 | Q3 (beds + communal WCs) |
-| 04 Structure B1 | already locked (Hybrid B) |
-| 05 Wet areas F2 / 10.2 | ensuite + DDA bathroom |
-| 06 AS 1428.1 | DDA 1:20 + door 850 mm |
-| 07 AS 2890.1 | Q3 parking strategy |
-| 08 Implementation map | Q4 drawings that will show each clause |
+| ID | Name | Week | Min |
+|----|------|------|-----|
+| AT2.1 | NCC Report | 5 | 6 × A3 |
+| AT2.3 | Environmental / energy | 5 | 6 × A3 |
+| AT2.2 | LHD + BADS | 6 | 9 × A3 |
+| AT2.4 | DD drawings (Revit) | 4–7 | drawing set |
 
-Minimum course requirement is **6 pages**. Recommended set is **8** so parking and the drawing-map are not squeezed off.
+AT2 due Mon 7 Sep 12:00. Week 5 tutorial also lists AT2.3 — say if you want that started as a Class 3 Section J folio (not a Class 2 SOU NatHERS sheet).
 
 ---
 
-## 5. What I will do next (after Q1–Q4)
+## 4. Questions that are still open (not classification)
 
-1. Fill AT2.1 sheets with **your** storey/unit/parking numbers.
-2. Draft clause-highlight captions (NCC 2022 codes + course old labels in footnotes).
-3. If Q1 includes AT2.2: start the 9-page LHD/BADS folio from Clause 58 + G7.
-4. If Q1 includes AT2.3: start the 6-page energy folio (J1/J3/J4/J6) — that one **needs Class 2** language unless the tutor says otherwise.
+Classification is **not** a question. Remaining:
+
+**Q1 — Week 5 scope**  
+AT2.1 only, or AT2.1 + AT2.3 energy in parallel?
+
+**Q2 — AT1.6 typical floor**  
+Upload the schematic typical-floor PDF/PNG so Sheet 02 can dimension travel, **or** say “use the AT1.4 Sheet 18 schematic (~20 rooms, 6.0 m, dual core stairs) as PRELIMINARY”.
+
+**Q3 — Numbers from AT1.2 / AT1.6**  
+1. Confirmed ACZ1 sub-precinct and storeys (1B = 6 / 19.2 m unless you proved otherwise).  
+2. Basement: yes/no (AT1 brief optional: bikes, rainwater, substation).  
+3. Parking: none / loading + bikes / N bays (AT1.2 overlay).  
+4. Single-level studios vs two-level (AT2.4 asks for A102 lower + A103 upper — only if AT1.6 already did split levels).
+
+**Q4 — Group**  
+Three names, AT2.1 lead, tutor last name.
 
 ---
 
-*ARCH3372 · AT2 Week 5 · 63–67 Nicholson St, Footscray*
+*ARCH3372 · AT2 is DD of AT1 · 63–67 Nicholson St*

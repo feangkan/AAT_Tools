@@ -5,9 +5,26 @@
     "institution": "RMIT University",
     "group_size": 3,
     "building_classification": {
-      "primary": "Class 2",
+      "primary": "Class 3",
       "retail": "Class 6",
-      "dda_rooms": "Class 3"
+      "dda_rooms": "Class 3",
+      "note": "AT1.4 locked managed student lodging as Class 3 (A6G4) + Class 6 retail. Course outline still mentions Class 2 for typical studios; NCC and DD folios follow AT1.4, not the outline wording."
+    },
+    "design_lock": {
+      "locked_by": "AT1.4 Structural System Report",
+      "source": "docs/AT1.4-week2-sheet-build-spec.md",
+      "structure": "Hybrid B — RC podium, RC core, RC transfer; CLT floors + glulam post-and-beam tower",
+      "grid_m": 6.0,
+      "ncc_residential": "Class 3",
+      "ncc_retail": "Class 6",
+      "exits": "2 fire-isolated stairs inside the RC core",
+      "typical_floor_rooms": 20,
+      "dda_ratio": "1 per 20 single units per floor, 30–35 sqm, on the same 6.0 m bay",
+      "fire": "Sprinklers on Class 3 floors; storey compartmentation; char-design or encapsulation of exposed CLT/glulam; rated Class 3/6 separation at transfer",
+      "acoustics": "CLT floor buildup ~100 mm STC 50 or ~195 mm STC 58; flanking break at CLT-to-RC core",
+      "aesthetic": "9 Wilson Ave Brunswick (MA+Co / Neometro) — structure as finish",
+      "precedents": ["Fenner Hall", "La Trobe Bundoora (TTW)", "Brock Commons", "Monash Gillies Hall / Clayton", "Atlassian Central (scale only)", "25 King Street"],
+      "first_nations": "Carry into AT3 — Supply Nation trades + Wurundjeri Woi-wurrung engagement; no Indigenous-owned Victorian CLT mill"
     },
     "site": {
       "address": "63-67 Nicholson Street, Footscray VIC",

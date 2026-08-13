@@ -8,14 +8,14 @@
         "id": "NCC-A6-CLASS",
         "part": "A6",
         "title": "Building classification",
-        "rule": "Student accommodation Class 2; retail Class 6; DDA rooms Class 3; mixed-use parts classified by purpose",
+        "rule": "AT1.4 lock: Class 3 managed student lodging + Class 6 retail; DDA rooms are accessible Class 3 accommodation on the same floors; mixed-use parts classified by purpose (A6G1)",
         "severity": "mandatory"
       },
       {
         "id": "NCC-D1-EXITS",
         "part": "D1",
         "title": "Provision for escape — exits",
-        "rule": "Minimum 2 exits for Class 2 buildings with storey floor area > 500 sqm or where travel distance exceeds limits",
+        "rule": "Minimum 2 fire-isolated exits for Class 3 residential storeys (AT1.4 Sheet 18); travel ≤40 m, dead-end ≤20 m",
         "params": {
           "max_travel_distance_m": 40,
           "max_dead_end_m": 20,
