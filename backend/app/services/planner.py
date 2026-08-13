@@ -8,9 +8,9 @@ from aat_core.brief.registry import BriefRegistry
 
 
 ROLE_BIAS = {
-    0: ["AT1.1", "AT1.2", "AT2.1", "AT3.1"],  # site / planning / NCC / systems
-    1: ["AT1.3", "AT1.4", "AT1.5", "AT3.2"],  # precedents / structure / facade / lighting
-    2: ["AT1.6", "AT2.2", "AT3.3"],  # drawings / DD / portfolio lead
+    0: ["AT1.1", "AT1.2", "AT2.1", "AT2.2", "AT3.1"],  # site / planning / NCC / LHD+BADS / systems
+    1: ["AT1.3", "AT1.4", "AT1.5", "AT2.3", "AT3.2"],  # precedents / structure / facade / energy / lighting
+    2: ["AT1.6", "AT2.4", "AT3.3"],  # schematic / DD drawings / portfolio lead
 }
 
 

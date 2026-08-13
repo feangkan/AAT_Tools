@@ -162,15 +162,39 @@
       "week": 5,
       "task": "AT2",
       "min_a3_pages": 6,
-      "format": "A3 landscape folio"
+      "format": "A3 landscape folio",
+      "presentation_minutes": 10,
+      "note": "Canvas AT2.1. Highlighted NCC/AS clauses + written reflection on how they land in the design. PC12 PC46."
     },
     {
       "id": "AT2.2",
-      "name": "Design Development Drawings",
+      "name": "Livable Housing Design (LHD) & Better Apartment Design Standards (BADS) Report",
       "week": 6,
       "task": "AT2",
       "min_a3_pages": 9,
-      "format": "A3 landscape folio + Revit"
+      "format": "A3 landscape folio",
+      "presentation_minutes": 10,
+      "note": "Canvas AT2.2 (Week 6). NCC Part G7 + Clause 58.05 D18–D21 and 58.07 D26–D29. PC12 PC32. Repo previously mislabelled this as DD drawings."
+    },
+    {
+      "id": "AT2.3",
+      "name": "Environmental Design Analysis Report",
+      "week": 5,
+      "task": "AT2",
+      "min_a3_pages": 6,
+      "format": "A3 landscape folio",
+      "presentation_minutes": 10,
+      "note": "Canvas AT2.3, also due in Week 5 tutorial with AT2.1. NCC H6 / J1 / J3 / J4 / J6 energy. PC10 PC24 PC28 PC31 PC33 PC35 PC44 PC45."
+    },
+    {
+      "id": "AT2.4",
+      "name": "Design Development Drawings",
+      "week": 7,
+      "task": "AT2",
+      "min_a3_pages": 13,
+      "format": "A3 landscape folio + Revit 2026",
+      "presentation_minutes": 10,
+      "note": "Canvas AT2.4, weekly iterations Weeks 4–7. Bound A3 landscape PDF + A4 transmittal. AT2 package due Mon 7 Sep 12:00 (Week 6 / after mid-semester break). Mid-semester pin-up Week 7: site + floor plans A1, rest A3."
     },
     {
       "id": "AT3.1",

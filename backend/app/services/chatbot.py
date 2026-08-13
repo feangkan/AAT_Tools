@@ -92,7 +92,7 @@ def _offline_answer(message: str, hits: list[dict], brief: dict) -> str:
         )
     if "a3" in q or "present" in q or "folio" in q:
         parts.append(
-            "**Deliverables:** All reports are **A3 landscape folios** (AT1.1/1.2 ≥9 pages, AT2.1 ≥6, etc.). "
+            "**Deliverables:** All reports are **A3 landscape folios** (AT1.1/1.2 ≥9 pages, AT2.1 NCC ≥6, AT2.2 LHD/BADS ≥9, AT2.3 energy ≥6, AT2.4 Revit DD set). "
             "Use Export → A3 in the studio cockpit."
         )
     if "country" in q or "indigenous" in q or "plant" in q or "landscape" in q:
