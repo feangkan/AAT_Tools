@@ -3,13 +3,13 @@
 **Project:** 63–67 Nicholson St, Footscray · ARCH3372  
 **Rule:** AT2 is design development of the same building AT1 already argued. Hybrid B, the 6.0 m grid, and Class 3 lodging are not reopened.
 
-**Presentation content — use these files:**
+**Presentation content — use these files.** Course minimums are the floor (slides 1–N). Extra slides after that are extensions.
 
-| Report | File | Sections | Course min |
-|---|---|---|---|
-| AT2.1 NCC | [`docs/AT2.1-week5-NCC-report.md`](./AT2.1-week5-NCC-report.md) | 8 | 6 × A3 |
-| AT2.2 LHD + BADS | [`docs/AT2.2-lhd-bads-report.md`](./AT2.2-lhd-bads-report.md) | 14 | 9 × A3 |
-| AT2.3 Energy | [`docs/AT2.3-environmental-report.md`](./AT2.3-environmental-report.md) | 12 | 6 × A3 |
+| Report | File | Required slides | Extensions | Course min |
+|---|---|---|---|---|
+| AT2.1 NCC | [`docs/AT2.1-week5-NCC-report.md`](./AT2.1-week5-NCC-report.md) | 1–6 | 7–8 | 6 × A3 |
+| AT2.2 LHD + BADS | [`docs/AT2.2-lhd-bads-report.md`](./AT2.2-lhd-bads-report.md) | 1–9 (G7, D18–D21, D26–D29) | 10–12 | 9 × A3 |
+| AT2.3 Energy | [`docs/AT2.3-environmental-report.md`](./AT2.3-environmental-report.md) | 1–6 (H6, J1P2, J1P3, J3, J4, J6) | 7–8 | 6 × A3 |
 
 Each section is one slide: real clause text, **bold** keywords, analysis on *this* building, a table, a short citation. Not AI-prompt language.
 
@@ -48,9 +48,9 @@ Checking the repo's 2015-edition PDFs and the live NCC 2022 site turned up a few
 
 | ID | Name | Week | Min | This folio |
 |---|---|---|---|---|
-| AT2.1 | NCC Report | 5 | 6 × A3 | 8 sections |
-| AT2.3 | Environmental / energy | 5 | 6 × A3 | 12 sections |
-| AT2.2 | LHD + BADS | 6 | 9 × A3 | 14 sections |
+| AT2.1 | NCC Report | 5 | 6 × A3 | 6 required + 2 extension |
+| AT2.3 | Environmental / energy | 5 | 6 × A3 | 6 required + 2 extension |
+| AT2.2 | LHD + BADS | 6 | 9 × A3 | 9 required + 3 extension |
 | AT2.4 | DD drawings (Revit) | 4–7 | drawing set | not this week |
 
 AT2 package due Mon 7 Sep 12:00.

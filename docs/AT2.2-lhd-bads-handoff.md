@@ -2,7 +2,7 @@
 
 The presentable report is now:
 
-**[`docs/AT2.2-lhd-bads-report.md`](./AT2.2-lhd-bads-report.md)** — 14 sections (course minimum 9), same style as AT2.1: real clause quotes, bold keywords, analysis on this Class 3 Hybrid B building, tables, Chicago citations.
+**[`docs/AT2.2-lhd-bads-report.md`](./AT2.2-lhd-bads-report.md)** — 9 required slides (G7, D18–D21, D26–D29) plus 3 extensions, same style as AT2.1.
 
 This file was a 9-sheet planning note. Do not present it.
 

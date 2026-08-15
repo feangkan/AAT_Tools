@@ -5,6 +5,19 @@
 
 *How to use this document:* each section below is one presentation slide. The **bold** words in each quoted clause are the phrases to highlight when the slide is built (yellow highlighter, or bold text is enough). The paragraph under each clause is the actual analysis to read out / put on the slide — it is written in full already, not as a set of instructions.
 
+Course **minimum 6 × A3**. Slides 1–6 are that required set. Slides 7–8 are allowed extensions (the brief also names AS 2890.1; slide 8 is the drawing map).
+
+| Slide | Topic | Status |
+|---|---|---|
+| 1 | A3 / A6 classification | Required |
+| 2 | D1 / D2D5 escape | Required |
+| 3 | F2 sanitary (Tables F2.3 / F2.4) | Required |
+| 4 | Part 2.1 / B1P1 structure | Required |
+| 5 | Part 10.2 / F2D2 wet areas | Required |
+| 6 | AS 1428.1 access | Required |
+| 7 | AS 2890.1 parking | Extension (also listed in the brief) |
+| 8 | How the requirements come together | Extension |
+
 ---
 
 ## 1. Building classification
