@@ -5,7 +5,7 @@
 
 *How to use this document:* each section below is one presentation slide. The **bold** words in each quoted clause are the phrases to highlight when the slide is built. The paragraph under each clause is the actual analysis — written in full already. This report does not reclassify the residential floors as Class 2 in order to use Part J3 or J1P2 as a Deemed-to-Satisfy pathway.
 
-Course **minimum 6 × A3**. Slides 1–6 are that required set (H6, J1P2, J1P3, J3D4–J3D10, J4D3–J4D7, J6D3–J6D4). Slides 7–8 are extensions: the Class 3 Performance Requirement that actually binds this building, and how fabric/HVAC land on Hybrid B.
+Course **minimum 6 × A3**. Slides 1–6 are that required set (H6, J1P2, J1P3, J3D4–J3D10, J4D3–J4D7, J6D3–J6D4). Slides 7 onward are extra.
 
 | Slide | Topic | Status |
 |---|---|---|
@@ -15,8 +15,12 @@ Course **minimum 6 × A3**. Slides 1–6 are that required set (H6, J1P2, J1P3, 
 | 4 | J3D4 to J3D10 Elemental provisions | Required |
 | 5 | J4D3 to J4D7 Building fabric | Required |
 | 6 | J6D3 and J6D4 Air-conditioning and ventilation | Required |
-| 7 | J1P1 Class 3 energy use (the clause that actually applies) | Extension |
-| 8 | How insulation, fabric and HVAC land on Hybrid B | Extension |
+| 7 | J1P1 Class 3 energy use (the clause that actually applies) | Extra |
+| 8 | How insulation, fabric and HVAC land on Hybrid B | Extra |
+| 9 | J5 building sealing | Extra |
+| 10 | Class 6 retail fabric vs Class 3 | Extra |
+| 11 | J1P4 PV-ready roof and J1V1 NABERS Hotels | Extra |
+| 12 | CLT balcony thermal break and condensation | Extra |
 
 Footscray is **NCC climate zone 6**. Every R-Value and U-Value below is the climate-zone-6 figure.
 
@@ -215,4 +219,93 @@ AT1.4 decided the structure. AT2.1 classified it. AT2.2 set the studio amenity o
 
 ---
 
-*Australian Building Codes Board, National Construction Code 2022, Volume One, Section J (Parts J1, J3, J4, J6) and Housing Provisions Part H6. Australian Building Codes Board, NCC climate zone map — climate zone 6, Melbourne. Department of Transport and Planning (Victoria), Maribyrnong Planning Scheme, cl. 58.03-1 (Standard D6 cooling load).*
+## 9. Extra — J5 building sealing
+
+> **J1P1** requires **sealing of the building envelope against air leakage**. Part J5 is the Deemed-to-Satisfy for that: chimneys and flues, roof lights, windows and doors, exhaust fans, and the construction of roofs, walls and floors forming part of the envelope must be sealed to restrict air leakage.
+>
+> Windows and doors in the envelope need **seals** (except a window or door that is not part of the envelope). Exhaust fans serving a conditioned space need a **self-closing damper** or the like. Envelope junctions — wall to floor, wall to roof, around services — are sealed.
+>
+> — ABCB, *NCC 2022*, Volume One, Part J5, as the DTS to J1P1(f).
+
+A CLT panel is not automatically airtight. Air leaks at **panel joints**, **window openings in the rainscreen**, the **balcony sliding door**, and **service penetrations** through the acoustic topping (waste, water, AC condensate). J5 is why those joints get a specified air barrier (taped CLT joints or an airtight membrane outboard of the panel), why the D20 sliding door needs a compressible seal (and why J6D3 then kills the AC if that door stays open), and why ensuite exhaust should not be a permanent hole to outside without a damper — it would dump conditioned air all night.
+
+The Class 6 shopfront is the leaky piece: a revolving or draft-lobbied entry is the J5 reading of a MAC retail door. Do not rely on the student lobby to buffer the shop.
+
+| Leak path | J5 response on Hybrid B |
+|---|---|
+| CLT panel joints | Taped joints or continuous air barrier |
+| Window / balcony door | Specified seals; J6D3 interlock on the door |
+| Ensuite exhaust | Self-closing damper |
+| Service penetrations | Sealed sleeves through the topping and CLT |
+| Shopfront | Draft lobby or equivalent; separate from the student entry |
+
+---
+
+## 10. Extra — Class 6 retail fabric vs Class 3
+
+> **J4D6.** Wall-glazing Total System U-Value: **U1.1** for a Class 3 building in climate zone 6; **U2.0** for a Class 6 building (all climate zones). Solar admittance in CZ6: Table J4D6c **0.07** for Class 3; Table J4D6b **0.13** for Class 6. Opaque wall where the wall is ≥ 80% of the wall-glazing area, CZ6: Class 3 **R2.8**; Class 6 **R1.4** (Table J4D6a). Display glazing: Total System U-Value not greater than **U5.8**.
+>
+> — ABCB, *NCC 2022*, Volume One, cl. J4D6, Tables J4D6a–c.
+
+The podium and the tower are not the same envelope. The **shop** may have a more glazed street wall (Nicholson Street activation, D19) and is allowed a higher U-Value (**U2.0** vs **U1.1**), a higher solar admittance (**0.13** vs **0.07**) and a weaker opaque wall (**R1.4** vs **R2.8**). The **studios** cannot borrow those Class 6 numbers. Spec 37 is run **twice**: once on the shopfront, once on a typical 6.0 m residential bay. The concrete transfer slab between them is a J4D7 floor for whichever side is the envelope of a conditioned space.
+
+Display glazing in the shop has its own cap (Total System U-Value of display glazing not greater than **U5.8**, SHGC per J4D6(7)). That is a shop window, not a studio balcony door.
+
+| Test (CZ6) | Class 3 studios | Class 6 shop |
+|---|---|---|
+| Wall-glazing U-Value | **U1.1** | **U2.0** |
+| Solar admittance | **0.07** | **0.13** (Table J4D6b) |
+| Opaque wall if ≥ 80% | **R2.8** | **R1.4** |
+| Typical make-up | CLT + insulation + low-SHGC door | Concrete podium + shopfront glazing |
+| Display glass | N/A | U5.8 / SHGC cap |
+
+---
+
+## 11. Extra — J1P4 PV-ready roof and J1V1 NABERS Hotels
+
+> **J1P4.** A building must have features that facilitate the **future installation** of on-site renewable energy generation and storage and electric vehicle charging equipment.
+>
+> **J1V1(3) — Class 3.** Compliance with J1P1 is verified when a minimum **4-star NABERS Energy for Hotels** Commitment Agreement is obtained; services operate not less than 12 hours/day in bedrooms, dining and conference, 24 hours in corridors and foyers, 18 hours back-of-house; the model shows GHG **less than 70% of the 5-star level**; and PMV **−1 to +1** across **95%** of occupied floor for **98%** of annual operating hours.
+>
+> — ABCB, *NCC 2022*, Volume One, cl. J1P4, J1V1(3).
+
+We are on the **DTS path** (J4 + J6), not a NABERS commitment, unless a later services engineer switches. This extra records what that switch would mean, and what J1P4 still demands on DTS.
+
+PV-ready: plant and PV split on the roof so J4D4 insulation stays continuous; structure sized for PV dead load on CLT or concrete; spare isolator at the main switchboard; cable riser in the RC core (not chased into CLT). EV-ready: conduit to whatever car bay exists — likely none for residents (AT2.1 §7), so this is a small visitor/accessible provision, not a basement of chargers.
+
+If J1V1 is used instead of DTS, student housing maps to **Hotels**, not Offices, and the 24-hour corridor schedule matches a managed lodging building better than an apartment common-area profile.
+
+| Path | What we do now | What would change |
+|---|---|---|
+| DTS (chosen) | J4 fabric + J6 HVAC | PV-ready roof still drawn (J1P4) |
+| J1V1 Hotels (optional) | Not committed | 4-star agreement; model < 70% of 5-star GHG; PMV check |
+| PV | Facilitation | Clear roof field, spare isolator, core riser |
+| EV | Facilitation | Conduit to any bay that exists |
+
+---
+
+## 12. Extra — CLT balcony thermal break and condensation
+
+> **J4D3(5).** Total R-Value and Total System U-Value must include **thermal bridging**, calculated to AS/NZS 4859.2 or Specification 37.
+>
+> **F8 / condensation (Volume One).** In climate zones 4–8, a risk of condensation at thermal bridges and on the cold side of impermeable linings is a separate NCC concern from energy, but the same Hybrid B details control both.
+>
+> — ABCB, *NCC 2022*, Volume One, cl. J4D3; Part F8 as the related moisture check in CZ6.
+
+The 6.0 m balcony that D20 and D28 need is the energy weak point. If the CLT floor panel runs outboard as the balcony without a break, that bay’s wall-glazing construction will not hold **U1.1 / 0.07**, and in climate zone 6 the soffit above the balcony door becomes a condensation line on the room side. Two honest details, either of which can be drawn in AT2.4:
+
+1. **Broken balcony:** a separate balcony structure (steel or glulam) with a thermal break at the CLT edge, drainage and a sealed window line at the warm wall.
+2. **Insulated upstand:** CLT continues but insulation and a thermal break wrap the edge, and the sliding door sits inboard of that wrap.
+
+Do not draw a raw CLT balcony slab as if timber were automatically a break — the panel is continuous with the interior floor. Service penetrations for the AC condensate (J6) must not punch that break. This is the same junction AT2.1 §5 already uses for the wet-area membrane; energy and waterproofing share the detail.
+
+| Junction | If ignored | If detailed |
+|---|---|---|
+| CLT floor → balcony | Bridge; U-Value fails; condensation at the door head | Thermal break or separate balcony structure |
+| Rainscreen clips to CLT | Repeating steel bridges | R0.2 breaks (J3D6 idea, applied via J4D3) |
+| Window head on CLT | Crushed insulation, uncounted bridge | Designed packer, insulation at full thickness |
+| AC condensate through the floor | Hole in the air barrier (J5) | Sealed sleeve, outside the break |
+
+---
+
+*Australian Building Codes Board, National Construction Code 2022, Volume One, Section J (Parts J1, J3, J4, J5, J6) and Housing Provisions Part H6. Australian Building Codes Board, NCC climate zone map — climate zone 6, Melbourne. Department of Transport and Planning (Victoria), Maribyrnong Planning Scheme, cl. 58.03-1 (Standard D6 cooling load).*
