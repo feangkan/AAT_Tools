@@ -13,6 +13,8 @@
 
 Each section is one slide: real clause text, **bold** keywords, analysis on *this* building, a table, a short citation. Not AI-prompt language.
 
+**Claude Design (A3 PDFs):** paste the three prompts in [`docs/AT2-claude-design-handoff.md`](./AT2-claude-design-handoff.md) at https://claude.ai/design with repo branch `cursor/at2-week5-f836` connected. That handoff is a production tool — do not put it in the tutor folio.
+
 ---
 
 ## Corrections made against the actual current NCC text
