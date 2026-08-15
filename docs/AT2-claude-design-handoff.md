@@ -18,7 +18,7 @@ This file is a **production brief for Claude Design**, not the student folio. Tu
 - AT2.2: https://github.com/feangkan/AAT_Tools/blob/cursor/at2-week5-f836/docs/AT2.2-lhd-bads-report.md
 - AT2.3: https://github.com/feangkan/AAT_Tools/blob/cursor/at2-week5-f836/docs/AT2.3-environmental-report.md
 
-Start at https://claude.ai/design · connect this GitHub repo on that branch · paste **one prompt below per folio** (three Design projects, not one 40-sheet mash).
+Start at https://claude.ai/design · connect this GitHub repo on that branch · paste **the single prompt below** (one copy-paste covers all three folios).
 
 ---
 
@@ -41,89 +41,65 @@ A3 landscape **420 × 297 mm**. Navy `#1f4b66`, white ground, black hairline bor
 
 ---
 
-## Prompt 1 — AT2.1 NCC (paste as-is)
+## Single prompt — all three folios (copy everything below)
 
 ```
-Build an A3 landscape folio for RMIT ARCH3372 AT2.1 NCC Report.
+Build THREE separate A3 landscape PDF folios for RMIT ARCH3372 AT2 at 63–67 Nicholson St, Footscray.
 
 Connect GitHub repo https://github.com/feangkan/AAT_Tools on branch cursor/at2-week5-f836.
-Source of truth (copy verbatim, do not rewrite): docs/AT2.1-week5-NCC-report.md
+
+These are TEXT folios for tutor presentation — NOT AT1.4’s left-diagram / right-text layout. Copy all clause quotes, analysis, and tables verbatim from the markdown sources. Do not rewrite, shorten, or add “Diagram:”, “layout”, or AI-prompt language.
+
+GLOBAL LAYOUT (every sheet in all three folios):
+A3 landscape 420 × 297 mm. Navy #1f4b66, white ground, black hairline border inset ~8 mm.
+- Header: ARCH3372 · AT2.x · sheet title from the markdown ## N. … heading
+- Clause box: the blockquote, verbatim. Yellow-highlight every **bold** phrase from the markdown.
+- Body: the analysis paragraph(s) verbatim.
+- Table: the section’s markdown table, full width, readable type.
+- Footer: Chicago citation from that section (or the file-end citation if the section has none).
+- Title block bottom-right: 63–67 Nicholson St, Footscray · ACZ1 · Wurundjeri Country · Sheet x/N
+
+GLOBAL LOCKS (all folios):
+Class 3 lodging + Class 6 retail. Hybrid B. 6.0 m grid. Do not reclassify to Class 2. Do not reopen Hybrid A/C. Do not invent numbers. One markdown ## section = one sheet, in file order.
+
+---
+
+FOLIO 1 — AT2.1 NCC Report (12 sheets)
+Source: docs/AT2.1-week5-NCC-report.md
 https://github.com/feangkan/AAT_Tools/blob/cursor/at2-week5-f836/docs/AT2.1-week5-NCC-report.md
-
-12 sheets. Each markdown heading ## 1 through ## 12 is one sheet, in that order.
-
-This is a TEXT folio for a tutor presentation — not AT1.4’s left-diagram / right-text layout.
-Per sheet:
-- Header: ARCH3372 · AT2.1 NCC Report · sheet title
-- Clause box: the blockquote, verbatim. Yellow-highlight every **bold** phrase from the markdown.
-- Body: the analysis paragraphs verbatim. Do not shorten. Do not add “Diagram:”, “layout”, or AI-prompt language.
-- Table: the section’s markdown table, full width.
-- Footer: Chicago citation from that section.
-- Title block bottom-right: 63–67 Nicholson St, Footscray · ACZ1 · Wurundjeri Country · Sheet x/12
-
-Locked: Class 3 lodging + Class 6 retail, Hybrid B, 6.0 m grid. Do not reclassify to Class 2.
-Travel distances are 6 m (SOU door to choice) / 20 m (corridor), not 40 m.
-Wet areas are F2D2 + Spec 26, not Housing Provisions Part 10.2.
-Sprinklers: E1D6, rise ≥ 4, effective height ≤ 25 m.
-
-Export as 12-page A3 landscape PDF when done.
-```
+Sheets: ## 1 through ## 12, in order. Header prefix: ARCH3372 · AT2.1 NCC Report ·
+Title block: Sheet x/12
+AT2.1 locks: Travel distances 6 m (SOU door to choice) / 20 m (corridor), not 40 m. Wet areas F2D2 + Spec 26, not Housing Provisions Part 10.2. Sprinklers E1D6, rise ≥ 4, effective height ≤ 25 m.
+Export: 12-page A3 landscape PDF named AT2.1-NCC.pdf
 
 ---
 
-## Prompt 2 — AT2.2 LHD + BADS (paste as-is)
-
-```
-Build an A3 landscape folio for RMIT ARCH3372 AT2.2 Livable Housing Design and BADS Report.
-
-Connect GitHub repo https://github.com/feangkan/AAT_Tools on branch cursor/at2-week5-f836.
-Source of truth (copy verbatim, do not rewrite): docs/AT2.2-lhd-bads-report.md
+FOLIO 2 — AT2.2 Livable Housing Design and BADS Report (16 sheets)
+Source: docs/AT2.2-lhd-bads-report.md
 https://github.com/feangkan/AAT_Tools/blob/cursor/at2-week5-f836/docs/AT2.2-lhd-bads-report.md
-
-16 sheets. Each markdown heading ## 1 through ## 16 is one sheet, in that order.
-
-TEXT folio — not AT1.4’s left-diagram / right-text layout.
-Per sheet:
-- Header: ARCH3372 · AT2.2 LHD & BADS · sheet title
-- Clause box: the blockquote, verbatim. Yellow-highlight every **bold** phrase from the markdown.
-- Body: the analysis paragraphs verbatim. Do not shorten. Do not add “Diagram:”, “layout”, or AI-prompt language.
-- Table: the section’s markdown table, full width.
-- Footer: Chicago citation from that section (or the file-end citation).
-- Title block bottom-right: 63–67 Nicholson St, Footscray · ACZ1 · Wurundjeri Country · Sheet x/16
-
-Locked: Class 3 lodging + Class 6 retail, Hybrid B, 6.0 m grid. G7 is an amenity overlay, not a reclassification to Class 2.
-Keep the honest conflicts on the page: D18 50% vs brief 1:20 DDA; D21 5 m³ vs 15–25 m² studio; D26 apartment sizes vs locked studio; D29 40% cross-vent vs double-loaded plate.
-
-Export as 16-page A3 landscape PDF when done.
-```
+Sheets: ## 1 through ## 16, in order. Header prefix: ARCH3372 · AT2.2 LHD & BADS ·
+Title block: Sheet x/16
+AT2.2 locks: G7 is an amenity overlay, not a reclassification to Class 2. Keep honest conflicts on the page: D18 50% vs brief 1:20 DDA; D21 5 m³ vs 15–25 m² studio; D26 apartment sizes vs locked studio; D29 40% cross-vent vs double-loaded plate.
+Export: 16-page A3 landscape PDF named AT2.2-LHD-BADS.pdf
 
 ---
 
-## Prompt 3 — AT2.3 Energy (paste as-is)
-
-```
-Build an A3 landscape folio for RMIT ARCH3372 AT2.3 Environmental Design Analysis (Energy).
-
-Connect GitHub repo https://github.com/feangkan/AAT_Tools on branch cursor/at2-week5-f836.
-Source of truth (copy verbatim, do not rewrite): docs/AT2.3-environmental-report.md
+FOLIO 3 — AT2.3 Environmental Design Analysis / Energy (12 sheets)
+Source: docs/AT2.3-environmental-report.md
 https://github.com/feangkan/AAT_Tools/blob/cursor/at2-week5-f836/docs/AT2.3-environmental-report.md
+Sheets: ## 1 through ## 12, in order. Header prefix: ARCH3372 · AT2.3 Environmental Design ·
+Title block: Sheet x/12
+AT2.3 locks: NCC climate zone 6. H6 does not apply (Class 1/10). J1P2 / J1P3 / J3 are Class 2 SOU headings. Class 3 pathway is J1P1 + J4 + J6. Class 3 CZ6 wall-glazing U1.1 / solar admittance 0.07, not Class 2 elemental U2.0 / 0.14.
+Export: 12-page A3 landscape PDF named AT2.3-Energy.pdf
 
-12 sheets. Each markdown heading ## 1 through ## 12 is one sheet, in that order.
+---
 
-TEXT folio — not AT1.4’s left-diagram / right-text layout.
-Per sheet:
-- Header: ARCH3372 · AT2.3 Environmental Design · sheet title
-- Clause box: the blockquote, verbatim. Yellow-highlight every **bold** phrase from the markdown.
-- Body: the analysis paragraphs verbatim. Do not shorten. Do not add “Diagram:”, “layout”, or AI-prompt language.
-- Table: the section’s markdown table, full width.
-- Footer: Chicago citation from that section (or the file-end citation).
-- Title block bottom-right: 63–67 Nicholson St, Footscray · ACZ1 · Wurundjeri Country · Sheet x/12
+WORK ORDER:
+1. Build Folio 1 (12 sheets) → export AT2.1-NCC.pdf
+2. Build Folio 2 (16 sheets) → export AT2.2-LHD-BADS.pdf
+3. Build Folio 3 (12 sheets) → export AT2.3-Energy.pdf
 
-Locked: Class 3 lodging + Class 6 retail, Hybrid B, 6.0 m grid, NCC climate zone 6.
-H6 does not apply (Class 1/10). J1P2 / J1P3 / J3 are Class 2 SOU headings. The Class 3 pathway is J1P1 + J4 + J6.
-Class 3 CZ6 wall-glazing is U1.1 / solar admittance 0.07, not the Class 2 elemental U2.0 / 0.14.
-
-Export as 12-page A3 landscape PDF when done.
+Total: 40 sheets across three PDFs. No photos required. Optional simple schematic only on AT2.1 sheet 10 (travel on 6.0 m floor) and AT2.2 sheet 13 (typical bay) — still text-led.
 ```
 
 ---
@@ -132,9 +108,8 @@ Export as 12-page A3 landscape PDF when done.
 
 1. Open https://claude.ai/design
 2. New project → import GitHub `feangkan/AAT_Tools` → branch `cursor/at2-week5-f836`
-3. Paste Prompt 1, wait, export PDF
-4. New project → paste Prompt 2 → export
-5. New project → paste Prompt 3 → export
+3. Paste the single prompt above (everything inside the code fence)
+4. Wait for all three PDFs → export each when ready
 
 If GitHub import fails, paste the matching `docs/AT2.x-….md` file into the chat as well as the prompt.
 
