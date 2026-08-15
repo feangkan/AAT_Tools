@@ -5,22 +5,22 @@
 
 *How to use this document:* each section below is one presentation slide. The **bold** words in each quoted clause are the phrases to highlight when the slide is built. The paragraph under each clause is the actual analysis — written in full already. This report does not reclassify the residential floors as Class 2 in order to use Part J3 or J1P2 as a Deemed-to-Satisfy pathway.
 
-Course **minimum 6 × A3**. Slides 1–6 are that required set (H6, J1P2, J1P3, J3D4–J3D10, J4D3–J4D7, J6D3–J6D4). Slides 7 onward are extra.
+Course **minimum 6 × A3**. This folio presents **12** slides: the required six (H6, J1P2, J1P3, J3, J4, J6), plus J1P1 for Class 3, how fabric/HVAC land on Hybrid B, J5 sealing, Class 6 vs Class 3 fabric, PV-ready roof / NABERS, and the CLT balcony thermal break.
 
-| Slide | Topic | Status |
-|---|---|---|
-| 1 | Part H6 Energy efficiency | Required |
-| 2 | J1P2 Thermal performance | Required |
-| 3 | J1P3 Energy usage | Required |
-| 4 | J3D4 to J3D10 Elemental provisions | Required |
-| 5 | J4D3 to J4D7 Building fabric | Required |
-| 6 | J6D3 and J6D4 Air-conditioning and ventilation | Required |
-| 7 | J1P1 Class 3 energy use (the clause that actually applies) | Extra |
-| 8 | How insulation, fabric and HVAC land on Hybrid B | Extra |
-| 9 | J5 building sealing | Extra |
-| 10 | Class 6 retail fabric vs Class 3 | Extra |
-| 11 | J1P4 PV-ready roof and J1V1 NABERS Hotels | Extra |
-| 12 | CLT balcony thermal break and condensation | Extra |
+| Slide | Topic |
+|---|---|
+| 1 | Part H6 Energy efficiency |
+| 2 | J1P2 Thermal performance |
+| 3 | J1P3 Energy usage |
+| 4 | J3D4 to J3D10 Elemental provisions |
+| 5 | J4D3 to J4D7 Building fabric |
+| 6 | J6D3 and J6D4 Air-conditioning and ventilation |
+| 7 | J1P1 Class 3 energy use |
+| 8 | How insulation, fabric and HVAC land on Hybrid B |
+| 9 | J5 building sealing |
+| 10 | Class 6 retail fabric vs Class 3 |
+| 11 | J1P4 PV-ready roof and J1V1 NABERS Hotels |
+| 12 | CLT balcony thermal break and condensation |
 
 Footscray is **NCC climate zone 6**. Every R-Value and U-Value below is the climate-zone-6 figure.
 
@@ -179,7 +179,7 @@ Common-area ventilation is J6D4: corridor and lobby air that can be turned off b
 
 ---
 
-## 7. Extension — J1P1, the Class 3 Performance Requirement
+## 7. J1P1, the Class 3 Performance Requirement
 
 > **J1P1 — Energy use.** A building, *other than a Class 2 SOU or Class 4 part*, including its services, must facilitate efficient use of energy appropriate to function, comfort, solar radiation **utilised for heating** and **controlled to minimise energy for cooling**, energy source, and **sealing of the envelope**; and, for a conditioned space, an hourly regulated energy consumption of not more than **80 kJ/m²·hr** for a **Class 6** building, and **15 kJ/m²·hr** for **all other classifications** (including **Class 3**).
 >
@@ -197,7 +197,7 @@ This is the Performance Requirement that actually binds our residential floors. 
 
 ---
 
-## 8. Extension — how insulation, fabric and HVAC land on Hybrid B
+## 8. How insulation, fabric and HVAC land on Hybrid B
 
 > **J1P4 — Renewable energy and electric vehicle charging.** A building must have features that facilitate the **future installation** of on-site renewable energy generation and storage and electric vehicle charging equipment.
 >
@@ -219,7 +219,7 @@ AT1.4 decided the structure. AT2.1 classified it. AT2.2 set the studio amenity o
 
 ---
 
-## 9. Extra — J5 building sealing
+## 9. J5 building sealing
 
 > **J1P1** requires **sealing of the building envelope against air leakage**. Part J5 is the Deemed-to-Satisfy for that: chimneys and flues, roof lights, windows and doors, exhaust fans, and the construction of roofs, walls and floors forming part of the envelope must be sealed to restrict air leakage.
 >
@@ -241,7 +241,7 @@ The Class 6 shopfront is the leaky piece: a revolving or draft-lobbied entry is 
 
 ---
 
-## 10. Extra — Class 6 retail fabric vs Class 3
+## 10. Class 6 retail fabric vs Class 3
 
 > **J4D6.** Wall-glazing Total System U-Value: **U1.1** for a Class 3 building in climate zone 6; **U2.0** for a Class 6 building (all climate zones). Solar admittance in CZ6: Table J4D6c **0.07** for Class 3; Table J4D6b **0.13** for Class 6. Opaque wall where the wall is ≥ 80% of the wall-glazing area, CZ6: Class 3 **R2.8**; Class 6 **R1.4** (Table J4D6a). Display glazing: Total System U-Value not greater than **U5.8**.
 >
@@ -261,7 +261,7 @@ Display glazing in the shop has its own cap (Total System U-Value of display gla
 
 ---
 
-## 11. Extra — J1P4 PV-ready roof and J1V1 NABERS Hotels
+## 11. J1P4 PV-ready roof and J1V1 NABERS Hotels
 
 > **J1P4.** A building must have features that facilitate the **future installation** of on-site renewable energy generation and storage and electric vehicle charging equipment.
 >
@@ -269,7 +269,7 @@ Display glazing in the shop has its own cap (Total System U-Value of display gla
 >
 > — ABCB, *NCC 2022*, Volume One, cl. J1P4, J1V1(3).
 
-We are on the **DTS path** (J4 + J6), not a NABERS commitment, unless a later services engineer switches. This extra records what that switch would mean, and what J1P4 still demands on DTS.
+We are on the **DTS path** (J4 + J6), not a NABERS commitment, unless a later services engineer switches. This slide records what that switch would mean, and what J1P4 still demands on DTS.
 
 PV-ready: plant and PV split on the roof so J4D4 insulation stays continuous; structure sized for PV dead load on CLT or concrete; spare isolator at the main switchboard; cable riser in the RC core (not chased into CLT). EV-ready: conduit to whatever car bay exists — likely none for residents (AT2.1 §7), so this is a small visitor/accessible provision, not a basement of chargers.
 
@@ -284,7 +284,7 @@ If J1V1 is used instead of DTS, student housing maps to **Hotels**, not Offices,
 
 ---
 
-## 12. Extra — CLT balcony thermal break and condensation
+## 12. CLT balcony thermal break and condensation
 
 > **J4D3(5).** Total R-Value and Total System U-Value must include **thermal bridging**, calculated to AS/NZS 4859.2 or Specification 37.
 >

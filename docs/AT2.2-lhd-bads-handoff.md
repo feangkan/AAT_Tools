@@ -2,7 +2,7 @@
 
 The presentable report is now:
 
-**[`docs/AT2.2-lhd-bads-report.md`](./AT2.2-lhd-bads-report.md)** — 9 required slides (G7, D18–D21, D26–D29) plus extras (doors, ensuite, drawing map, typical bay, DDA, door-width stack, communal kitchen).
+**[`docs/AT2.2-lhd-bads-report.md`](./AT2.2-lhd-bads-report.md)** — 16 slides to present (course minimum 9).
 
 This file was a 9-sheet planning note. Do not present it.
 

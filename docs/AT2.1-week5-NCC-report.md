@@ -5,22 +5,22 @@
 
 *How to use this document:* each section below is one presentation slide. The **bold** words in each quoted clause are the phrases to highlight when the slide is built (yellow highlighter, or bold text is enough). The paragraph under each clause is the actual analysis to read out / put on the slide — it is written in full already, not as a set of instructions.
 
-Course **minimum 6 × A3**. Slides 1–6 are that required set. Slides 7 onward are extra.
+Course **minimum 6 × A3**. This folio presents **12** slides: the required six, plus parking, the drawing map, sprinklers, travel distances, Type A stairs, and the Class 6 sanitary worked example.
 
-| Slide | Topic | Status |
-|---|---|---|
-| 1 | A3 / A6 classification | Required |
-| 2 | D1 / D2D5 escape | Required |
-| 3 | F2 sanitary (Tables F2.3 / F2.4) | Required |
-| 4 | Part 2.1 / B1P1 structure | Required |
-| 5 | Part 10.2 / F2D2 wet areas | Required |
-| 6 | AS 1428.1 access | Required |
-| 7 | AS 2890.1 parking | Extension (also listed in the brief) |
-| 8 | How the requirements come together | Extension |
-| 9 | E1D6 sprinklers | Extra |
-| 10 | Travel distances on the 6.0 m typical floor | Extra |
-| 11 | Type A construction and fire-isolated stairs | Extra |
-| 12 | Class 6 retail sanitary worked example | Extra |
+| Slide | Topic |
+|---|---|
+| 1 | A3 / A6 classification |
+| 2 | D1 / D2D5 escape |
+| 3 | F2 sanitary (Tables F2.3 / F2.4) |
+| 4 | Part 2.1 / B1P1 structure |
+| 5 | Part 10.2 / F2D2 wet areas |
+| 6 | AS 1428.1 access |
+| 7 | AS 2890.1 parking |
+| 8 | How the requirements come together |
+| 9 | E1D6 sprinklers |
+| 10 | Travel distances on the 6.0 m typical floor |
+| 11 | Type A construction and fire-isolated stairs |
+| 12 | Class 6 retail sanitary worked example |
 
 ---
 
@@ -186,7 +186,7 @@ Our Week 2 Structural System Report sets out the reasoning behind the Hybrid B s
 
 ---
 
-## 9. Extra — E1D6 sprinklers (why Class 3 triggers them)
+## 9. E1D6 sprinklers (why Class 3 triggers them)
 
 > **E1D6 — Sprinklers in Class 2 and 3 buildings.** A sprinkler system must be provided throughout a Class 2 or 3 building where the **rise in storeys is 4 or more** and the **effective height is not more than 25 m**.
 >
@@ -205,7 +205,7 @@ If the design ever goes above 25 m effective height, E1D6’s “not more than 2
 
 ---
 
-## 10. Extra — travel distances on the 6.0 m typical floor
+## 10. Travel distances on the 6.0 m typical floor
 
 > **D2D5 (Class 2 and 3).** SOU entrance doorway **≤ 6 m** from an exit or from a point of two-way choice. Corridor point **≤ 20 m** from an exit or a point of choice. **D2D6:** alternative exits **9–45 m** apart in a Class 2 or 3 building.
 >
@@ -226,7 +226,7 @@ These numbers replace the old “40 m Class 5–9” figure. Confirm with dimens
 
 ---
 
-## 11. Extra — Type A construction and the two fire-isolated stairs
+## 11. Type A construction and the two fire-isolated stairs
 
 > **C2D2 — Type of construction required.** A Class 2, 3 or 9 building with a rise in storeys of **4 or more** must be of **Type A** construction.
 >
@@ -247,13 +247,13 @@ Type A also sets FRLs for floors, walls and columns (Specification 5). Hybrid B�
 
 ---
 
-## 12. Extra — Class 6 retail sanitary, worked from the tables
+## 12. Class 6 retail sanitary, worked from the tables
 
 > **F4D4.** Sanitary facilities in Class 3 to 9 buildings per the occupancy tables. Class 6 restaurants, cafés, bars: **male patrons** 1 closet pan per 100 (then +1 per 200); urinals 1–50 then +1 per 100; **female patrons** 1 closet pan per 25, then +1 per 100 above 250. Employee facilities use the Class 3/5/6/9 employee bands (male 1 pan per 20; female 1 pan per 15).
 >
 > — ABCB, *NCC 2022*, Volume One, cl. F4D4.
 
-Slide 3 covered the principle (private ensuites exceed Class 3 DTS; tables apply to staff and retail). This extra sizes the **shop**. Assume a café/retail tenancy of about 80–120 people at peak (Footscray MAC, Nicholson Street frontage) plus a small staff of 4–8.
+Slide 3 covered the principle (private ensuites exceed Class 3 DTS; tables apply to staff and retail). This slide sizes the **shop**. Assume a café/retail tenancy of about 80–120 people at peak (Footscray MAC, Nicholson Street frontage) plus a small staff of 4–8.
 
 Patron WCs sit inside the tenancy, accessible from the shop floor, not through the student lobby (D19 already wants those entries distinguished). One accessible unisex facility can count toward the male or female number under F4D3. Staff WCs can be back-of-house, separate from patrons. Student ensuites do **not** count toward the Class 6 tables.
 

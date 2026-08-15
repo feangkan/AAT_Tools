@@ -5,26 +5,26 @@
 
 *How to use this document:* each section below is one presentation slide. The **bold** words in each quoted clause are the phrases to highlight when the slide is built. The paragraph under each clause is the actual analysis — written in full already. This report continues AT1.2 (Clause 58 on ACZ1) and AT1.4 Sheet 20. It does not reopen the Class 3 classification locked in AT1.4 and restated in AT2.1.
 
-Course **minimum 9 × A3**. Slides 1–9 are that required set (G7, then D18–D21, then D26–D29). Slides 10 onward are extra.
+Course **minimum 9 × A3**. This folio presents **16** slides: the required nine (G7, D18–D21, D26–D29), plus door widths, ensuite/noggings, the drawing map, the typical bay, the DDA room, the door-width stack, and the communal kitchen as living room.
 
-| Slide | Topic | Status |
-|---|---|---|
-| 1 | NCC Part G7 Livable housing design | Required |
-| 2 | 58.05 Standard D18 Accessibility | Required |
-| 3 | 58.05 Standard D19 Entry and circulation | Required |
-| 4 | 58.05 Standard D20 Private open space | Required |
-| 5 | 58.05 Standard D21 Storage | Required |
-| 6 | 58.07 Standard D26 Functional layout | Required |
-| 7 | 58.07 Standard D27 Room depth | Required |
-| 8 | 58.07 Standard D28 Windows | Required |
-| 9 | 58.07 Standard D29 Natural ventilation | Required |
-| 10 | LHD doors, corridors, thresholds | Extra (door-width reflection) |
-| 11 | LHD sanitary, hobless shower, noggings | Extra |
-| 12 | Where this lands on the drawings | Extra |
-| 13 | Typical studio on a 6.0 m bay | Extra |
-| 14 | DDA studio at 1:20 on the same grid | Extra |
-| 15 | Door-width stack: LHD / D18 / AS 1428.1 | Extra |
-| 16 | Communal kitchen as the D26 living room | Extra |
+| Slide | Topic |
+|---|---|
+| 1 | NCC Part G7 Livable housing design |
+| 2 | 58.05 Standard D18 Accessibility |
+| 3 | 58.05 Standard D19 Entry and circulation |
+| 4 | 58.05 Standard D20 Private open space |
+| 5 | 58.05 Standard D21 Storage |
+| 6 | 58.07 Standard D26 Functional layout |
+| 7 | 58.07 Standard D27 Room depth |
+| 8 | 58.07 Standard D28 Windows |
+| 9 | 58.07 Standard D29 Natural ventilation |
+| 10 | LHD doors, corridors, thresholds |
+| 11 | LHD sanitary, hobless shower, noggings |
+| 12 | Where this lands on the drawings |
+| 13 | Typical studio on a 6.0 m bay |
+| 14 | DDA studio at 1:20 on the same grid |
+| 15 | Door-width stack: LHD / D18 / AS 1428.1 |
+| 16 | Communal kitchen as the D26 living room |
 
 ---
 
@@ -211,7 +211,7 @@ A double-loaded corridor on a 6.0 m grid produces **single-aspect** studios. Tha
 
 ---
 
-## 10. Extension — LHD doors, corridors and thresholds
+## 10. LHD doors, corridors and thresholds
 
 > **Clause 2.1 / 3.1.** Entrance and internal doors: minimum clear opening **820 mm** (typically an **870 mm** leaf).
 >
@@ -221,7 +221,7 @@ A double-loaded corridor on a 6.0 m grid produces **single-aspect** studios. Tha
 >
 > — ABCB, *Livable Housing Design Standard 2022* (v1.3), Parts 2 and 3.
 
-This is the door-width reflection the course asks for, as extra depth under G7. LHD Silver is 820 mm. On the **accessible path and every DDA studio**, AT2.1 already uses the stricter AS 1428.1 **850 mm** — wider than LHD, not narrower. Standard studios: 820 mm at unit door and ensuite door, flush or ≤ 5 mm sill into the CLT acoustic topping. There is no house-style hallway inside a 15–25 m² studio. The 1000 mm test lands on the **common corridor** (already 1.8–2.0 m) and the **clear strip past bed and wardrobe** to the ensuite, which a 6.0 m bay can hold without enlarging the AT1 module.
+This is the door-width reflection the course asks for. LHD Silver is 820 mm. On the **accessible path and every DDA studio**, AT2.1 already uses the stricter AS 1428.1 **850 mm** — wider than LHD, not narrower. Standard studios: 820 mm at unit door and ensuite door, flush or ≤ 5 mm sill into the CLT acoustic topping. There is no house-style hallway inside a 15–25 m² studio. The 1000 mm test lands on the **common corridor** (already 1.8–2.0 m) and the **clear strip past bed and wardrobe** to the ensuite, which a 6.0 m bay can hold without enlarging the AT1 module.
 
 | Door / path | LHD minimum | What we provide |
 |---|---|---|
@@ -234,7 +234,7 @@ This is the door-width reflection the course asks for, as extra depth under G7. 
 
 ---
 
-## 11. Extension — LHD sanitary, hobless shower and noggings
+## 11. LHD sanitary, hobless shower and noggings
 
 > **Clause 4.2.** Sanitary compartment: **900 mm** between walls either side of the pan; basin **≥ 450 mm** from the pan centreline; clear **1200 mm × 900 mm** in front of the pan, **clear of the door swing**.
 >
@@ -254,7 +254,7 @@ Every studio is single-level, so the WC in the ensuite meets “entry level.” 
 
 ---
 
-## 12. Extension — where this lands on the drawings (AT2.4)
+## 12. Where this lands on the drawings (AT2.4)
 
 | Standard | Shown on |
 |---|---|
@@ -270,7 +270,7 @@ Every studio is single-level, so the WC in the ensuite meets “entry level.” 
 
 ---
 
-## 13. Extra — typical studio on a 6.0 m bay
+## 13. Typical studio on a 6.0 m bay
 
 This slide puts D20, D21, D26, D27, D28, D29 and LHD doors on **one room**, the locked 15–25 m² studio. No new module.
 
@@ -296,7 +296,7 @@ The ensuite and wardrobe take the dark end; bed and desk take the window end. Th
 
 ---
 
-## 14. Extra — DDA studio at 1:20 on the same 6.0 m grid
+## 14. DDA studio at 1:20 on the same 6.0 m grid
 
 > **Project brief.** One DDA accessible room for every 20 single units per floor, **30–35 m²**, on the same structural grid as the typical studios.
 >
@@ -317,7 +317,7 @@ On a 20-room floor that is **one DDA + nineteen typical**. Place the DDA next to
 
 ---
 
-## 15. Extra — door-width stack: LHD, D18, AS 1428.1
+## 15. Door-width stack: LHD, D18, AS 1428.1
 
 Three different instruments name three different door numbers. Putting them on one slide stops the folio from mixing them.
 
@@ -334,7 +334,7 @@ The strictest number on the **accessible path** is 850 mm, so that path is drawn
 
 ---
 
-## 16. Extra — communal kitchen as the D26 living room
+## 16. Communal kitchen as the D26 living room
 
 > **Standard D26 / Table D12.** Studio living area **10 m²**, minimum dimension **3.3 m**, excluding dining and kitchen.
 >
