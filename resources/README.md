@@ -21,6 +21,8 @@ Reference PDFs for NCC, BADS, mass timber, and **Maribyrnong planning**.
 - `Part F2 Sanitary and Other Facilities.pdf` — sanitary
 - `Livable-Housing-Design-Standard-2022-1.3.pdf` — LHD
 
+**Live tool:** https://buildingtools.co — converts NCC clauses into interactive visual/graphic explainers
+
 ## Mass timber
 
 - `5-MassTimberPedagogy-101-StructuralBasics.pdf`
