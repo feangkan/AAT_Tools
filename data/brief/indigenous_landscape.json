@@ -1,0 +1,72 @@
+{
+  "country": "Kulin Nation / Wurundjeri Country",
+  "region": "Melbourne west / Maribyrnong / Footscray",
+  "notes": [
+    "Acknowledge Traditional Owners; seek guidance for cultural protocols.",
+    "Planting supports the brief requirement for native vegetation in ≥50% ground-level open space.",
+    "Species selected for Melbourne west climate (temperate, low rainfall relative to east)."
+  ],
+  "sources": [
+    "VicFlora (Royal Botanic Gardens Victoria)",
+    "City of Maribyrnong / Melbourne urban forest open data",
+    "Ecological Vegetation Class concepts (DELWP / DEECA)"
+  ],
+  "palette": [
+    {
+      "common": "River Red Gum",
+      "scientific": "Eucalyptus camaldulensis",
+      "type": "tree",
+      "where": "Large open spaces, rain gardens, deep soil zones ≥6m",
+      "ecosystem": "Riparian / floodplain woodland"
+    },
+    {
+      "common": "Lightwood",
+      "scientific": "Acacia implexa",
+      "type": "tree",
+      "where": "Medium setbacks, courtyard edges",
+      "ecosystem": "Dry sclerophyll woodland"
+    },
+    {
+      "common": "Black Sheoak",
+      "scientific": "Allocasuarina littoralis",
+      "type": "tree",
+      "where": "Street edges, wind buffers",
+      "ecosystem": "Coastal / dry woodland"
+    },
+    {
+      "common": "Kangaroo Grass",
+      "scientific": "Themeda triandra",
+      "type": "grass",
+      "where": "Meadows, open lawn alternatives, biofiltration strips",
+      "ecosystem": "Grassland / grassy woodland"
+    },
+    {
+      "common": "Spiny-headed Mat-rush",
+      "scientific": "Lomandra longifolia",
+      "type": "sedge",
+      "where": "Edges, rain gardens, low-maintenance bands",
+      "ecosystem": "Widespread understorey"
+    },
+    {
+      "common": "Black-anther Flax-lily",
+      "scientific": "Dianella revoluta",
+      "type": "herb",
+      "where": "Shade under trees, courtyard understorey",
+      "ecosystem": "Woodland understorey"
+    },
+    {
+      "common": "Coast Banksia",
+      "scientific": "Banksia integrifolia",
+      "type": "tree",
+      "where": "Public realm feature planting",
+      "ecosystem": "Coastal woodland"
+    },
+    {
+      "common": "Sweet Bursaria",
+      "scientific": "Bursaria spinosa",
+      "type": "shrub",
+      "where": "Habitat hedges, butterfly corridors",
+      "ecosystem": "Grassy woodland"
+    }
+  ]
+}

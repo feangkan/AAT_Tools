@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+:root {
+  --ink: #0f1419;
+  --paper: #f4f1ea;
+  --panel: #ffffff;
+  --line: #d9d2c5;
+  --accent: #1f4b66;
+  --accent-2: #c45c26;
+  --ok: #2f6b4f;
+  --fail: #9b2c2c;
+  --warn: #9a6b1f;
+  font-family: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; min-height: 100vh; background: var(--paper); }
+#root { min-height: 100vh; }
+
+.a3-sheet {
+  aspect-ratio: 420 / 297;
+  background: white;
+  border: 1px solid #222;
+  box-shadow: 0 12px 40px rgba(15, 20, 25, 0.08);
+}
+
+.prose- Tight {
+  white-space: pre-wrap;
+  line-height: 1.45;
+}

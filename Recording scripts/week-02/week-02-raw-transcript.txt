@@ -1,0 +1,375 @@
+All right. All good. Yeah. Okay, well, welcome everyone. Today's lecture is going to be slightly different from the other ones you're going to see on the course.
+
+Because today I'm not going to do a case study, which is what what um various our guest lecturers will be giving you. I'm going to talk about how this works as a system, so how purpose-built student accommodation works and has the system how it's built and how you as an op architect operate within that system.
+
+Okay, it's much, much closer to manufacturing than it is to traditional architecture. Student housing is a mixture between hotel, traditional apartment and university college if you like in terms of accommodation.
+
+And everything that you will hear from this lecture can be directly applied to your studio project. So your project is 200 students, it's typical purpose built accommodation, so commercial ground floor upper levels or student housing.
+
+So as I said, it's not a building type, it's an operational system, it's a financial model if you like. It's been very much driven by investment houses.
+
+Um they see the need that student are moving around the world much more in terms of looking for their education, that's driven um an opportunity to get into a market where they want um they want it to be predictable.
+
+So they demanded that the construction industry has moved towards something that is much more predictable. It's a financial product. It needs to be repeatable across cities.
+
+It needs to be efficient and it needs to be predictable in terms of how it's going to operate. They want to know what their percentage return on their investment is going to be.
+
+So as I said, it's um if you like it so sweet spot is in the middle.
+
+Sweet spot is sort of in the middle between community efficiency and obviously bias in terms of that sort of thing.
+
+So your position as the architect is not to optimise any of those, you actually have to hold all three intention.
+
+So you need to balance community versus efficiency versus compliance. Compliance really isn't the option. There isn't an option there, but certainly the balance between community and efficiency.
+
+So as I said, um UBSA is a hybrid. It's a mixture between apartment, hotel and university college.
+
+And if you like it in it inherits the individual unit from the apartment, it it inherits its operating system from hotels and that then there is a risk within that and it operates it takes its social side from colleges, from the traditional university college accommodation.
+
+If you look at the operational systems, again, finance houses are looking to maximize profit. Therefore, they would be looking for operational efficiencies.
+
+Your efficiency in your floor tape is going to be roughly 70 to 80%. Your circulation will be somewhere around 20 to 30 percent. That includes cores, service, dice, all those sorts of things.
+
+This is what the developer tracks. He's tracking his net to grassroots really carefully. And that is something if you are doing this out of the market, that's what I will be looking at.
+
+Operational drivers very much comes from hotels. It's very much around cleaning, it's around security, it's around management, it's around maybe all other key drivers.
+
+So for example, if you look at very low student housing, you will find typically the student the social area is directly above the commercial area and then the student housing goes all the way above that.
+
+The reason for that is it's much easier to manage and control. Your reception controls the front door. Those social spaces can be visually managed on the reception area and then there's a lock-off which means only the things that go out to the student areas.
+
+The only ones going up there are the ones that are supposed to be there. Unfortunately we get a high-rise building, that can reduce the further you get away from the ground, the more sterile the building gets.
+
+And then if you like the kind of second wave of PBSA coming through is very much more conscious of that and they're starting to mix um the social elements through the building to start creating smaller communities.
+
+So this is the real problem. The corridor. It is the double-loaded corridor, it is the most efficient way for stacking student accommodation.
+
+Unfortunately, it's also the least social. You can literally be in the corridor and you can spend the whole year living three doors down from someone that got seen.
+
+And when the most significant thing in your building floor plan is a fire extinguisher. You know you've done something wrong. Okay, so what does history give us in terms of potential um responses to this.
+
+Well this is actually quite a modern building. This one's out of the books, probably about 10 years old. It's parking back to what Oxford and Cambridge would find a base community around a staircase.
+
+So what you'd have is a series of staircases around the court, and each staircase would serve about six or seven rooms. So you actually got a social group.
+
+They had a s they had a dining space. They had their own rooms. So you actually started to create a community. And that's what um Alison's actually replicated here.
+
+You can see the yellow group that's grouped with six or seven rooms have got a social space, that's their stair. Nowadays we have lists as well, which is actually quite happy.
+
+But if you look at the orange group, you could actually split it again. Basically as you come up the stairs, you go left and right and you enter into two separate social groups.
+
+So you've actually got consistently three clusters. It's two staircases but three collective clusters of rooms with a social space, five or six rooms together, big enough to be start creating a better community and then you have the big community spaces lower down in the building.
+
+Other models are um if you like these smaller box little pavilions around a said shared central space so you end up with a cluster you end up with um this being extruded vertically, but again you can still identify which of the communities you belong to.
+
+So as I said it's hybrid, it's vertical and it's clustered. And these are pretty much the basics for any um community, any um student housing accommodation.
+
+Those are pretty much the main fall plans. I'll talk a little more about that later. So as I said, you've got control social Social with that probably quite sociality.
+
+So you've got six, ten rooms, you've got a shared kitchen space down at the bottom, you've got interaction. Okay, so people are mixing, you're you're cooking together, you're having coffee together.
+
+This example is actually from the building that's virtually next to you here in uh skate building next door. It's all about mixture types, mixture of roads, mixture of um communities.
+
+If you want some people want their own room, others want to share and have a social space in between. The trick is to actually respond to all those problems, all those types of desires.
+
+Vertical communities, again, as I said before, these are very common city centres. They're very similar internationally.
+
+So a layout that's in Belgium will be similar but not the same as a layout in the UK. This is kind of if you like the second iteration.
+
+So originally very much it would be focused on the ground floor and a couple above a couple of floors above as the social areas for the gyms, the um cinema lounges, those sorts of things that these buildings have, and then it would have been stacked literally like a hotel with ruins.
+
+Second generation coming through, you're getting much more breakup in the building, so you yes, you still got the commercial on the ground floor because that's made sense it is the response to the city environment.
+
+Above that you'll kinda have study lounges and the chances are as you work up through the building, you'll have social spaces and you'll have study round just going up through.
+
+So then it breaks the building, if you like, into three, four blocks, and you're you you get a sense of belonging to a community rather than just you know kind of the failing blinking bit like a hotel is the hotel you go, you stay, you get out, you don't you're not there to make friends.
+
+And that was the failing in transferring that model into student housing. Now it's much more about creating communities.
+
+So student life grading. This is probably the most important diagram in many ways in this talk, because what you're responding to is the gradient student life and the necessity to have thresholds so that you start off with the private room, you have the shared space, if you like, which is your kitchen group, then you have the community, which is the whole tower, and then you have the city, obviously, which is you go across the front entrance.
+
+It's really important that you understand how you step across those thresholds and what how that um how that builds itself into your design.
+
+You know, kind of you're walking out your room front door into your corridor, into your select group. What does that mean? You know, kind of you dress differently if you're just moving around in that group to if you're going out to the city, you know.
+
+So as I said, if you like your typical PBSA block and stack is retail at the bottom, community spaces through the building, very often things like garden, roof terraces, in Melbourne you're more likely to have a winter garden type arrangement so that you still have some greenery, but Melbourne weather being Melbourne weather, you know, kind of 24 times in the sky, a garden isn't really is work gonna.
+
+So what you'll often find is that the building will set a module logic, okay? And that will work its way all this all the way through.
+
+That will set your structure. Very often you'll have as in this example you'll have studios. Then those studios will be grouped into a cluster, so the pink area, and then also you'll work the module so that cluster can actually be a sh that module will also work so you'll take the ratio three to two and by doing that you can actually start creating Tudio Studio, so it's a shared unit, but you've got two separate sleeping areas, okay?
+
+Which is these darker ochre coloured rooms. They're really popular because people go you make friends, you share when you share a unit, you're basically playing an extra 50%, but you're sharing it between two, so your room actually costs you roughly 75% of what your studio will cost.
+
+That's the ratio. You lift your papers where the book that's the thing you need to get your head around when you're doing this design for this type of investment model of the but again, it's all repeatable.
+
+So typical rules for a single apartment or single studio, generally they're between six and seven litres deep.
+
+They'll be three point two to 3.6 wide. And they're very highly serviced. So you will have a little kitchenette, you will have your own, usually a bath um shower pot and toilet, wash and basin, etc.
+
+Double bed and then masses of storage. Okay. That's you will it they you very often a bit like a hotel room you'll have one wall that's basically a bathroom pod, joinery, and that will hold the kitchenette.
+
+And then the other side you'll have um the desk study area and then loads and loads of storage including under the bed.
+
+So as I said, it's better to get your head out of the idea of doing a building and actually think about delivering almost like a production line system when you're talking about public sector um purpose-built student housing.
+
+And that's why it lends itself so well to kind of modern methods of construction. And partly the reason for the title of this lecture is slapping a block, because that's very much what student housing is.
+
+It's a lot of off-site fabrication, on-site assembly. Okay. And why does it fit public um purpose built student housing because both of them rely very heavily on repetition.
+
+Okay. You're going to set up production line you don't want to be doing lots of custom changes as the line goes through, you want to just run that line of production through.
+
+You want it standardized and you want it done quickly. Okay? It needs to be investors want this thing to happen quickly.
+
+They want it predictable, they want the return on the investment. So very often your building will be manufactured will be designed for fabrication far earlier than it would be finished architecturally.
+
+You know, kind of worst case scenario you're literally just doing the size. So if you look at modern methods of construction, there's kind of a spectrum.
+
+At one end is fabrication of components, then you do the assembly. Moving on from that is panelized systems, and then finally there's kind of volumetric which is literally the whole room being delivered.
+
+And if you like going from left to right, your flexibility in the design diminishes as you move across between them.
+
+So component systems very common very often come in as um facade panel, um precast concrete structure and surface modules.
+
+So you'll literally get whole surface modules for a core being brought in and dropped into place. All means that they can be tested in the factory, brought in, place, move on.
+
+Okay, so there's no need for lengthy on-site um assembly or you know kind of sit very often situation there's late changes you don't have that option with these systems.
+
+Everything's determined, it's turning up and side and it's bolting together. Taking that even further, you can get panelised systems, so literally your whole facade panel comes in. It's got the insulation in, it's got the window in place, it's got the internal linings, you're just clipping it together and perhaps putting the final skim on or whatever.
+
+But the whole point is it's come in and it's stacked very quickly. And then you can get down to the footy filled rooms. Um literally the rooms get then get craned and dropped into place.
+
+And again, they will come with everything already figured out inside. They'll swing into place, they'll literally just fit into the services. So you'll have a panel at one end, you'll have a duct comprise of duct, it's almost hyper-play with the like the building.
+
+Very often all the internals will be done as well, so all the joinery will be in place, all the final finishes, the beds, everything will be in that room that gets lifted, dropped into place.
+
+At the very least, the bathroom pods will be operated like that. And that's why it's probably this that kind of sets the constraints for the room.
+
+Everything is around the bathroom pods and the bathroom pods plugging in to the riser ducts within the building.
+
+These typically come in something like one point five by 2.1. And it's usually you'll find the wash ambassin and toilet wall back onto the corridor wall because that's where the service rises going to be.
+
+and um the shower shower will usually drain in the same direction so it can be picked up easily in the drainage system within the building.
+
+As I said, this will become in fully fabricated, ready to go. The only thing that's missing is literally the tile on the the towel on the rack and possibly soap and shampoo.
+
+The rest of it it's there, okay? Now this is one of the few building types where the structural engineer has to follow the architect.
+
+Okay? Because the structural system has to manage, has to match the module. The module sets up the building. So that is what the developer will focus on.
+
+It's a bit like a hotel. You make an escape of a thousand bucks in a hotel room and repeat that over five hundred rooms, you've got a problem. Same thing with student housing.
+
+The actual room governs everything. You make a mistake in the lobby, that's unfortunate, you can fix it. Do it over 900 student apartment rooms, and suddenly got a very big problem.
+
+Okay. So that's where the emphasis is, it's actually in the middle of the rest of it. That's where you get the opportunity to use your real school as a designer is within those spaces around the world.
+
+As the developers will have done a lot of research and they will go, this is our room this is our suite of rooms if you like what their offering is and very often you'll have little chance to um bring anything to that.
+
+They've done a lot of research. They know exactly what they want to sell. That's what they've got the investors' money for. So what are you losing?
+
+You're losing flexibility and you're losing the ability to vary the accommodation to any great extent. Okay.
+
+Your freedom to your freedom of expression in the facade to some degree is lost and um any particular variation in the section.
+
+Okay? It's got to be very simply stacked. Probably the most important thing is you lose the idea that architecture is in infinitely adaptable.
+
+It's not in this circumstance. There are very serious constraints. Well what do you gain? Well you gain speed of construction, precision and quality control, cost certainty and reduced risk.
+
+And that isn't just financial risk or quality risk. It's about safety as well. There is far less movement on site.
+
+There is a process happening. It's much more like a factory production market. Okay. And that that sort of attitude can go up with other fields around housing, but for the moment we'll stick with this.
+
+So as I said your bathroom pod and slab, very often your bathroom pod will sit into if you like a set down in the actual structural slab.
+
+And the reason for that is it allows the drainage to stay above the floor level because you really don't want to be here what's draining our upstairs and bathroom. That separation is what you want happening.
+
+Um and it is literally in this example, the duct is behind the wall in the corner, everything will go through and it will be a plug-and-pace situation.
+
+So now the procurement reality is you are just one of multiple authors, okay? P guy is the developer because he's got the money, he's got his Sweden Brunson, he wants to offer, he's got an area that he wants to hit, he's got a he's got a um usually big international bankers.
+
+Someone like Scape will have five billion dollars backing them. Most people are expecting a return. Therefore that developer has a big say obviously.
+
+US and design team manufacturers for example the bathroom pod manufacturer they will have a big say in the design of your building what can they generate because you're asking them for a thousand of the same thing.
+
+They have a big say in it. Equally the contractor he comes to the table. The earlier you can get the track contractor involved, the better.
+
+Very often, certainly the big companies like as I said, Scape and Igloo, they they have pet builders.
+
+They will go to the same guys time and time over because they've been through the journey and they understand what the developer wants. Um there's very rarely it goes open market tender.
+
+It's usually just straight. You build it for us, we agree, right? So where you still batter as the architect. It's the spaces in between basically. So you're doing the planning, you're doing the relationships, you're doing the community.
+
+Okay? And it's this is the most important thing in this is as I said earlier there's a tension between um compliance, community and efficiency.
+
+Your job is to hold that tension correctly because if you don't do that job the building will fall towards you because that's the way money will drive it.
+
+Okay, it's really important that you pull it back towards community. Um the best best effective side um BBSA is when the architect actually holds that being intentional.
+
+It's not the most efficient, but it's the one that has the best balance between those two um leavers if you like.
+
+You know, you're not controlling the building, but you're controlling the relationships and the spaces within the building. So for example, if you look at this is um Little Hall which is Hayball building just up the road you can see the grey area is all the um student rooms the apartments you can see where this if you like the community areas, the social areas, they they do it through um sort of the cores after a cover.
+
+So you imagine you've got this um arrangement where they've kind of gone back to the staircase but a very different model. It's a much larger model, so you're not just got a dining room with six students, you've actually got a space that services everyone, but it acts as the pivot point.
+
+It acts as a point that creates the community. So that you know, kind of that's the diagram. This is how the actual model is set. Around the core, the roof terrace, all those sorts of things.
+
+There's a real kind of opportunity to go. Once you understand that you can't control the grey stuff, that's a given.
+
+You actually need to understand how you arrange that and design the spaces in between so that you get a good social and community output. I'll just touch quickly on kind of obviously you've got a compliance the building you'll be doing is a class three building, okay?
+
+Because people are sleeping and they have fire escape distances, fire protection, fire escape distances are much shorter, down to about six feet of travel distance and you need accessibility obviously to AS 1428.
+
+There are certainly you need to think about acoustic between rooms, your kind of party wall if you like. Now the important thing about that is that isn't a check that you do at the end, okay?
+
+That's something that you build in from the beginning. If you try and do it as a check at the end, you're gonna compromise your whole design. Okay? You have to accept compliance is part of the deal.
+
+It's part of the design brief if you like. Okay? Too many architects design the building and then end up trying to fit in extra escape staircases, that sort of thing.
+
+Accept that as a requirement. It'd be much easier to get a good outcome. Say a your travel distance typical ground floor, you'll get about three or four units roughly between your fire escapes there and the need to go to the next one or the need to go to the next piece of compartmentation of the floor plate.
+
+You know you need to think about corridor lengths, the number, the position of exits, compartment sizes, all those sorts of things. They're all there in the um code.
+
+Get across that early. It makes life so much easier later on. So what are the failure modes? The failure modes are an over-optimised corridor.
+
+That is where the money is driven the decision. Okay? That's where the architect has failed to defend the need for community. Again, we community.
+
+Too little, too far out of the way because it's not seen as a money generator. That's where you get you get a situation where it's all there but nobody actually passes it.
+
+There's no reason to go there because nobody else is there. And that's a self-perpetuating situation. And then finally sort of generic ideas to be, you know, kinda which will miss mine.
+
+Ideally as a student you should be able to go, yeah, I live in that block and I think I'm that that's my window sort of thing. You have no hope for these generic um facades.
+
+But you know, and all three of them again it's about where the money is driven with design. About you You don't fight that, you you learn to work with it, okay?
+
+The efficiency in the unit is a given. You then have to work out how you do the stuff in between.
+
+So the staircase is the study rooms, the kitchens, the gymnasium, all those sorts of things is where you can obviously architecture.
+
+So as I said when you get shown the case studies over the next three or four to three or four lectures, think about what has been optimized in those designs, okay?
+
+Have they effectively balanced efficiency and community? Clearly they're compliant, they're built, one would hope they're building spare and so sort of thing.
+
+So wait you go through the rest of the series, think about those things. What's being balanced, what's being lost, what's being gained, what are the benefits of the system they've used to construct their building.
+
+Okay. And these are probably questions you can put to each of the guests as they come through. So again, Swanson Street, I think brands coming coming to talk to you about that in a three weeks' time or a week or two's time.
+
+Have a have that discussion. What was optimised about the building? You know, kind of what were the what were the things that um was lost in terms of the design output.
+
+So I will help it. But you you can actually get the foreplate from this building relatively easy. Have a look and think about what was lost in that design, what was gained, why, how is it driven in terms of the things we're talking about, efficiency, compliance, and community.
+
+So quick chi-chi, these are the five plans that work. Okay? Everything else is all of the rest are um if you like hybrids of these.
+
+Okay. Very simple the cluster unit shared around a social area. Courtyard housing, that's the typical old university model, Oxford Cambridge, all those the central courtyard, it will link it back to kind of monastery design, all that sort of thing.
+
+Basically a shared open space and circulation. And then a vertical neighborhood. Basically stacking units trying to create spaces in between. Hard corridors where it's not just an endless line of rooms of actually breaking up the social spaces so that you don't get these great whiskers going down the big corridors.
+
+And then podium and towers. So the social spaces are at the bottom, and then you have the units above. And as I said, what tends to happen now is you'll get four, almost like four communities stacked or three communities stacked, depending on how many rooms.
+
+Those are the models. Anything else is basically a combination of them. So what does a good PV PVSA plan look like? It's about balancing the systems.
+
+So if you look in this one, there are a lot of rules there, but you don't feel like you're you know, you haven't got the end is horrible, it's broken, it's all leading to a meaningful social area around where the kind of vertical circulation is.
+
+You come out of a lift, you meet someone in that lounge that's right next to the lifts, next to the staircase. You've got groups, so you're you're getting a good mixture between those that are electing to be in a four or five bed unit plus those who prefer to have their own space.
+
+You know, it's about thinking of that way, okay, so that you don't come out of a room and then look at a 50-meter corridor. You're coming out at the end of you know the corridors that you have at the end, you've got social spaces.
+
+Okay, so there's a very clear hub in the middle of that floorplay. Those are the four sorts of things you need to be looking at. So you know kind of as you're designing it, focus on the one bedroom unit by all means and then see how that works through the cluster unit, through the floor plate, and then through the podium and the tower.
+
+Okay, that's how you put the building together. Very important questions for you to think about when you're examining your own designs as you build them up.
+
+You need to consider where do the students meet? If I come in through the front door in the lobby and go up with the where do I actually meet the people around?
+
+Okay. Where do we cook together? Where do we share a meal? You know, do I use the big kitchen downstairs? Or do we actually have a group kitchen which I share with CC?
+
+And then where do we study? Do we have the opportunity in the building to do group study? Do I have a place where I can go and do my own research? Do I have a space outside my room where I can do that?
+
+Okay. You really don't want to be locked in a room day in, day out. You want to be able to go out and do that socially somewhere else. So and ask yourself what's the balance between am I doing housing or am I building my financial instrument.
+
+Okay? Reality is the money is driving as a financial institution. Okay? It's instrument. It is about the return on investment for the developer.
+
+That's why these buildings exist. You need to bring to that story what is the community I'm creating. What am I doing for the people who actually bought all these tests?
+
+Okay? That's what your big driver is. How do you make fundamentals work? And that's the ledger.
+
+Speepy so sleepy. Yep. Sure. So we'll have to quote what is the role of the other shit?
+
+And it is fine to the function in the program understanding. But I wonder whether you had any things on beyond the individual project or the individual idea, what beyond the individual part of the project.
+
+What does the profession as a whole look to to make sure that we maintain our role in having say in these kinds of buildings rather than forms and efficient as we should I I think firstly we've got to accept the realities of it, which is it is going towards much more industrial production of buildings.
+
+And in that there's a great opportunity, you know, kind of we can actually, I don't think we need to fight against it. I think that's the wrong approach. I think we actually need to embrace it and bring the skill set that architects have to that position.
+
+So rather than kind of following, we actually need to drive it, but we actually need to acknowledge that the reason the money is coming in is because they want to make profit.
+
+It's not you know, it's not an altruistic exercise, it's this is a good investment. I mean they took a bit of a hit during COVID, but um now they've made good money.
+
+And that, you know, that's going to continue for what architects need to say from is what are the opportunities? You know, yes, you'll design one room and then it'll be stacked out, and then you do the other stuff.
+
+But I think we should be driving that rather than going, Oh how do we resist this? Because that's that's a dead end stream. What's gonna happen if we need to get under it and believe it. Because we have a skill set to do that.
+
+Well obviously, that's that's what we do is our stress. We are we we test what's possible and then drive it in a certain direction. Any other questions? Yeah? A volume um button plays for um does that come with the structure of the or is it do you still require structure again?
+
+Yeah, it could work both ways. There there was a small apartment complex in Melbourne that literally had its own structural frame.
+
+So each unit had its integrity and it just dropped on it. It was almost like putting up scout orbit. But more commonly you'll have a you know you'll have a frame that is steel or concrete and then the boxes will just get plugged in.
+
+It's literally you know have open steel frame, slide the box in, do the search Um that's not a systematized design, you think it can be applied to new and take a lot of means like mass timber?
+
+Absolutely. I I think the problem we've got is the mass timber industry at the moment isn't asking to do this. But I think a lot of people are seeing that, certainly in places like that, but seeing more opportunities.
+
+Yeah. This is happening in Scandinavia. I think I think it's it's really about how the team gets joined together with the other thing that's not very much at the moment and there's a lot of research going into you know we will be building a 45-story timber tower in the doctor's future.
+
+Um two models. One is about twenty-five years and the other's fifty. It's you know, kind of pretty typically it's twenty-five to thirty.
+
+Is there an option that should possibly find that? Absolutely. I mean, you know, kind of we're at the start of that.
+
+It it's very much about um um twenty years down the track, you go, okay, so you design the structure to be there permanently, but everything else just plug it.
+
+I mean it's it's kinda going back to the local beauty and idea of you know plug and play buildings. But if you saw what they had to work with at that time you can understand why it did uh where it's now you know we can do this modulus stuff really easily.
+
+Um so you know it's an exciting avenue for us to investigate. Let me take the and then after this question speak the back the app?
+
+Um speaking of mo modular design, which also so you um I my my question is can we fit the modular design which is like fully complete room into mass timber construction?
+
+Because like um as I said that mass timber consumption so we have grid yeah, and then we I have modular components like as floor and wall for facade outside.
+
+Can can that system, stacking system, fit in the mass timber construction? Yeah if imagine you're building a mass timber honeycomb and then you just drop the rumors in as kind of the core of the honeycomb if you like.
+
+That that that that sort of system Could work feasible. All right, thank you. Yeah. Yeah. Um do you have any advice on how we could get post occupancy information?
+
+Um you said there are like five main models that work, but if we wanted to go more detailed like beyond our our own personal research and experience, like how could we figure out which particular thing students like Um look I think you've g in terms of there's plenty of research out there that gives the feedback in which is the most successful um type if you like.
+
+If you look at the Oxford Cambridge ones, they've been going for 700 years and students speak fondly about the staircase partly because they've got a porter at the bottom.
+
+We kind of looks after them and you know kind of eighteen year old but the obviously. But I I think um all of these developers, certainly the big guys, have done a lot of research and got a lot of feedback because that's how they make a living, um, in terms of what students like.
+
+And and that's where development comes from almost a hotel to a much more um organized community, managed community if you like.
+
+But you know kind of once you get so far away from social spaces you feel isolated and that's what that's why the break entails are much better. So there is a lot of feedback in the market as to why things are going the way they are.
+
+They're not random choices. There's too much money involved. They're actually doing way more research into it. Did that answer your question? Yes. Do my own research. Um have there been cases for retrofitting um student housing structures because it's so like tightly defined and organized.
+
+Can you microfit it for other users to prolong the building life? Sorry, I didn't catch the last bit. Like can you prolong the life of the building?
+
+Yeah. Um because the plan is so like constricted, can you get recrofitted for other uses? I think I think I think what we're gonna have to do is actually get smarter about how we build buildings and how what we do with them in terms of the elements.
+
+The structure is the most valuable bit and it's a bit that can last 50, 60, 100 years. It's about how we can maintain that structure. It may be that you go slightly bigger four to floor heights or things like that, so that you can give that building that structure a second life.
+
+I think that's that's something that really needs investigating. You know too many buildings get knocked down because they're actually purpose built.
+
+You know, kinda if you think about it. What's the most expensive building? Yes it's the structure, then it's and that can last longest, then it's the fabric. That's got twenty-five years before you need to look at the design services every ten years and even the speed of it probably sooner.
+
+So you really need to think about what are you doing with that building in terms of the materials it's made of, how it can be deconstructed rather than demolished and how you can reuse it and actually um upgrade the materials that come out of that building.
+
+Because you know so many buildings they're not down brick and concrete, they crush it, and it becomes row base. Well that's degraded the material. How about we think about how we upgrade the material?
+
+Yeah? How do you design for that? Okay. Compensate the structure, doesn't it? A PBSA building made CLT where all the walls are structural, that's not very adaptable. Yeah. Steel frame with a slide in.
+
+Yeah. You know, steel's gonna be there. You can take it apart and take the bolts out. You know, concrete's it's got so much carbon ball.
+
+And still and say, well steel has but you it's that kind of meaning you do it once and then you can reuse it, you know, kind of look after the steel it gets used again and again and again.
+
+You'll see so many buildings that you know you know, kind of certainly through eighteenth, nineteenth century the material was so expensive to make that they reused it.
+
+They took a building down and all the steel came out and they used it somewhere else. That sort of attitude is what we think we think about. Thanks very much, Noel. Um I I think this is what's great about these technology, we can talk about the modules and efficiency we, can talk about products and economy, standardization, repetition.
+
+Yes, we're studying architecture, the design of the also talking about the really important reality and solving the issue we've opened. So, have test to compile pause and then just.

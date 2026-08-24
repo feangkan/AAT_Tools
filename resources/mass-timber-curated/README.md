@@ -1,0 +1,133 @@
+# Mass Timber Resources — Curated Links
+
+A working collection of mass timber links, studies, and precedents found during AT1.4 research and beyond.
+
+## How to add resources
+
+1. **Link format:**
+   ```
+   - [Short title](URL) — Brief description (source, relevance to this project)
+   ```
+
+2. **Organise by category** — add new sections as needed:
+   - Precedents (built buildings)
+   - Technical specs (CLT, glulam, connections)
+   - Embodied energy / LCA studies
+   - Acoustic design
+   - Case studies / research papers
+   - Australian suppliers / local examples
+
+3. **Include context** — why you found it useful, what part of AT1.4/AT2/AT3 it speaks to.
+
+---
+
+## Precedents — built mass timber buildings
+
+### International
+- [Brock Commons Tallwood House](https://www.ubc.ca/) — UBC Vancouver, 18 storeys, Acton Ostry Architects (referenced AT1.4 Sheet 02)
+- [KLH Multi-Story Residential](https://www.klh.at/) — CLT manufacturer case studies
+
+### Australia
+
+#### Student accommodation
+- [La Trobe University Student Accommodation](https://www.latrobe.edu.au/) — Melbourne, 624 beds, Jackson Clements Burrows Architects (referenced AT1.4 Sheet 11)
+- [TTW Engineers — La Trobe University Student Accommodation](https://www.ttwengineers.com/projects/la-trobe-university-student-accommodation) — The project's own **structural engineer's** project page — the most authoritative source found for this precedent's engineering delivery. Confirms: TTW was engaged by Multiplex as principal structural engineer (following earlier value-engineering advice at tender); TTW delivered **all** structural packages — CLT, glulam, **and the concrete substructure** — in under two months from appointment to meet a fast-tracked programme; the project achieved a **5 Star Green Star design rating** (targeting 5 Star as-built); and CLT's use has the capacity to **halve embodied carbon relative to an equivalent concrete structure** — a stronger, more specific figure than the ~30% modelled GHG savings previously cited, and directly from the structural engineer rather than a third-party study. Also: 2021 Architecture & Design Sustainability Awards, Multi-Residential Dwelling — Highly Commended.
+- [Fenner Hall, ANU Kambri Precinct](https://www.anu.edu.au/) — Canberra, 450 rooms, first CLT student residence in Australia (referenced AT1.4 Sheet 10)
+- [Fenner Hall — 2019 Australian Timber Design Awards presentation (WoodSolutions PDF)](https://www.woodsolutions.com.au/system/files/presentations/6%20-%202019%20ATDA%20Fenner%20Hall%20-%20ANU.pdf?check_logged_in=1) — Presentation for the project's 2019 ATDA Multi-Residential category win (shared between BVN and Lendlease DesignMake). Note: this link requires being logged in to WoodSolutions to view (`?check_logged_in=1` in the URL) — may need a free WoodSolutions account.
+- [BVN — Innovative Timber Designs Awarded](https://www.bvn.com.au/article/innovative-timber-designs-awarded/) — BVN's own announcement confirming they are the **architect** of Fenner Hall (shared credit with Lendlease DesignMake as builder) — corrects earlier AT1.4 sourcing, which credited Lendlease alone.
+- [Stora Enso Building Solutions — ANU Kambri Precinct project reference](https://references.buildingsolutions.storaenso.com/en/projects/education/australia/australian-national-university-kambri-precinct) — Manufacturer's own project case study. Confirms: timber buildings erected with a crew of 13; ~A$260 million precinct redevelopment; project achieved a 0.6-planet ecological footprint under the One Planet framework (vs. ~1.3 planets typical for university campuses); prefabricated mega-panel brick facade sections (13 m long) installed in 20 minutes each.
+
+#### Mixed-use / Commercial
+- [25 King Street, Brisbane](https://brisbanedevelopment.com.au/) — Bates Smart, exposed glulam facade, 6 × 8 m grid (referenced AT1.4 Sheet 05)
+- [Waratah](https://en.wikipedia.org/wiki/Waratah_(building)) — Sydney, CLT + glulam (mentioned in search results)
+
+---
+
+## Technical specs, production, connections
+
+### CLT / Glulam manufacturing & spans
+- [XLam Australia — Wodonga plant](https://www.xlam.com.au/) — Victoria's CLT manufacturer (referenced AT1.4 §3)
+- [ASH (Australian Sustainable Hardwoods) — MASSLAM glulam](https://ashgroup.com.au/) — Heyfield Victoria, structural glulam (referenced AT1.4 §3)
+- *Structural Basics of Mass Timber* (`resources/5-MassTimberPedagogy-101-StructuralBasics.pdf`) — CLT span tables, local repo
+- *Structural Design with Mass Timber* (`resources/6-MassTimberPedagogy-101-StructuralDesign.pdf`) — Connections, acoustic, cost-span studies, local repo
+
+### Connections & Fire detailing
+- [Timber Fire Safety in Construction](https://www.timberdesign.ca/) — Connection details, char-design approach (referenced AT1.4 §5, §17)
+- [WoodWorks Mass Timber Fire & Acoustic Database](https://www.woodworks.org/) — FRL tables, STC buildups
+- **[WoodWorks Index of Mass Timber Connections (May 2024)](https://www.woodworks.org/wp-content/uploads/wood_solution_paper_Index_Mass_Timber_Connections_05.2024.pdf)** — Comprehensive 16-table index covering 80+ connector types across panel-to-panel, panel-to-beam/column/wall/concrete interfaces. Includes Class 1/2/3 categorization, load capacity, cost, fire-rating levels (I/II/III), constructability notes, and moisture/tolerance guidance. **For AT1.4:** See `AT1.4-Connector-Strategy.md` which identifies 4 core connectors for your PBSA design (podium-residential interface, floor-floor, perimeter walls, base connections) and shows how repetition yields 15–20% cost savings.
+
+---
+
+## Embodied energy / LCA studies
+
+- [Certified Energy — Australian material factors](https://www.certifiedenergy.com.au/) — Concrete, steel, timber CO₂e per kg (referenced AT1.4 §6, §09)
+- [Jayalath et al. — CLT vs. RC Australian LCA comparison](https://scholar.google.com.au/) — ~30% GHG savings (referenced AT1.4 §6, §09)
+- Fenner Hall (Sheet 04) — 33% embodied carbon vs. all-concrete (real, audited figure)
+
+---
+
+## Acoustic design
+
+- [WoodWorks Mass Timber Fire & Acoustic Database](https://www.woodworks.org/) — STC ratings, assembly buildups (referenced AT1.4 §9, §11)
+- *Structural Design with Mass Timber* (local repo, §3) — Acoustic assembly details
+- [WoodWorks — Hybrid Design: Mass Timber Floor and Roof Panels Over Light-Frame Wood Walls](https://www.woodworks.org/resources/hybrid-design-mass-timber-floor-and-roof-panels-over-light-frame-wood-walls/) — **Note on relevance:** this describes a *different* hybrid to ours (light-frame wood walls supporting mass timber floor/roof panels, not our RC core/CLT floor split), so it isn't a direct precedent. What transfers to AT1.4 Sheet 7: WoodWorks confirms that wherever two different structural/wall systems meet, acoustic and fire performance both concentrate at that junction and need dedicated detailing — the same principle applies to our CLT floor/RC core junction, just with different materials on each side. Also confirms Type IV-HT code allowances exist for mixed light-frame/mass-timber assemblies generally, reinforcing that material-transition detailing is an industry-wide known challenge, not a problem specific to this project's hybrid.
+
+---
+
+## First Nations / Indigenous procurement
+
+- [Supply Nation](https://www.supplynation.com.au/) — Aboriginal/Torres Strait Islander business certification (referenced AT1.4 §8, §13)
+- [Tiwi Forestry Project](https://www.tiwigov.org/) — Indigenous-led commercial forestry, Melville Island NT (referenced AT1.4 §8, §13)
+- [Forest & Wood Products Australia (FWPA) — Indigenous-owned and managed forests report](https://www.fwpa.com.au/) (referenced AT1.4 §8, §13)
+- [National Indigenous Forestry Strategy](https://www.agriculture.gov.au/) (referenced AT1.4 §8, §13)
+- [Intract Indigenous Contractors](https://intractindigenous.com.au/) — 51% Indigenous-owned civil construction (referenced AT1.4 §8, §13)
+
+---
+
+## Design direction references
+
+- [Neometro — 9 Wilson Ave, Brunswick](https://neometro.com.au/projects/9-wilson-ave-brunswick) — Raw materials, exposed concrete/timber, "engineered to last" (referenced AT1.4 §0, Sheets 01–05)
+
+---
+
+## Add new links here
+
+*(Frank, paste your finds in this section — I'll move them into categories as they accumulate)*
+
+
+---
+
+## Recently added (Frank's finds)
+
+### CLT — Technical/Product Info
+- [Stora Enso CLT Building Products](https://www.storaenso.com/en/products/mass-timber-construction/building-products/clt) — CLT manufacturer product specs, technical guidance
+
+### Australian Mass Timber Precedents — Student Accommodation
+
+#### Hybrid timber student housing (built/underway)
+- [La Trobe University Student Accommodation](https://www.multiplex.global/) — Multiplex completion, Victoria's largest mass timber project by volume (referenced AT1.4 Sheet 03)
+- [Monash University Hybrid Timber Student Residence (Clayton)](https://woodcentral.com.au/monash-to-begin-work-on-new-hybrid-timber-student-residence/) — Adco builder, Jackson Clements Burrows architect, 252 beds, 6 storeys, groundbreaking Aug 2025, under construction (referenced AT1.4 Sheet 05)
+- [Monash Uni Taps ADCO for 252-Bed Hybrid Timber Build](https://www.theurbandeveloper.com/articles/monash-uni-taps-adco-for-252-bed-hybrid-timber-build) — Same Clayton project, additional detail
+- Gillies Hall, Monash Peninsula campus — 150 rooms, 5 storeys, CLT + Passive House certified, completed 2019, largest CLT/Passive House combination in Australia at the time (referenced AT1.4 Sheet 05)
+- **Correction:** [Grimshaw's Monash Woodside Building case study](https://grimshaw.global/sustainability/monash-case-study/) documents a *different* Monash building — a steel-framed academic/teaching facility, not student accommodation and not a concrete+timber hybrid. Not used as evidence for the timber student residence precedent.
+
+#### International precedent (facade/massing interest)
+- [Tietgen Dormitory](https://www.archdaily.com/474237/tietgen-dormitory-lundgaard-and-tranberg-architects) — Copenhagen, Lundgaard & Tranberg Architects — innovative facade language and student housing typology (precedent for exposed structure as architectural expression)
+
+### Indigenous / First Nations Materials & Suppliers
+- [Architecture AU — Aboriginal Bush Materials in Contemporary Architecture](https://architectureau.com/articles/Aboriginal-bush-materials-in-contemporary-architecture/) — Contemporary architectural practice using First Nations materials (relevant to AT1.4 §8, §13, and AT3 First Nations pathway)
+- [Gambarra Building Supplies](https://gambarrabuildingssupplies.com.au/) — Indigenous-owned building materials supplier (Check Supply Nation certification status)
+
+### Structural Connections
+- [NACHI — Lateral Load Connections](https://www.nachi.org/gallery/framing-2/lateral-load-connection) — Lateral connection detailing reference (supports AT1.4 Sheet 08 connection details)
+
+
+### **WORLD'S TALLEST MASS TIMBER BUILDING** (NEW)
+- [Atlassian Central Sydney](https://www.dezeen.com/2026/07/23/world-tallest-timber-tower-atlassian-central-sydney/) — Sydney, 2026 — world's tallest timber tower, surpassing Brock Commons — **CRITICAL PRECEDENT: Shows mass timber can reach beyond 18 storeys at scale, in Australia**
+- [Atlassian Central Sydney — YouTube](https://www.youtube.com/watch?v=D7blV73Afqo) — Video documentation of the project
+
+
+### "Why mass timber" — foundational reasoning (AT1.4 Sheet 0)
+- [Know Your Why for Mass Timber — Ricky McLain / WoodWorks](https://www.youtube.com/watch?v=W123P4BP1vo) — "2 Min Tuesdays" series. Argues a project team should name its specific driving reason for choosing mass timber before committing, since that reason shapes every downstream design decision. Used as the framing device for AT1.4 Sheet 0, which names six specific benefits (speed, reduced structural weight, embodied/biogenic carbon, biophilic wellbeing, fire performance via char, structural efficiency at repetitive floor plates) and cross-references which later sheet develops each one.
+- [Greenisms — The Benefits of Mass Timber in Sustainable Construction](https://www.greenisms.com/post/the-benefits-of-mass-timber-in-sustainable-construction) — General overview of mass timber's sustainability case: renewable/replenishable sourcing, faster prefabricated construction with reduced site noise/disruption, and how new engineering technologies plus sustainable forestry practices compound the ecological benefit. Reinforces Sheet 0's "speed" and "embodied/biogenic carbon" benefit rows.
+- [WRD (Wood Research & Development) — Why Mass Timber is Here to Stay](https://woodrandd.com/why-mass-timber-is-here-to-stay/) — Industry overview covering CLT/LVL/glulam as the core mass timber product family, plus the case for adoption: sustainability and ecological sourcing, carbon sequestration, versatility, fire durability, and high-efficiency/low-waste production driving cost and labour-time savings. Useful cross-check for Sheet 2 (product family) and Sheet 0 (fire performance, efficiency benefit rows).

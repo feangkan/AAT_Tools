@@ -1,0 +1,280 @@
+[00:00:00.320] Offset by informal permeable ground planned activity, a response and expression are evidence in the distinctly curtain character of the Bentley campus.
+[00:00:10.960] So the syllabus.
+[00:00:13.440] We have four assessment tasks ahead of us in this course.
+[00:00:16.560] The first one being the schematic design AT1.
+[00:00:20.320] The schematic design assignment includes research for site analysis, it includes planning research, precedent project research, and these kinetic design drawings.
+[00:00:33.600] This is not quite up to date.
+[00:00:34.800] Assessment task two, apologies, includes further research, NCC research, Limpoil Housing Design Standards, Better Partners Design Standards, Section J analysis, and Design Development Drawings.
+[00:00:47.440] Assessment Task 3, the project for portfolio is the largest of the three assignments.
+[00:00:53.840] And that includes the building systems brief, lighting and acoustics brief, materials schedules, FFE schedules, and the final portfolio drawings.
+[00:01:03.440] We also have a lecture series quiz for the four following lecture lectures, and each of those lectures are graded quizzes with a total mark of up to 10%.
+[00:01:17.040] The syllabus, uh is this week one, so obviously we are now kicking off our first tutorials and our first lecture.
+[00:01:24.000] Next week you'll see that we have Revit Frank starting.
+[00:01:26.960] There are five Revit practicals in total.
+[00:01:29.840] Um and I'll go through what they are about shortly, but the Revit Practicals are set up specifically for this course to give you information and guidance and skills and tools to be able to complete the work within Revit.
+[00:01:44.640] at the high possible standards.
+[00:01:46.240] So please make sure you attend those rivet practic.
+[00:01:49.120] There are no assessment tasks from those rivet practicts.
+[00:01:51.840] There are no submission requirements.
+[00:01:53.600] It is just attendance and partaking and listening in and following along.
+[00:01:59.200] The lecture series, as I said, goes for five weeks and I'll go through what those are in a moment.
+[00:02:04.640] In week four, your first assessment task is due.
+[00:02:07.760] Alright, so um fromrom today, or at least from your first tutorial up until week four, you should be focused primarily on assessment task one.
+[00:02:17.440] Then in week five we kick off assessment task two, which is due after the mid-semester break in week seven.
+[00:02:24.000] From week seven through to week twelve we'll be working on the the major assignment the project portfolio um that is worth 50% of your marks.
+[00:02:31.840] So there is a lot of work to complete within this course.
+[00:02:35.520] We know it can be done because it was completed already in semester one.
+[00:02:39.920] But there is a lot of work to do.
+[00:02:42.000] The lecture series.
+[00:02:44.320] Guys, this lecture series is actually we're inviting back the lecturers from semester one.
+[00:02:51.840] Because this year is unique.
+[00:02:54.320] We're running this course in both semester one and semester two, which wouldn't normally happen.
+[00:02:58.000] So because of the changes in the curriculum, we're actually run,ning this course in semester two with the same lecture series.
+[00:03:04.880] I'm pleased to say the lecture series in semester one was phenomenal.
+[00:03:08.080] It was extremely well received.
+[00:03:10.960] We had guests from industry coming in to present case study project uh relevant to the course.
+[00:03:18.320] Um at in attendance was obviously the cohort.
+[00:03:21.360] We had people from industry attending and we had uh students from other universities attending the lectures because they were so wonderful.
+[00:03:29.120] So next week our first guest lecture is Noel Teague.
+[00:03:33.680] Noel is an architect.
+[00:03:36.640] He occasionally tutors at RMIT.
+[00:03:39.040] He now heads up the Swimband University Professional Practice Program.
+[00:03:44.080] So Noel has a uh has a history of working on multi res and multi-student combination projects.
+[00:03:51.520] In fact, he worked at DCM.
+[00:03:53.760] Uh you might learn that the architecture in uh industry is quite a small community.
+[00:03:58.640] People uh tend to know each other.
+[00:04:00.320] So um Noel used to work at D C M, uh he's now at Swinburne but he worked on the skateboarding fact.
+[00:04:06.640] So Noel has a wealth of experience and his lecture stacking the block is very very interesting.
+[00:04:12.960] It talks about modern methods as it says here of constructing construction and student housing.
+[00:04:18.640] So definitely come on to that lecture and listen in and complete the quiz.
+[00:04:22.320] The second lecture sorry the third lecture um is in fact one of Noel's uh ex colleagues, Graham Craigie, who he still works at DCM.
+[00:04:30.880] What makes it in the scale Super interesting.
+[00:04:34.800] It is uh fascinating how they built that building um and the efficiencies and the methodologies they went about um uh you know um designing and building that that um that wonderful building.
+[00:04:47.840] Um our fourth lecture is um uh an ex-colleague of mine so I used to work with Nick Bournes who's now director of NH Architecture.
+[00:04:56.960] Um so Nick will be joined by Anne Claire Deville from Christin Thompson Architects at KTA and I'll be presenting Guru Place, which is a it's a significant project for Melbourne.
+[00:05:12.560] If you everyone's familiar with the Queen Victoria market, the car park next to that and the old um stores along this along the side of those car parks is now being re- is is in construction now and being redeveloped to um for housing.
+[00:05:27.280] So that is a really interesting project.
+[00:05:29.520] It's a project that's not built yet too.
+[00:05:31.120] So we we get to hear a lot about the planning phase um the challenges they face throughout the project from various aspects.
+[00:05:41.120] That's one not to miss for sure.
+[00:05:44.160] Our final lecture is with Simon Toplis and Bronte Scott.
+[00:05:48.960] Simon is also an ex-colleague of mine.
+[00:05:51.120] We used to work together at Jackson Farrows.
+[00:05:53.920] Now, Simon is an expert in multi-res and multi-student combination as well as mass timer construction.
+[00:06:00.560] So Simon and Bronte will present being a whole range of case studies that are focused primarily around mass different construction and multi-student accommodation.
+[00:06:09.680] So each of these lectures will provide you with a wealth of knowledge and inspiration for your own projects.
+[00:06:18.000] The teaching team.
+[00:06:19.920] We are very fortunate to have a teaching team of highly experienced, highly respected architects.
+[00:06:26.560] We've got Stephanie, Bridget, Babak, Rob, myself and Kenneth all taking the tutorials.
+[00:06:33.280] Our Revit practic are being delivered by Ben, Robin and Ming.
+[00:06:36.960] They are architects, they work in industry and they're all rebbit gurus.
+[00:06:42.080] So attending the Rabbit tutorials is is crucial for your learning.
+[00:06:45.920] But if you have any questions as well, they'll always happy to answer your questions.
+[00:06:49.920] I guarantee there's no question too hard for these guys when it comes to Rabbit.
+[00:06:54.480] So definitely lean on that support and help so that they are there to help you.
+[00:06:59.440] With your tutors, as as would be expected in industry, there's an element of respect.
+[00:07:05.120] They are uh taking time out of their days or their evenings to come and teach classes and and support you guys.
+[00:07:12.000] So um reciprocating that with respect, attending on time, listening in, partaking.
+[00:07:17.360] I know as a tutor myself, we really appreciate that, so um please um please take care.
+[00:07:24.000] Um so tutorials uh on-time attendance and participation um is absolutely crucial for not only developing the assignments and collaborating with group work and presenting verbally the work uh in class, which is part of your assessment, but it's actually preparing you for life in practice.
+[00:07:44.000] Working in an office, I I spent many, many years working in an office.
+[00:07:47.120] I now run my own business, so I I run my own time, but working in an office, being on time, partaking, engaging absolutely are crucial.
+[00:07:56.320] All of your tutors are highly experienced architects, so please ensure you're on time and attend for the full tutorial.
+[00:08:03.680] All students will present their work as a group to the tutor in class each week, similar to studio presentations.
+[00:08:09.840] Now, the way that you present that work will be discussed with you and your tutor.
+[00:08:13.840] Some tutors prefer more hands-on printed work, others are happy with using the screens in the classroom.
+[00:08:21.520] So each class will be a little bit different in how that how that plays out.
+[00:08:27.040] Pay attention in class and engage.
+[00:08:29.040] You are you are highly way more likely to learn if you listen on other group presentations.
+[00:08:34.960] Alright.
+[00:08:36.240] My particular class, we've got six groups, so there's only a limited out of time that I can give each group within our three hour time period.
+[00:08:43.280] So each presentation will have different feedback and no doubt that will be relevant to your own assignment.
+[00:08:48.960] So pay attention, listen in and enjoy joining the discussions within the class um as always mobile phones and laptops should be turned off during class um there should be no reason why you should be uh those should be turned on and and whatnot.
+[00:09:02.480] So ripper prax again, attendance is crucial.
+[00:09:05.760] The tutors are very experienced.
+[00:09:08.720] Make sure you're on time again.
+[00:09:10.800] The tutorials will run as a sort of watch and follow.
+[00:09:13.120] So if you if for those who have gone through the bachelor's program, you'll be familiar with how these classes are run.
+[00:09:18.320] The tutor will essentially um you know demonstrate something on the screen and then you're given time to then replicate that on your own computer within the labs.
+[00:09:27.200] So they are very much a watch and learn and follow and as the class is being taught the tutor will come around and answer your questions.
+[00:09:35.200] So that's how those classes are expected to be run.
+[00:09:38.640] Again, no laptops or phones should be turned on during the class.
+[00:09:44.240] And one other thing is that attendance, we we know that attendance to those reverb tutorials does directly link to better outcomes in your work.
+[00:09:52.480] So the there's a lot of different ways you can you can you can work in Revit.
+[00:09:56.400] Those who are familiar with Revit already would know that.
+[00:09:59.200] So your tutors are there to show you the right way to do things, but also the efficient way to do things as well, whether it be modelling the facade or or developing the detail.
+[00:10:09.040] Canvas.
+[00:10:09.920] So I have spent a long time developing this Canvas course.
+[00:10:14.320] There is a lot of information in there and that is your one-stop shop for information.
+[00:10:20.880] Information including course information, the syllabus, the timetables, all of your assignment information is there, all of your submissions are on Canvas, your assessment rubrics, your good set be back will be on Canvas.
+[00:10:35.920] The lecture quizzes are through Canvas as well.
+[00:10:39.280] And discussions, resources, and announcements will come by Canvas as well.
+[00:10:44.400] So it is totally expected that as students you are fully aware of the information that's on canvas.
+[00:10:50.000] It's your responsibility to understand all of that.
+[00:10:53.680] Now getting into the project.
+[00:10:56.240] Hopefully everyone here is already familiar with the site having started their tutorials or having read canvas but the site that we've chosen for the first running of advanced architecture technology is the old former little cybon market in footscray.
+[00:11:12.880] So this was a very vibrant market back in the day.
+[00:11:18.720] It's different to the Footscray market.
+[00:11:20.320] There's the Footscray market than there's there was the little Saigon market.
+[00:11:23.920] So unfortunately, the the market was destroyed in 2016 by a fire.
+[00:11:30.800] Apparently a there was an electrical fault with the switchboard which caused a fire, which took out not just the market, but the occupancies above the market as well.
+[00:11:38.960] There were offices up there as well.
+[00:11:40.720] So um unfortunate um that that happened obviously.
+[00:11:44.560] Um and now the site is vacant.
+[00:11:46.240] It has been vacant for a long time.
+[00:11:48.160] Uh 10 years now actually.
+[00:11:49.920] Um over those ten years there have been various proposals to develop the site.
+[00:11:55.040] You might find uh information about that when you do your research.
+[00:11:58.640] Um there's also there also has been a petition from the community to retain the site as a green space.
+[00:12:05.920] So this sort of suggests that there's you know various agendas out there to either develop the site or to retain uh the site for for green space.
+[00:12:17.200] Either way, I think we can look at those as opportunities for the site.
+[00:12:22.400] Now the assignments.
+[00:12:25.520] Oh that's a view through there to the market.
+[00:12:27.360] So this is a view from Barclay Street, from the intersection of Barclay Street.
+[00:12:31.200] And the site is through the through the uh through that gap there.
+[00:12:34.720] You can see from the map here, it is very close to the site is very close to Fusqueray Station.
+[00:12:39.440] Only a shortw Forkootcraft station, a short walk to Barclay Street, very well connected.
+[00:12:46.000] It's an absolutely fantastic site.
+[00:12:49.440] He's very large as well.
+[00:12:51.200] The scale of the site can be quite deceiving.
+[00:12:53.760] It's a very, very large site.
+[00:12:56.400] There are several low-rise buildings around the site, quite wide streets surrounding at least two sides of the site.
+[00:13:05.840] To the west, there are some taller buildings which you can kind of see from the shadows.
+[00:13:10.560] But to the north um it's it's predominantly residential land, and then to the south you can see the commercial develop the commercial properties of um Barclays Street and Leeds Street up to the side there.
+[00:13:22.720] It's relatively flat as well, so throughout this course we will treat the side as flat.
+[00:13:28.480] There is slight undulations but for the most part it is fairly cut.
+[00:13:33.440] Some photos of the site.
+[00:13:35.040] So on Canvas there is a zip folder that you might have seen that contains photos of the site.
+[00:13:40.560] If you can't attend the site yourself in person, you're more than welcome to download the photos from Canvas and use those as part of your research.
+[00:13:47.920] I've just stitched together a few photos to show the context of the site.
+[00:13:53.360] Currently the site is set up with a hoarding around it, a protective barrier which you can you can see over but it is currently sort of fenced off.
+[00:14:03.200] There are multiple entry points, there are multiple driveways so I guess part of your site research will identify those things as well.
+[00:14:14.160] Looking at the assessment tasks more broadly, and again sort of following on from in fact we've already seen this, we don't need to do that.
+[00:14:21.360] So getting into the assignments, the first assignment guys, hopefully everyone's already working on this now is your site analysis report.
+[00:14:27.920] So this is your opportunity to really understand the site, to get to know the site, because really having an understanding of a site will help you in the initial planning of your of your building.
+[00:14:38.320] So your site analysis report will include a whole lot of different um observations and we would expect that what you observe and what you take away from the site analysis report will be evidenced in your drawings and how you come up with a proposal for this site.
+[00:14:53.440] You'll also produce a planning report.
+[00:14:56.080] This is absolutely crucial.
+[00:14:58.480] It is doing research on the planning requirements of a site is imperative for any architect.
+[00:15:05.360] When we get a new project in the office, one of the first things we do, or even if we get an inquiry, the first thing I do is I check the planning information because I want to know whether or not the site is impacted by particular overlays that could directly interfere with what the client was wanting to achieve on a site.
+[00:15:23.280] So carrying out the planning report is really important, looking at the zone and the overlays, or also strongly encourage you to look at any particular precincts that affect the site as well.
+[00:15:34.080] Alright, so um just a little tip guys um there's the planning information that you can find online really easily.
+[00:15:41.360] There's also then specific precinct information that might have an impact on things like building heights and setbacks.
+[00:15:47.760] So please make sure that you're aware of that because the planning requirements are need to be adhered to within this project.
+[00:15:55.120] Luckily the site is so large that um you won't hopefully you won't have any issues with that.
+[00:16:00.320] Precedent project research as well.
+[00:16:02.000] So week one, getting out there and looking uh well researching precedent projects.
+[00:16:06.960] Now for me a precedent project has to be relevant.
+[00:16:10.160] It has to be a student accommodation building, you know, that is a fundamental thing.
+[00:16:14.880] There's no point doing precedent ro uh precedent precedent project research on an office building, for example.
+[00:16:20.720] So I would suggest hopefully your tutors have all have already covered this off too, find pre-star projects that are relevant and that have information.
+[00:16:28.080] You might find a really good project that you're really enamored with, whether it be for the facade or the building itself, but there are no floor plans available, move on to the next project.
+[00:16:37.120] Find a project that actually has a lot of information because ultimately that will help you with your own projects and your own ideas.
+[00:16:44.160] Structural systems looking into different structural systems.
+[00:16:48.640] You know, there is a big push for mass type of construction.
+[00:16:52.240] There are a lot of projects that have used mass type construction in multi-res, multi-student housing office projects.
+[00:17:01.600] So um there are examples all around us.
+[00:17:03.920] The garden building project at RMIT across the road is a great example of a mass timber construction project.
+[00:17:09.280] So um you know it's not required that you use uh that you research and and and and use MassTim in your own projects, but it is encouraged.
+[00:17:19.599] Um I imagine that the the the final or the the the the the chosen structural systems will be a combination of concrete, timber, steel, of some varying kind of percentages.
+[00:17:32.560] And then your schematic design drawings.
+[00:17:34.800] So for assuming one, you'll you'll be doing the research on the site and other research and also producing a set of drawings.
+[00:17:43.120] The image that you can see here, this here is a pre-built 3D Revit model of the site that is set up as a template for you to use on your projects.
+[00:17:55.280] So if I get one thing across today is use that template in your assignments.
+[00:18:00.640] I spent a lot of time developing that template so that you don't have to start from scratch.
+[00:18:05.200] Alright.
+[00:18:05.840] The way I like to look at this course is that we're all colleagues and we're working in an office together and we're working on a project together.
+[00:18:12.960] If you were working in an architectural office that uses Revit, they will have their very own Revit template file that is customized for them.
+[00:18:20.720] That is really, really important.
+[00:18:22.080] When I worked at Lions and JCB, I was their architect, I was an architect, but I was also the BIM manager.
+[00:18:27.840] And the job of a beer manager is to make sure that the office is using Revit in the most efficient way possible because any waste of time affects the bottom line within the business.
+[00:18:38.880] So having a really good template file means that when any new project is started it is already has a it already has a head start in terms of the graphical styles the information the families the views the sheets a whole lot of different things so make sure that you download the project Revit template file, which is different to the Revit Prack template file, I should say.
+[00:19:02.160] The template file has a file extension RTE.
+[00:19:06.160] The TE stands for template.
+[00:19:08.320] Now when you start a new Repper project, you need to create a project from the template file.
+[00:19:14.160] Alright, so there's a particular workflow, make sure you do this.
+[00:19:17.200] A particular workflow to set up your project from the template file, just Google it.
+[00:19:21.680] It's very, very straightforward.
+[00:19:23.600] If you use a template file to develop your project, you'll have major issues down the track.
+[00:19:28.480] So if you're not sure by all means come down after the lecture and I'm more than happy to help you with that query.
+[00:19:33.920] So, like I said, use this template file.
+[00:19:37.120] The benefit of this template file is also that you um you already have a sub plan sort of mapped out.
+[00:19:42.800] So if you're keen to um start sketching this week, you can print out, you can export or print out the site plan to scale from this from this template, and you're already on the way to starting to develop a site plan.
+[00:19:55.600] Alright, so use the resource.
+[00:19:57.920] You set up your topography, you just set up with roads, buildings, trees, power poles, it's got a full north plan project already set up as well.
+[00:20:05.840] So that is going to give you a really good head start on your assignments with the drawings.
+[00:20:10.240] Now for the schematic design drawings, you'll be producing very simply a site plan and some floor plans initially just to get things going.
+[00:20:18.320] Obviously that's a very simplified explanation of what you're doing.
+[00:20:22.000] You need to obviously obviously develop your your your your student accommodation layouts to in order to build your um your your ground floor plans and your your upper floor plans.
+[00:20:32.320] So obviously your ground floor plan is retail commercial space and then above that is is student apartments.
+[00:20:38.720] So anyway, your tutor will guide you through that process.
+[00:20:42.640] One of the things that you also need to produce early on is an accommodation schedule.
+[00:20:46.560] Alright, as it says on the screen here, there is a template file that you can use in Canvas.
+[00:20:52.400] The accommodation schedule allows you to map out what rooms you need in your project.
+[00:20:56.480] So that's you kind of building a brief for your project.
+[00:20:59.520] Now there's no strict requirement for what kind of shit accommodation building you need to design for.
+[00:21:05.920] That is completely up to you as the designers of this project.
+[00:21:10.080] You might decide that you're building uh you're designing a building for high-end shin accommodation or some other type, alright?
+[00:21:17.040] That is up for you guys to decide.
+[00:21:20.000] Naturally the room layouts and the sizes of rooms and the additional spaces will um will be affected by what kind of building you want to use.
+[00:21:29.360] Alright, so So make sure that you start that accommodation schedule by putting in the room you need.
+[00:21:35.680] We know that there are certain requirements.
+[00:21:37.600] We know that we need to have at least 200 student accommodation units plus that facility spaces so you know that already what kind of rooms are needed but you can decide what the additional spaces are you can decide um what commuter spaces you're putting in you could you know include a gaming room or or other facilities depending on what you want your building is about.
+[00:21:58.400] Alright so I'll leave that for you guys to um to decide.
+[00:22:02.400] On the other side of this page here we can see that we have a requirement for a building performance check.
+[00:22:07.680] So one of the big things that I'm pushing within this course is not only environmental sustainability but analysis of that sustainability, right?
+[00:22:16.400] So for those who did maybe tech two, you'll understand, you know, we worked through some of this in tech too as well.
+[00:22:22.000] So one of the requirements within this assignment, and in fact, all the assignments, is to do a building performance check using NScape Impact.
+[00:22:30.720] So using Rebecca 2026, the labs upstairs now have Nscape installed, and through that you can render, you can also use the impact software.
+[00:22:41.920] So I won't talk too much about that now.
+[00:22:44.880] It's really, really interesting analysis software for early stage massing studies, as you can see in this image here.
+[00:22:52.400] More information will come out on that shortly.
+[00:22:56.880] NCC report, so this is actually week five.
+[00:22:59.680] Week five, assignment two, we'll be looking at the ENCC uh research.
+[00:23:04.000] So that is crucial to lay out your building, to understand distances between um any point in the building and a buyer exit, to understand corridor wid weth'sd, understand a p um number of sanitary um uh facilities required within a commercial space.
+[00:23:18.080] So this uh really assignment two kicks off with a lot of nitty-gritty research on codes, compliance, and standards.
+[00:23:26.160] One of those things is the NCC report and our environmental design analysis report, which is a section link NCC section J.
+[00:23:34.320] If anyone's familiar with that, it is a limit of a document um but what we're what we're wanting you to do is be aware of it right you're picking out key uh aspects of section j um research um just to develop your understanding around codes and compliance for energy efficiency.
+[00:23:52.640] Alright, so that's a really important aspect of this project as well.
+[00:23:56.240] We'll also be doing lifting housing design and better apartment design standards.
+[00:24:00.880] So there are four different pieces of research that we're doing within the start of assignment too that really focus on compliance regulations and codes.
+[00:24:09.440] Alright so the choosers will again will guide you through that process.
+[00:24:13.840] And then we have our design development drawings.
+[00:24:16.000] So as you can see here, the number of drawings is increasing.
+[00:24:19.760] We're now including elevations and sections as part of our design development drawings.
+[00:24:24.560] Alright.
+[00:24:25.600] Now think about design development as your opportunity for design.
+[00:24:29.280] Okay, because when we hit mid-sem and week seven, we've got six weeks left, and a lot of your time, I'm I'm predicting, will go into the detailing and documentation and specifications.
+[00:24:41.680] So use this design development phase to do design.
+[00:24:46.400] What we're looking for in this final outcome is a holistic holistic approach to your project through the planning of the building, the structural um system and the facade design.
+[00:25:00.400] Alright.
+[00:25:01.040] It's not enough to develop a floor plan and just extrude it up and apply material.
+[00:25:05.120] I want to see we all our children all of the children want to see a holistic approach to your buildings.
+[00:25:11.200] That's easier said than done.
+[00:25:12.880] But what I would just suggest you do is look at that design development phase as your opportunity to really come up with a an interesting design for your project.
+[00:25:22.560] Alright.
+[00:25:24.240] Um mid semester review.
+[00:25:26.080] So in week seven, after mid semester break, you'll have your mid semester review.
+[00:25:30.160] This is not like a design studio review where we have guests come in and it's um a bigig um a b show.
+[00:25:36.240] This is just another class, but what you'll be presenting is your assessment task to work to your class in that in that week seven class and your tutor will be providing you with feedback on on where you're at at that point in the in the course, essentially at the halfway mark.
+[00:25:52.160] If your tutor feels like you're at risk of failing, they will let you know in no uncertain terms.
+[00:25:56.560] It's very important.
+[00:25:59.040] Then we hit our major project, the project portfolio.
+[00:26:03.520] It's worth 50% of the overall grade.
+[00:26:06.320] Kicking off with an opportunity for you to be the client.
+[00:26:09.680] Alright, so what we'll be doing initially the research components for AC3 is looking at the building system.
+[00:26:18.160] I want you to think about if you're the client for this building, what kind of uh building systems operate the building?
+[00:26:23.200] Maybe you decide that you want this project to this building to be passive house.
+[00:26:27.920] Alright?
+[00:26:29.040] Or you might have another aspiration for the project.
+[00:26:32.240] So that is really an important decision to make early on because it will then inform what sort of systems you're putting into your building.
+[00:26:38.720] If you did decide that you want to be passive house, then your attention will immediately go to the five principles of passive house design.
+[00:26:44.880] You'll be looking at a mechanical ventilation system, no thermal bridging, you know, wraps, all that sort of stuff.
+[00:26:51.120] All Al rightrig.ht,
+[00:26:51.680] so this is your chance to be the client.
+[00:26:54.000] Normally as architects, we receive the brief from the client, we disseminate that brief and we provide a return brief.
+[00:26:59.680] Now is your chance to say, well, this is what we want everything to be about.
+[00:27:03.040] In addition to the building systems, we also want you to look at lighting and acoustics in terms of a brief for lighting and acoustics.
+[00:27:09.840] Now these things aren't done in isolation.
+[00:27:12.240] If in your early design or early concepts you thought we'd like to have a building that had a lot of natural light coming in, maybe that's part of that section J research, then your lighting and acoustics brief might be that you know we want minimal daylight, minimal lighting throughout the day because we've got a lot of daylight.
+[00:27:28.720] Alright, so again your chance to be the client thinking about the lighting and acoustics and pro providing a brief for what you um what you hope the building is um uh uh what it achieves and then providing a uh uh a
