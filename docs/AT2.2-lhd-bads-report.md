@@ -1,9 +1,11 @@
 # AT2.2 — Livable Housing Design & Better Apartment Design Standards
 
 **63–67 Nicholson Street, Footscray · ACZ1 · Wurundjeri Country**
-**Class 3 residential (student accommodation) over Class 6 retail · Hybrid mass-timber/concrete structure on a 6.0 m grid**
+**Class 3 residential (student accommodation) over Class 6 retail · Hybrid mass-timber/concrete post-and-beam structure on a 3.6 m × 7.2 m rectangular bay (Week 6 Revit model, sheet A400)**
 
 *How to use this document:* each section below is one presentation slide. The **bold** words in each quoted clause are the phrases to highlight when the slide is built. The paragraph under each clause is the actual analysis — written in full already. This report continues AT1.2 (Clause 58 on ACZ1) and AT1.4 Sheet 20. It does not reopen the Class 3 classification locked in AT1.4 and restated in AT2.1.
+
+**Correction against the Week 6 Revit model.** Earlier drafts of this report assumed a uniform 6.0 m structural grid, before a dimensioned drawing set existed. The Week 6 model (`A400 — Proposed Construction Details`, `A102/A103` floor plans, `A501` unit schedule) fixes the real geometry: a **3.6 m** facade/coordination module, with glulam beams (NeXTimber GL13, 135 × 630 mm) spanning **7.2 m** column-to-column on ASH MASSLAM SL33 glulam columns (265 × 260 mm), and NeXTimber NX5-150 CLT floor panels spanning one-way across the **3.6 m** direction between beams. **Unit Typology A** (195 of 200+ rooms) occupies one facade bay **3.6 m wide × 7.2 m deep** — not a 6.0 m square bay. Every number below that depended on the 6.0 m assumption is corrected against this real bay.
 
 Course **minimum 9 × A3**. This folio presents **16** slides: the required nine (G7, D18–D21, D26–D29), plus door widths, ensuite/noggings, the drawing map, the typical bay, the DDA room, the door-width stack, and the communal kitchen as living room.
 
@@ -21,8 +23,8 @@ Course **minimum 9 × A3**. This folio presents **16** slides: the required nine
 | 10 | LHD doors, corridors, thresholds |
 | 11 | LHD sanitary, hobless shower, noggings |
 | 12 | Where this lands on the drawings |
-| 13 | Typical studio on a 6.0 m bay |
-| 14 | DDA studio at 1:20 on the same grid |
+| 13 | Typical studio on the real 3.6 × 7.2 m bay |
+| 14 | DDA studio at 1:20 on the real grid |
 | 15 | Door-width stack: LHD / D18 / AS 1428.1 |
 | 16 | Communal kitchen as the D26 living room |
 
@@ -40,7 +42,7 @@ Course **minimum 9 × A3**. This folio presents **16** slides: the required nine
 
 The course asks for Part G7 on a Class 2 building. Ours is **Class 3 lodging** (AT2.1 §1, A6G4): unrelated students, shared 120–150 m² kitchen, managed occupancy. We are **not** reclassifying to make G7 a Deemed-to-Satisfy pathway. **Clause 58** still attaches because the site is **ACZ1** (AT1.2) — that is a planning trigger, not a building-class trigger. G7 is applied as the amenity overlay the brief already asked for (“LHD where possible”) on every studio.
 
-Every G7P1 item has a counterpart on the typical floor: lift-served corridor, no step at the unit door; studio door + ensuite door on a 6.0 m bay; ensuite on the same level; shower in that ensuite; noggings in the ensuite stud lining (not in the CLT panel). G7D2 skips LHD Part 1; our street-to-lift path is already AT2.1 §6 (AS 1428.1, **850 mm** clear, **1540 mm** turning). Parts 2–6 of the Standard are the overlay; construction numbers are on extension slides 10–11.
+Every G7P1 item has a counterpart on the typical floor: lift-served corridor, no step at the unit door; studio door + ensuite door on a 3.6 m bay; ensuite on the same level; shower in that ensuite; noggings in the ensuite stud lining (not in the CLT panel). G7D2 skips LHD Part 1; our street-to-lift path is already AT2.1 §6 (AS 1428.1, **850 mm** clear, **1540 mm** turning). Parts 2–6 of the Standard are the overlay; construction numbers are on extension slides 10–11.
 
 | Instrument | Why it attaches | What we do |
 |---|---|---|
@@ -59,7 +61,7 @@ Every G7P1 item has a counterpart on the typical floor: lift-served corridor, no
 >
 > — *Maribyrnong Planning Scheme*, cl. 58.05-1, Standard D18.
 
-D18 is stricter than LHD Silver: 850 mm doors and a Table D7 bathroom in **half of all dwellings**. Our brief’s DDA ratio is **1 in 20** (5%) at 30–35 m². That 5% meets Design A/B and AS 1428.1. It does **not** meet D18’s 50%. A 15–25 m² studio cannot hold a Table D7 bathroom, a 1.2 m path and a 3.0 × 3.4 m bedroom. The response is layered: **every studio** gets the LHD overlay; **one in twenty**, on the same 6.0 m grid, is a DDA room; the **common path** (street, lobby, lift, corridor) is fully accessible. The 50% adaptable-apartment ratio is a Class 2 test this floor plate does not claim to pass.
+D18 is stricter than LHD Silver: 850 mm doors and a Table D7 bathroom in **half of all dwellings**. Our brief’s DDA ratio is **1 in 20** (5%) at 30–35 m². That 5% meets Design A/B and AS 1428.1. It does **not** meet D18’s 50%. A 15–25 m² studio cannot hold a Table D7 bathroom, a 1.2 m path and a 3.0 × 3.4 m bedroom. The response is layered: **every studio** gets the LHD overlay; **one in twenty**, on the same 3.6 × 7.2 m bay grid, is a DDA room; the **common path** (street, lobby, lift, corridor) is fully accessible. The 50% adaptable-apartment ratio is a Class 2 test this floor plate does not claim to pass.
 
 | D18 test | Standard | This project |
 |---|---|---|
@@ -78,7 +80,7 @@ D18 is stricter than LHD Silver: 850 mm doors and a Table D7 bathroom in **half 
 >
 > — *Maribyrnong Planning Scheme*, cl. 58.05-2, Standard D19.
 
-The same circulation AT2.1 measured for escape, now read as amenity. Two identities at the street: **Class 6 retail** on Nicholson Street, and a separate **residential lobby**. D19 is the planning reason those doors are not interchangeable. The two fire-isolated stairs in the RC core should be **visible from the entry level** so residents use them — a glazed screen or daylit lift lobby. The corridor is 1.8–2.0 m, risers in the core, sight lines from the lift to both stairs (~24–30 m, inside D2D6’s 9–45 m). Mid-block daylight on a double-loaded 20-room floor is the hard D19 test: end windows, a glazed lobby, or mechanical air. A 6.0 m-grid plate will not have a window in the middle of the corridor.
+The same circulation AT2.1 measured for escape, now read as amenity. Two identities at the street: **Class 6 retail** on Nicholson Street, and a separate **residential lobby**. D19 is the planning reason those doors are not interchangeable. The two fire-isolated stairs in the RC core should be **visible from the entry level** so residents use them — a glazed screen or daylit lift lobby. The corridor is 1.8–2.0 m, risers in the core, sight lines from the lift to both stairs (~24–30 m, inside D2D6’s 9–45 m). Mid-block daylight on a double-loaded ~20-room floor is the hard D19 test: end windows, a glazed lobby, or mechanical air. A 3.6 m-bay plate will not have a window in the middle of the corridor.
 
 | D19 item | Our response |
 |---|---|
@@ -100,14 +102,16 @@ The same circulation AT2.1 measured for escape, now read as amenity. Two identit
 >
 > — *Maribyrnong Planning Scheme*, cl. 58.05-3, Standard D20.
 
-Precinct 1B is **6 storeys / 19.2 m**, under 40 m, so Table D9 internal POS is **not** available. Every studio needs a balcony. On a 6.0 m facade bay, 8 m² at 1.8 m depth is **6.0 m × 1.8 m** — one structural bay. If the condenser sits on the balcony, the area becomes **9.5 m²**; keep 1.8 m depth and find the extra 1.5 m² along the facade, or put the condenser on the roof. The brief’s **50% ground-level public open space** is communal / public, not D20 private open space — both apply.
+The site elevation (A200/A201) carries two sub-precinct envelopes, not one: Schedule 1B (**19.2 m / 6 storeys**) at the street frontage, and Schedule 1D (**31 m / 10 storeys**, with a 5 m setback above 5 storeys) behind it. The built massing runs to **31.0 m** (FFL 17.740 to 48.740, 9 residential levels + roof) — still under **40 m**, so Table D9 internal POS is **not** available anywhere on this building. Every studio needs a balcony.
+
+This is where the real 3.6 m bay changes the answer. Table D8’s **8 m²** at **1.8 m** depth needs a facade width of 8 ÷ 1.8 = **4.4 m** — wider than our **3.6 m** studio bay. A straight 1.8 m-deep balcony on one bay is only 3.6 × 1.8 = **6.48 m²**, short of 8 m². Two honest fixes, either drawable in AT2.4: **(a)** deepen the balcony to **~2.25 m** (3.6 × 2.25 = 8.1 m²) — a bigger cantilever off the 7.2 m beam line, feeding the AT2.3 thermal-break detail; or **(b)** let the balcony run past the party line into a shared notch between two bays. If the condenser sits on the balcony, add **1.5 m²** on top of whichever fix is used. The brief’s **50% ground-level public open space** is communal / public, not D20 private open space — both apply.
 
 | POS option | Minimum | Used here? |
 |---|---|---|
 | Ground courtyard | 25 m², dim. 3 m | Podium-edge studios only, if provided |
-| Balcony, studio, other orientation | **8 m²**, dim. **1.8 m** | Typical floor — one 6.0 m bay × 1.8 m |
-| + condenser on balcony | + **1.5 m²** | Enlarge, or keep condensers off the balcony |
-| Internal POS substitute | Table D9 at ≥ 40 m FFL | **Not available** at 19.2 m |
+| Balcony, studio, other orientation | **8 m²**, dim. **1.8 m** | 3.6 m bay × 1.8 m = 6.48 m² — **short**; needs ~2.25 m depth |
+| + condenser on balcony | + **1.5 m²** | Add to whichever depth fix is used |
+| Internal POS substitute | Table D9 at ≥ 40 m FFL | **Not available** — built height 31 m, still < 40 m |
 
 ---
 
@@ -141,11 +145,11 @@ Five cubic metres inside a 15–25 m² studio that also holds a bed, desk, ensui
 >
 > — *Maribyrnong Planning Scheme*, cl. 58.07-1, Standard D26.
 
-This is the sharpest conflict with the locked brief. Table D11 + Table D12 + wardrobe + ensuite is a **one-bedroom apartment**, not a 15–25 m² student studio (10.2 m² + 10 m² already, before ensuite). We are **not** enlarging the AT1 studio. What D26 still gives, as overlay, is a long bed wall on the 6.0 m bay, a clear 3.0 m to sit and work, and a wardrobe *additional* to the sleeping rectangle. Residents eat in the 120–150 m² communal kitchen, so Table D12 living area is partly provided in common space. That argues the *objective*; it does not claim the typical studio meets the apartment tables.
+This is the sharpest conflict with the locked brief. Table D11 + Table D12 + wardrobe + ensuite is a **one-bedroom apartment**, not a 15–25 m² student studio (10.2 m² + 10 m² already, before ensuite). We are **not** enlarging the AT1 studio. What D26 still gives, as overlay, is a long bed wall on the 3.6 m bay, a clear 3.0 m to sit and work, and a wardrobe *additional* to the sleeping rectangle. Residents eat in the 120–150 m² communal kitchen, so Table D12 living area is partly provided in common space. That argues the *objective*; it does not claim the typical studio meets the apartment tables.
 
 | D26 table | Apartment figure | Student studio (locked) | Objective still addressed by |
 |---|---|---|---|
-| Main bedroom | 3.0 × 3.4 m + wardrobe | Sleeping zone inside 15–25 m² | 6.0 m bay supplies the long dimension |
+| Main bedroom | 3.0 × 3.4 m + wardrobe | Sleeping zone inside 15–25 m² | 3.6 m bay supplies the long dimension |
 | Living (studio / 1 bed) | 10 m², dim. 3.3 m | Combined live/sleep | Communal kitchen/dining 120–150 m² |
 | DDA room | Same tables + circulation | 30–35 m² | Closest to a D26-compliant SOU |
 
@@ -159,13 +163,16 @@ This is the sharpest conflict with the locked brief. Table D11 + Table D12 + war
 >
 > — *Maribyrnong Planning Scheme*, cl. 58.07-2, Standard D27.
 
-This is the clause the course flags for written reflection. **2.5 × 2.7 m = 6.75 m.** A studio one structural bay deep, glass to corridor wall, sits at about **6.0 m** — inside 6.75 m, so the 9 m concession is not needed. There is no in-board kitchen: ensuite and wardrobe sit at the **corridor** (dark) end; desk and bed toward the **window**. FTC ≥ 2.7 m is a locked brief number, measured to the finished ceiling after the CLT acoustic topping (~100 mm STC 50 or ~195 mm STC 58). Services may drop below 2.7 m over the ensuite, as D27 already allows over a kitchen.
+This is the clause the course flags for written reflection, and the Week 6 Revit model changes the answer. **2.5 × 2.7 m = 6.75 m.** Unit Typology A (A501) sits on **two 3.6 m modules deep = 7.2 m**, glass to corridor wall — **over** 6.75 m, not under it as earlier drafts assumed on a 6.0 m guess. Measured strictly, a full-depth single-aspect studio **fails D27** on its own.
 
-| Depth test | Limit | Typical studio on a 6.0 m grid |
+Two honest responses, not a redraw of the locked module: **(1)** D27 measures “habitable room” depth from the external window to the *rear wall of that room* — if the ensuite and wardrobe are boxed off as a separate enclosed zone at the corridor end (as A501’s Unit Typology A plan already shows: ensuite as its own room, not an open recess), the **habitable** portion of the room is shorter than the full 7.2 m structural bay, and can be brought under 6.75 m by holding the ensuite/wardrobe box to ≥ 0.5 m deep. **(2)** if the habitable zone still runs close to 7.2 m, invoke the **9 m open-plan concession** — it requires kitchen, living and dining combined with the kitchen furthest from the window; our studios have no kitchen (it is communal, AT2.2 §16), so this concession does not cleanly apply and should not be claimed without a tutor check. Route (1) is the one to draw in AT2.4; route (2) is flagged here as a real, unresolved risk carried forward — not quietly assumed compliant.
+
+| Depth test | Limit | Typical studio, real 3.6 × 7.2 m bay |
 |---|---|---|
-| Single-aspect depth | **2.5 × FTC** = **6.75 m** at 2.7 m | ~6.0 m glass to corridor wall |
-| Open-plan concession | 9 m at ≥ 2.7 m FTC | Not needed |
-| Dark end of the room | Kitchen furthest from the window | Ensuite + wardrobe at the corridor |
+| Single-aspect depth | **2.5 × FTC** = **6.75 m** at 2.7 m | **7.2 m** full bay depth — **exceeds the limit** |
+| Fix (1): habitable zone only | Must be ≤ 6.75 m | Box off ensuite/wardrobe ≥ 0.5 m deep at the corridor end |
+| Fix (2): open-plan concession | 9 m at ≥ 2.7 m FTC, kitchen furthest from window | Does not cleanly apply — no in-room kitchen; unresolved risk |
+| Dark end of the room | Kitchen furthest from the window (concession) / corridor end (fix 1) | Ensuite + wardrobe at the corridor |
 | FTC | ≥ 2.7 m | Locked brief; confirm after acoustic buildup |
 
 ---
@@ -182,11 +189,11 @@ This is the clause the course flags for written reflection. **2.5 × 2.7 m = 6.7
 >
 > — ABCB, *NCC 2022*, Volume One, cl. F6D7.
 
-D28 is a yes/no test: every habitable room looks at an external wall. Each studio is a facade bay — no borrowed-light bedrooms. The 10% window-to-floor ratio is the number next to that clause: **2.0 m²** of glass on a 20 m² studio, **2.5 m²** on 25 m². On a 6.0 m bay with 2.7 m FTC, a sliding door 2.4 m × 2.1 m is 5.0 m² — also the D20 balcony door. A 1.8 × 1.2 m punched window (2.16 m²) passes 10% on 20 m² and fails on 25 m². Drawing rule: **the balcony door is the daylight window**, glass ≥ 10% of the room, on the external wall.
+D28 is a yes/no test: every habitable room looks at an external wall. Each studio is a facade bay — no borrowed-light bedrooms. The 10% window-to-floor ratio is the number next to that clause: **2.0 m²** of glass on a 20 m² studio, **2.5 m²** on 25 m². On the real **3.6 m** bay with 2.7 m FTC, a sliding door 2.4 m × 2.1 m is 5.0 m² — also the D20 balcony door, and it fits comfortably inside the narrower 3.6 m frontage. A 1.8 × 1.2 m punched window (2.16 m²) passes 10% on 20 m² and fails on 25 m². Drawing rule: **the balcony door is the daylight window**, glass ≥ 10% of the room, on the external wall.
 
 | Daylight test | Requirement | Typical 20 m² studio |
 |---|---|---|
-| D28 — window in an external wall | Yes / no | Yes — one 6.0 m facade bay |
+| D28 — window in an external wall | Yes / no | Yes — one 3.6 m facade bay |
 | F6D7 — glass ≥ 10% floor | 2.0 m² (20 m² room); 2.5 m² (25 m²) | Balcony door ~2.4 × 2.1 m = 5.0 m² |
 | Secondary daylight area | 1.2 m wide, depth ≤ 1.5 × width | Not required if glass is on the facade |
 
@@ -200,7 +207,7 @@ D28 is a yes/no test: every habitable room looks at an external wall. Each studi
 >
 > — *Maribyrnong Planning Scheme*, cl. 58.07-4, Standard D29.
 
-A double-loaded corridor on a 6.0 m grid produces **single-aspect** studios. That plate cannot put 40% of rooms on two orientations without breaking the AT1 typical floor. Four corners on a 20-room floor is 20%, not 40%. Remaining rooms ventilate through the openable balcony door and, where the brief allows it, **air-conditioning** (AT2.3, J6). The objective — occupants able to manage ventilation — is still met by a full-height openable door on every studio. Cross-ventilation that *does* exist sits in **communal** rooms (kitchen/dining, end lounges), where students spend waking hours, even though those rooms are not in the 40% dwelling count.
+A double-loaded corridor on a 3.6 m-bay grid produces **single-aspect** studios. That plate cannot put 40% of rooms on two orientations without breaking the AT1 typical floor. Four corners on a 20-room floor is 20%, not 40%. Remaining rooms ventilate through the openable balcony door and, where the brief allows it, **air-conditioning** (AT2.3, J6). The objective — occupants able to manage ventilation — is still met by a full-height openable door on every studio. Cross-ventilation that *does* exist sits in **communal** rooms (kitchen/dining, end lounges), where students spend waking hours, even though those rooms are not in the 40% dwelling count.
 
 | Ventilation | D29 | This typical floor |
 |---|---|---|
@@ -221,7 +228,7 @@ A double-loaded corridor on a 6.0 m grid produces **single-aspect** studios. Tha
 >
 > — ABCB, *Livable Housing Design Standard 2022* (v1.3), Parts 2 and 3.
 
-This is the door-width reflection the course asks for. LHD Silver is 820 mm. On the **accessible path and every DDA studio**, AT2.1 already uses the stricter AS 1428.1 **850 mm** — wider than LHD, not narrower. Standard studios: 820 mm at unit door and ensuite door, flush or ≤ 5 mm sill into the CLT acoustic topping. There is no house-style hallway inside a 15–25 m² studio. The 1000 mm test lands on the **common corridor** (already 1.8–2.0 m) and the **clear strip past bed and wardrobe** to the ensuite, which a 6.0 m bay can hold without enlarging the AT1 module.
+This is the door-width reflection the course asks for. LHD Silver is 820 mm. On the **accessible path and every DDA studio**, AT2.1 already uses the stricter AS 1428.1 **850 mm** — wider than LHD, not narrower. Standard studios: 820 mm at unit door and ensuite door, flush or ≤ 5 mm sill into the CLT acoustic topping. There is no house-style hallway inside a 15–25 m² studio. The 1000 mm test lands on the **common corridor** (already 1.8–2.0 m) and the **clear strip past bed and wardrobe** to the ensuite, which the 3.6 × 7.2 m bay can hold without enlarging the AT1 module.
 
 | Door / path | LHD minimum | What we provide |
 |---|---|---|
@@ -270,49 +277,49 @@ Every studio is single-level, so the WC in the ensuite meets “entry level.” 
 
 ---
 
-## 13. Typical studio on a 6.0 m bay
+## 13. Typical studio on the real 3.6 × 7.2 m bay
 
-This slide puts D20, D21, D26, D27, D28, D29 and LHD doors on **one room**, the locked 15–25 m² studio. No new module.
+This slide puts D20, D21, D26, D27, D28, D29 and LHD doors on **one room** — Unit Typology A from the Week 6 model (A501), not a guessed module.
 
-Take a mid-range **20 m²** studio on a **6.0 m** facade bay, FTC **2.7 m**, ensuite at the corridor:
+Unit Typology A: **3.6 m wide × 7.2 m deep**, gross ≈ **25.9 m²** (net less wall thickness — the model has not yet tagged a net area), FTC **2.7 m**, ensuite boxed off at the corridor end:
 
-- **Depth (D27):** glass outside face to corridor wall ≈ **6.0 m** < 6.75 m (2.5 × 2.7).
-- **Window (D28 / F6D7):** balcony sliding door 2.4 × 2.1 m = **5.0 m²** ≥ 10% of 20 m² (need 2.0 m²).
-- **Balcony (D20):** 6.0 × 1.8 m = **10.8 m²** ≥ 8 m²; if the condenser sits here, still ≥ 9.5 m².
+- **Depth (D27):** full bay depth **7.2 m** > 6.75 m (2.5 × 2.7) — **exceeds the limit** unless the habitable zone is shortened by the ensuite/wardrobe box (see slide 7, fix 1). Draw this box at ≥ 0.5 m deep in AT2.4 and re-measure.
+- **Window (D28 / F6D7):** balcony sliding door 2.4 × 2.1 m = **5.0 m²** ≥ 10% of a 20–25 m² room (need 2.0–2.5 m²).
+- **Balcony (D20):** a straight 1.8 m-deep balcony on the 3.6 m bay is only **6.48 m²** — **short** of 8 m². Needs ~2.25 m depth to clear 8 m² (see slide 4).
 - **Doors (LHD / D18 / AS 1428.1):** unit and ensuite **820 mm** clear on a typical room; path to ensuite **≥ 1000 mm** past the bed.
 - **Storage (D21):** wardrobe on the corridor wall, about 2–3 m³; flag the 5 m³ in-unit shortfall; cage downstairs.
 - **Ventilation (D29):** one orientation only — openable balcony door; AC as the brief allows.
 
-The ensuite and wardrobe take the dark end; bed and desk take the window end. That is D27’s “kitchen furthest from the window” idea without a kitchen in the room.
+The ensuite and wardrobe take the dark end; bed and desk take the window end. That is D27’s “kitchen furthest from the window” idea without a kitchen in the room — and, on this real bay, also the move that keeps D27 itself passable.
 
-| Check | Number on this 20 m² bay | Pass? |
+| Check | Number on the real 3.6 × 7.2 m bay | Pass? |
 |---|---|---|
-| D27 depth | ~6.0 m vs 6.75 m | Yes |
-| D28 / 10% glass | 5.0 m² vs 2.0 m² | Yes |
-| D20 balcony | 10.8 m² vs 8 m² / 1.8 m | Yes |
+| D27 depth | 7.2 m vs 6.75 m limit | **No** — fails at full depth; passes only if ensuite/wardrobe box shortens the habitable zone |
+| D28 / 10% glass | 5.0 m² vs 2.0–2.5 m² | Yes |
+| D20 balcony | 6.48 m² at 1.8 m depth vs 8 m² required | **No** at 1.8 m — needs ~2.25 m depth |
 | LHD door | 820 mm typical | Yes (850 mm is DDA) |
 | D21 in-unit 5 m³ | ~2–3 m³ | Shortfall — cage |
 | D29 40% cross-vent | Single-aspect | Variation — see slide 9 |
 
 ---
 
-## 14. DDA studio at 1:20 on the same 6.0 m grid
+## 14. DDA studio at 1:20 on the real 3.6 × 7.2 m grid
 
 > **Project brief.** One DDA accessible room for every 20 single units per floor, **30–35 m²**, on the same structural grid as the typical studios.
 >
 > **AS 1428.1.** Door clear opening **850 mm**. Wheelchair turning space **1540 mm** diameter, free of fittings.
 
-The DDA room is not a different structure. It is **two 6.0 m bays** (or one bay plus a borrowed strip) so the 1540 mm circle fits at the bed, the wardrobe and the ensuite. Typical 20 m² cannot hold that circle and an ensuite; that is why the brief enlarges only these rooms, not every room.
+The DDA room is not a different structure. A standard bay is already **25.9 m²** gross — so the DDA room does not need a whole second bay (that would overshoot to ~52 m²). It needs a **partial extension**, borrowing roughly 4–9 m² along the corridor from the neighbouring bay, so the 1540 mm circle fits at the bed, the wardrobe and the ensuite without doubling the footprint. Typical 20–25 m² cannot hold that circle and an ensuite; that is why the brief enlarges only these rooms, not every room.
 
-On a 20-room floor that is **one DDA + nineteen typical**. Place the DDA next to the lift lobby so the accessible path from the street (AT2.1 §6) does not travel the full corridor. Ensuite: hobless shower, Spec 26 membrane across the whole floor, 850 mm door, noggings as LHD Part 6. This room is also the D18 Table D7 adaptable bathroom — Design A, because AS 1428.1 already demands the larger circulation. It does not make the other nineteen rooms into D18’s 50%.
+On a ~20-room floor that is **one DDA + the rest typical** (A503 shows three stair cores serving this floor, so the DDA position is chosen against the actual core locations, not assumed). Place the DDA next to the lift lobby so the accessible path from the street (AT2.1 §6) does not travel the full corridor. Ensuite: hobless shower, Spec 26 membrane across the whole floor, 850 mm door, noggings as LHD Part 6. This room is also the D18 Table D7 adaptable bathroom — Design A, because AS 1428.1 already demands the larger circulation. It does not make the other rooms into D18’s 50%.
 
 | Piece | Typical studio | DDA studio |
 |---|---|---|
-| Area | 15–25 m² | **30–35 m²** |
-| Grid | One 6.0 m bay | Same grid, more of it |
+| Area | 15–25 m² (25.9 m² gross bay) | **30–35 m²** |
+| Grid | One 3.6 × 7.2 m bay | Same grid, +4–9 m² borrowed from the corridor side |
 | Door | 820 mm LHD | **850 mm** AS 1428.1 |
 | Turning | 1000 mm path to ensuite | **1540 mm** circle in room and ensuite |
-| Count per floor | 19 of 20 | **1 of 20** |
+| Count per floor | Bulk of the floor (A501: 195 of 200+ project-wide) | **5 of 200+** project-wide (A501 unit schedule) |
 | Location | Along the corridor | Adjacent to the lift lobby |
 
 ---

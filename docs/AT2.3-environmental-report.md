@@ -1,9 +1,11 @@
 # AT2.3 — Environmental Design Analysis (Energy)
 
 **63–67 Nicholson Street, Footscray · ACZ1 · Wurundjeri Country**
-**Class 3 residential (student accommodation) over Class 6 retail · Hybrid mass-timber/concrete structure on a 6.0 m grid · NCC climate zone 6**
+**Class 3 residential (student accommodation) over Class 6 retail · Hybrid mass-timber/concrete post-and-beam structure on a 3.6 m × 7.2 m rectangular bay (Week 6 Revit model, sheet A400) · NCC climate zone 6**
 
 *How to use this document:* each section below is one presentation slide. The **bold** words in each quoted clause are the phrases to highlight when the slide is built. The paragraph under each clause is the actual analysis — written in full already. This report does not reclassify the residential floors as Class 2 in order to use Part J3 or J1P2 as a Deemed-to-Satisfy pathway.
+
+**Correction against the Week 6 Revit model.** Earlier drafts assumed a uniform 6.0 m grid before a dimensioned drawing set existed. The real bay (A400/A102/A501) is **3.6 m wide × 7.2 m deep**: glulam beams (NeXTimber GL13, 135 × 630 mm) span 7.2 m column-to-column on ASH MASSLAM SL33 columns (265 × 260 mm); NeXTimber NX5-150 CLT floor panels span one-way across the 3.6 m direction. Every "6.0 m bay" reference below is corrected to the real **3.6 m** wall-glazing / facade module.
 
 Course **minimum 6 × A3**. This folio presents **12** slides: the required six (H6, J1P2, J1P3, J3, J4, J6), plus J1P1 for Class 3, how fabric/HVAC land on Hybrid B, J5 sealing, Class 6 vs Class 3 fabric, PV-ready roof / NABERS, and the CLT balcony thermal break.
 
@@ -140,11 +142,11 @@ J3D5/J3D6 still describe the Hybrid B risk: not the CLT panel, but a **metal rai
 >
 > — ABCB, *NCC 2022*, Volume One, cl. J4D3, J4D4, J4D6, J4D7. (J4D5 roof lights: Table J4D5 if a roof light forms part of the envelope.)
 
-This is the DTS fabric pathway for our Class 3 tower and Class 6 podium. Each studio is one **6.0 m wall-glazing construction** (opaque CLT wall + balcony door) under Specification 37. U1.1 and solar admittance 0.07 together mean a **low-SHGC IGU** and/or the D20 balcony as shade — a large clear sliding door will blow 0.07. If the opaque wall is most of the bay, that wall needs **R2.8**; CLT alone will not do it — outboard insulation will. Envelope floors are only the **lowest residential level** over retail or loading (**R2.0** downward), sitting in the same buildup as the AT2.1 acoustic topping. Roof: light membrane (SA ≤ 0.45) and Total R3.2, insulation continuous around plant kerbs. J4D3 fails if insulation stops at a glulam, CLT edge, or un-broken balcony slab.
+This is the DTS fabric pathway for our Class 3 tower and Class 6 podium. Each studio is one **3.6 m wall-glazing construction** (opaque CLT wall + balcony door) under Specification 37 — narrower than the 6.0 m bay assumed before a dimensioned model existed, so the glazed proportion of each bay is a larger share of a smaller wall. U1.1 and solar admittance 0.07 together mean a **low-SHGC IGU** and/or the D20 balcony as shade — a large clear sliding door will blow 0.07 faster on a narrow bay. If the opaque wall is most of the bay, that wall needs **R2.8**; CLT alone will not do it — outboard insulation will. Envelope floors are only the **lowest residential level** over retail or loading (**R2.0** downward), sitting in the same buildup as the AT2.1 acoustic topping. Roof: light membrane (SA ≤ 0.45) and Total R3.2, insulation continuous around plant kerbs. J4D3 fails if insulation stops at a glulam, CLT edge, or un-broken balcony slab.
 
 | Envelope piece | Class 3, CZ6 DTS | Studio / podium consequence |
 |---|---|---|
-| Wall-glazing Total System U-Value | **U1.1** | Spec 37 on each 6.0 m bay |
+| Wall-glazing Total System U-Value | **U1.1** | Spec 37 on each 3.6 m bay |
 | Opaque wall, if ≥ 80% of the bay | **R2.8** | Outboard insulation on CLT |
 | Solar admittance | **0.07** all aspects | Low-SHGC IGU + balcony shading |
 | Roof Total R-Value | **R3.2** downward; SA ≤ 0.45 | Light membrane; continuous insulation |
@@ -208,7 +210,7 @@ The course asks for a reflection on how insulation, fabric and HVAC land in the 
 | Layer of the design | Energy clause | What is drawn |
 |---|---|---|
 | CLT wall + outboard insulation | J4D3, J4D6 R2.8 / U1.1 | Wall section; thermal break at floor edge and balcony |
-| Balcony door on a 6.0 m bay | J4D6 solar admittance 0.07; F6D7 10% glass | Low-SHGC IGU; balcony as shade; glass still ≥ 10% floor |
+| Balcony door on a 3.6 m bay | J4D6 solar admittance 0.07; F6D7 10% glass | Low-SHGC IGU; balcony as shade; glass still ≥ 10% floor |
 | Roof, SA ≤ 0.45, Total R3.2 | J4D4; J1P4 | Light membrane; PV field; continuous insulation |
 | Lowest residential floor over retail | J4D7 R2.0 | Insulation in the transfer / acoustic buildup |
 | Per-studio heat pump | J6D3; J1P1 | One unit per room; balcony-door interlock |
@@ -247,7 +249,7 @@ The Class 6 shopfront is the leaky piece: a revolving or draft-lobbied entry is 
 >
 > — ABCB, *NCC 2022*, Volume One, cl. J4D6, Tables J4D6a–c.
 
-The podium and the tower are not the same envelope. The **shop** may have a more glazed street wall (Nicholson Street activation, D19) and is allowed a higher U-Value (**U2.0** vs **U1.1**), a higher solar admittance (**0.13** vs **0.07**) and a weaker opaque wall (**R1.4** vs **R2.8**). The **studios** cannot borrow those Class 6 numbers. Spec 37 is run **twice**: once on the shopfront, once on a typical 6.0 m residential bay. The concrete transfer slab between them is a J4D7 floor for whichever side is the envelope of a conditioned space.
+The podium and the tower are not the same envelope. The **shop** may have a more glazed street wall (Nicholson Street activation, D19) and is allowed a higher U-Value (**U2.0** vs **U1.1**), a higher solar admittance (**0.13** vs **0.07**) and a weaker opaque wall (**R1.4** vs **R2.8**). The **studios** cannot borrow those Class 6 numbers. Spec 37 is run **twice**: once on the shopfront, once on a typical 3.6 m residential bay. The concrete transfer slab between them is a J4D7 floor for whichever side is the envelope of a conditioned space.
 
 Display glazing in the shop has its own cap (Total System U-Value of display glazing not greater than **U5.8**, SHGC per J4D6(7)). That is a shop window, not a studio balcony door.
 
@@ -292,7 +294,7 @@ If J1V1 is used instead of DTS, student housing maps to **Hotels**, not Offices,
 >
 > — ABCB, *NCC 2022*, Volume One, cl. J4D3; Part F8 as the related moisture check in CZ6.
 
-The 6.0 m balcony that D20 and D28 need is the energy weak point. If the CLT floor panel runs outboard as the balcony without a break, that bay’s wall-glazing construction will not hold **U1.1 / 0.07**, and in climate zone 6 the soffit above the balcony door becomes a condensation line on the room side. Two honest details, either of which can be drawn in AT2.4:
+The balcony that D20 and D28 need is the energy weak point — and on the real **3.6 m** bay it is a deeper cantilever than a 6.0 m-bay guess implied: AT2.2 §4 shows the straight 1.8 m depth falls short of D20's 8 m² on a 3.6 m frontage, so the balcony needs roughly **2.25 m** of projection to comply, not 1.8 m. That is a longer lever arm off the 7.2 m beam line, and a longer thermal bridge to break. If the CLT floor panel runs outboard as the balcony without a break, that bay's wall-glazing construction will not hold **U1.1 / 0.07**, and in climate zone 6 the soffit above the balcony door becomes a condensation line on the room side. Two honest details, either of which can be drawn in AT2.4:
 
 1. **Broken balcony:** a separate balcony structure (steel or glulam) with a thermal break at the CLT edge, drainage and a sealed window line at the warm wall.
 2. **Insulated upstand:** CLT continues but insulation and a thermal break wrap the edge, and the sliding door sits inboard of that wrap.
