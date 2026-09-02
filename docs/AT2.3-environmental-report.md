@@ -68,7 +68,7 @@ The correct map, without reopening AT1.4:
 
 Clause 58.03-1 (Standard D6) separately asks apartment developments in NatHERS climate zone 21 (Melbourne) not to exceed **30 MJ/m²·annum** cooling load. That is a planning test via ACZ1, not J1P2. If a thermal model is run later, 30 MJ/m²·annum is the planning number; J4D6 solar admittance **0.07** on a Class 3 wall-glazing construction in CZ6 is the DTS way of aiming at it.
 
-**On the real drawing:** the 24-sheet Week 6 set (A000–A701) is entirely architectural — there is no thermal-model or services sheet yet to check any heating/cooling load against. **Add to AT2.4 (or a services consultant's sheet):** even a note-form thermal budget per studio, run against the real 3.6 × 7.2 m bay rather than a placeholder module, once the model exists.
+**On the real drawing:** every sheet in the Week 6 set, from A000 through A701, is architectural — plans, elevations, sections, and construction detail, but nothing that models or schedules a thermal or energy load. That is a genuine, honest gap rather than an oversight to gloss over: this report can state the *pathway* (J1P1 + J4 + J6, not J1P2) and the fabric targets that pathway sets, but it cannot yet show a heating-or-cooling number for a real studio, because no thermal model exists to produce one against the actual 3.6 × 7.2 m bay. When one is run — even a note-form per-studio budget rather than a full NatHERS-style model — it should be checked against this real bay width, not the 6.0 m module earlier drafts of this report assumed.
 
 | Instrument | What it caps | Applies here? |
 |---|---|---|
@@ -88,7 +88,7 @@ Clause 58.03-1 (Standard D6) separately asks apartment developments in NatHERS c
 
 **Class 2 SOU only.** The reason it still gets a required slide is that it names the four services the course wants — heating, cooling, hot water, lighting — and it gives a benchmark. Our Class 3 proposal, aligned with J1P1 rather than J1P3: **reverse-cycle heat-pump** in each studio (the brief allows AC; D29 already admitted most rooms are single-aspect); **central electric heat-pump hot water** rather than 5-star gas, because a mass-timber student building should not run gas to 200 ensuites if it can avoid it; studio lighting well under 4 W/m² because the rooms are small and the balcony door already supplies daylight (AT2.2 §8). J1P3’s gas figure is a *ceiling on energy value*, not a requirement to use gas.
 
-**On the real drawing:** none of these four services (heat pump, central HWS, lighting) are placed anywhere in the Week 6 set — there's no mechanical or electrical sheet yet. **Add to AT2.4:** a services/plant zone on the roof and in the basement plan (A100), even schematically, so the heat-pump and HWS proposal has somewhere to sit on a drawing.
+**On the real drawing:** the heat pump, the central hot-water plant, and the studio lighting proposed above are all real, considered choices for this building, but none of them appear on a drawing yet — the Week 6 set has no mechanical or electrical sheet at all, only the 24 architectural sheets. That is a different kind of gap to the dimensioning gaps elsewhere in this report: it is not that a number is missing from an existing sheet, it is that the sheet itself does not exist. Even a schematic services zone — a marked plant area on the roof for the central HWS, and condenser space noted per studio on the typical floor — would be enough to say these services have a home in the design, rather than sitting only as a proposal in this report's text.
 
 | Service | J1P3 Class 2 benchmark | Class 3 proposal on this building |
 |---|---|---|
@@ -121,7 +121,7 @@ Part J3 is the Class 2 elemental recipe. We read it because the brief requires J
 
 J3D5/J3D6 still describe the Hybrid B risk: not the CLT panel, but a **metal rainscreen clip** or a **concrete slab edge** that bypasses it. R0.2 breaks at those clips; a timber rainscreen is already a break.
 
-**On the real drawing:** this risk is concrete once the facade panel strategy is added (see `AT2-facade-panel-strategy.md`) — the TMT panel's own clips are exactly the "metal rainscreen clip" this clause warns about. **Add to AT2.4:** a note on the facade construction detail (A402) confirming the clip fixings are thermally broken, not a direct metal-to-CLT bridge.
+**On the real drawing:** this clause's warning about a "metal rainscreen clip" bypassing the insulation used to be a generic risk in earlier drafts of this report — it is now a specific, named one. The facade strategy this project has actually chosen (`AT2-facade-panel-strategy.md`) fixes its Thermally Modified Timber panels to the wall with concealed stainless steel clips on an aluminium sub-rail — literally the clip type this clause is written to catch. A402 (Proposed Construction Facade Details) is the sheet where that fixing is drawn, but it does not yet carry a note confirming whether those clips sit on a thermally broken bracket or bridge straight through to the CLT behind them. That single confirmation — broken or not — decides whether this clause is met or quietly failed at every clip line on the building.
 
 | Element | Class 2 elemental (J3, CZ6) | Class 3 DTS (J4, CZ6) — the one we use |
 |---|---|---|
@@ -147,7 +147,7 @@ J3D5/J3D6 still describe the Hybrid B risk: not the CLT panel, but a **metal rai
 
 This is the DTS fabric pathway for our Class 3 tower and Class 6 podium. Each studio is one **3.6 m wall-glazing construction** (opaque CLT wall + balcony door) under Specification 37 — narrower than the 6.0 m bay assumed before a dimensioned model existed, so the glazed proportion of each bay is a larger share of a smaller wall. U1.1 and solar admittance 0.07 together mean a **low-SHGC IGU** and/or the D20 balcony as shade — a large clear sliding door will blow 0.07 faster on a narrow bay. If the opaque wall is most of the bay, that wall needs **R2.8**; CLT alone will not do it — outboard insulation will. Envelope floors are only the **lowest residential level** over retail or loading (**R2.0** downward), sitting in the same buildup as the AT2.1 acoustic topping. Roof: light membrane (SA ≤ 0.45) and Total R3.2, insulation continuous around plant kerbs. J4D3 fails if insulation stops at a glulam, CLT edge, or un-broken balcony slab.
 
-**On the real drawing:** A400/A402 show the real wall build-up (CLT panel, connector zone) and a facade elevation, but no sheet yet calls out an insulation layer or a U-value on the wall itself — outboard insulation is argued here, not yet drawn. **Add to AT2.4:** an insulation layer and thickness on the A402 facade detail, tied to the R2.8 target above.
+**On the real drawing:** A400 already draws the CLT wall and the connector zone behind it in real detail, and A402 already draws a facade elevation showing where the panel bays sit — the structural half of this wall is genuinely resolved. What neither sheet shows is an insulation layer: no thickness, no product, no position relative to the CLT is called out anywhere in the set. That means the R2.8 target this slide names is this report's own target for the design to meet, not a build-up that has been checked and found to meet it. Outboard insulation of roughly 90–110 mm (depending on the product) is what a CLT wall typically needs to close that gap — a figure worth putting on A402 once a product is chosen, rather than leaving the wall build-up as CLT alone.
 
 | Envelope piece | Class 3, CZ6 DTS | Studio / podium consequence |
 |---|---|---|
@@ -177,7 +177,7 @@ This closes AT2.2’s D29 variation. Most studios are single-aspect, so they are
 
 Common-area ventilation is J6D4: corridor and lobby air that can be turned off by zone, outdoor air within F6 + 20%, time switch if the fan is over 1000 L/s. Basement carpark exhaust, if it exists, needs CO monitoring to AS 1668.2.
 
-**On the real drawing:** same gap as J1P3 — no mechanical sheet exists yet to place the per-studio unit, the microswitch on the D20 door, or the corridor fans. **Add to AT2.4:** a services zone note on A101/A102 (external condenser location per studio) and on the corridor ceiling plan (A104, currently the reflected ceiling plan) for the ventilation fans.
+**On the real drawing:** this is the same missing-sheet gap named against slide 3, showing up again here because J6 is where it bites hardest. The per-studio heat pump, the balcony-door microswitch, and the corridor exhaust fans described above are all mechanical elements with no home yet on any drawing — there is no services floor plan, and A104 (the reflected ceiling plan that would carry the corridor fans) has not been developed past its title. None of that changes which NCC pathway applies or what the fabric and HVAC targets are; it does mean this slide is naming a specification, not confirming an installed system, and that gap should close before AT2.4 is called complete.
 
 | System | J6 rule that lands | What we specify |
 |---|---|---|
@@ -208,7 +208,7 @@ The Class 6 shopfront is the leaky piece: a revolving or draft-lobbied entry is 
 | Service penetrations | Sealed sleeves through the topping and CLT |
 | Shopfront | Draft lobby or equivalent; separate from the student entry |
 
-**On the real drawing:** A400/A401 already show the connector and floor-buildup detail this slide leans on (acoustic screed/mat over the CLT panel, threaded-rod connections into the glulam), but no sheet yet marks a continuous air-barrier line or seals the D20 sliding door or ensuite exhaust. **Add to AT2.4:** an air-barrier line drawn onto the A401 wall/floor detail, and a note on the balcony-door and exhaust seals.
+**On the real drawing:** A400 and A401 already carry real detail this slide can point to directly — the acoustic screed and resilient mat over the CLT floor panel, and the threaded-rod connections into the glulam beam and column, both drawn and dimensioned. That build-up is exactly where an air barrier needs to sit, but neither sheet marks one: there is no continuous line on either detail showing where the taped-joint or membrane barrier this clause requires actually runs, and no seal is called out at the balcony door or the ensuite exhaust. The physical construction this report's air-sealing argument depends on is real and drawn; the air barrier itself, as a distinct line on the drawing, is not yet there.
 
 ---
 
