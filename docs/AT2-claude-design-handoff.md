@@ -2,7 +2,7 @@
 
 This file is a **production brief for Claude Design**, not the student folio. Tutors should not be shown this file.
 
-**Week 6 update:** AT2.2 and AT2.3 are trimmed to match what's actually in your research pack — required course headings kept, unpulled extension slides removed — and corrected against the real Week 6 Revit model (3.6 × 7.2 m bay, not the earlier 6.0 m assumption). Every required slide that stays now also says whether the real drawing set actually shows what the clause needs, and what to add if it doesn't. Three new short reports are added — First Nations sourcing, facade panel strategy (now with a built precedent), and mass timber fire resistance. **AT2.1 has not been touched** (out of scope for this pass) and still reads against the older 6.0 m assumption — flag that to your tutor separately if it needs the same correction pass.
+**Week 6 update (latest pass):** AT2.1, AT2.2, and AT2.3 are all now corrected against the real Week 6 Revit model — 3.6 × 7.2 m bay throughout, not the earlier 6.0 m assumption. AT2.1 specifically now carries the real building height (8 storeys of Class 3 over a Class 6 podium, 31.0 m overall — not 6 storeys/19.2 m) and the real travel distances measured on sheet A503 (27.4 m, 27.5 m, 40.1 m — not a theoretical ~24–30 m estimate). AT2.2 and AT2.3 are also trimmed to match what's actually in your research pack — required course headings kept, unpulled extension slides removed. Every slide that carries an "On the real drawing" note now writes it as full analysis, not a bracketed to-do. Three new short reports are added — First Nations sourcing, facade panel strategy (now with a built precedent), and mass timber fire resistance.
 
 **Student-facing copy (source of truth — paste/layout from these, do not rewrite):**
 
@@ -68,7 +68,7 @@ A3 landscape 420 × 297 mm. Navy #1f4b66, white ground, black hairline border in
 - Title block bottom-right: 63–67 Nicholson St, Footscray · ACZ1 · Wurundjeri Country · Sheet x/37
 
 GLOBAL LOCKS:
-Class 3 lodging + Class 6 retail. Hybrid B. Structural bay is 3.6 m × 7.2 m (Week 6 Revit model, sheet A400) — do NOT use a 6.0 m square grid on sheets from AT2.2, AT2.3, First Nations, Facade, or Fire (AT2.1 alone still uses the older 6.0 m figure and has not been corrected — copy it as-is, do not silently fix it). Do not reclassify to Class 2. Do not reopen Hybrid A/C. Do not invent numbers. One markdown ## section = one sheet, in file order.
+Class 3 lodging + Class 6 retail. Hybrid B. Structural bay is 3.6 m × 7.2 m (Week 6 Revit model, sheet A400) — do NOT use a 6.0 m square grid anywhere, including AT2.1 (now corrected in all six sources). Building height is 8 storeys of Class 3 residential over a Class 6 podium, 31.0 m overall (A200/A201) — do NOT use "6 storeys / 19.2 m" anywhere. Do not reclassify to Class 2. Do not reopen Hybrid A/C. Do not invent numbers. One markdown ## section = one sheet, in file order.
 
 SHEET ORDER (37 sheets total — continuous numbering 1/37 through 37/37):
 
@@ -76,7 +76,7 @@ PART A — AT2.1 NCC Report (sheets 1–12)
 Source: docs/AT2.1-week5-NCC-report.md
 https://github.com/feangkan/AAT_Tools/blob/cursor/at2-week5-f836/docs/AT2.1-week5-NCC-report.md
 ## 1 through ## 12 → sheets 1/37 through 12/37. Header prefix: ARCH3372 · AT2.1 NCC Report ·
-Locks: Travel distances 6 m (SOU door to choice) / 20 m (corridor), not 40 m. Wet areas F2D2 + Spec 26, not Housing Provisions Part 10.2. Sprinklers E1D6, rise ≥ 4, effective height ≤ 25 m. Note: this part still reads against the uncorrected 6.0 m grid — copy verbatim, do not fix.
+Locks: real bay 3.6 × 7.2 m; real building 8 storeys of Class 3 over a Class 6 podium, 31.0 m overall (not 6 storeys/19.2 m). SOU door to point of choice ≤ 6 m; corridor point ≤ 20 m generally, but the real A503 travel distances (27.4 m, 27.5 m, 40.1 m — sheet 10/37, ## 10) include one, 40.1 m, that EXCEEDS 20 m and is flagged as an open item, not resolved — keep that wording. Wet areas F2D2 + Spec 26, not Housing Provisions Part 10.2. Sprinklers E1D6, rise ≥ 4 (met); effective height ≤ 25 m for the simple DTS test is flagged as a real open question at 31.0 m overall (sheet 9/37, ## 9) — keep as open, do not resolve it either way.
 
 PART B — AT2.2 LHD + BADS Report (sheets 13–23)
 Source: docs/AT2.2-lhd-bads-report.md
