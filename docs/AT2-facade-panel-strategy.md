@@ -3,7 +3,7 @@
 **63–67 Nicholson Street, Footscray · ACZ1 · Wurundjeri Country**
 **Hybrid mass-timber structure, 3.6 m facade module (Week 6 Revit model, A200/A201/A402)**
 
-*How to use this document:* two slides, replacing the unfinished facade note on sheet A402 ("Facade stergy / 50% 50& stegy maximize efficiency / Lowcarbon material / Ventilation") with a resolved panel selection and a comparison against the alternatives actually considered. Sourced from the studio's own facade-panel research (`Mass Timber Facade Panel Selection`, four rainscreen typologies compared).
+*How to use this document:* three slides, replacing the unfinished facade note on sheet A402 ("Facade stergy / 50% 50& stegy maximize efficiency / Lowcarbon material / Ventilation") with a resolved panel selection, a build-up, and a built precedent for the same material family. Sourced from the studio's own facade-panel research (`Mass Timber Facade Panel Selection`, four rainscreen typologies compared) and a curved-timber office precedent (Oslotre, Lumber 4, Kristiansand).
 
 ---
 
@@ -48,7 +48,7 @@ This build-up is drawn directly onto the real **3.6 m** facade bay established o
 
 - **"Lowcarbon material"** — resolved: TMT is the stated net-negative-carbon panel, not an unlabelled aspiration.
 - **"Ventilation"** — resolved: the 25–40 mm drained cavity behind the panel is the ventilation the note gestured at, sized against the studio's own referenced detailing guidance.
-- **"50% 50& stegy maximize efficiency"** — resolved as the actual solid-to-glazing split visible on A402's facade elevation: opaque TMT panel bays alternate with the glazed balcony-door bays established in AT2.2 §13 (3.6 m module, 2.4 × 2.1 m sliding door as the daylight window) — a real ratio read off the drawing, not a garbled placeholder.
+- **"50% 50& stegy maximize efficiency"** — resolved as the actual solid-to-glazing split visible on A402's facade elevation: opaque TMT panel bays alternate with the glazed balcony-door bays established in AT2.2 §8 (3.6 m module, 2.4 × 2.1 m sliding door as the daylight window) — a real ratio read off the drawing, not a garbled placeholder.
 
 **Cavity fire barriers** (intumescent, closing under heat) are required at every floor line where the cavity behind the TMT panel is continuous — the same logic used on the studio's own GFRC reference, applied here because the panel face is combustible where GFRC's is not. See the fire-resistance slides below for how this interacts with the CLT structure behind it.
 
@@ -63,4 +63,20 @@ This build-up is drawn directly onto the real **3.6 m** facade bay established o
 
 ---
 
-*Sourced from: Week 6 Revit model sheets A200, A201, A402 (facade elevation and construction facade details); the studio's own `Mass Timber Facade Panel Selection` comparison (Thermally Modified Timber, HPL/bio-composite, fiber cement, extruded terracotta, thin GFRC/UHPC); AT2.3 §5/§8 (J4D6 wall-glazing fabric targets on the same 3.6 m bay).*
+## 3. Precedent: Lumber 4, Kristiansand (Oslotre, 2025) — curved, prefabricated timber facade
+
+**Why this precedent, against the honest limits of the comparison:** Lumber 4 is not the same species or exact finish as the TMT panel chosen above — its cladding is **fire-treated, green-painted pine**, not a heat-modified/acetylated board — but it answers a question the panel-selection table on slide 1 doesn't: *can a modular timber rainscreen be prefabricated, curved, and still meet fire and weathering requirements at full building scale?* This is that proof, built and occupied, not a manufacturer's data sheet.
+
+| What Lumber 4 shows | Relevance to this project |
+|---|---|
+| **Prefabricated curved timber panels**, straight eaves casting a curved shadow onto them | A modular timber panel system can be genuinely expressive, not just a flat rainscreen — worth testing on this building's own facade bays (3.6 m module) rather than assuming a flat panel is the only option |
+| **Fire-treated pine cladding** | Direct precedent for the fire-treatment strategy this project's own TMT panel needs (see `AT2-fire-resistance.md` §2) — treating the outer skin, not just relying on species |
+| **Wood-fibre insulation throughout**, white-pigmented spruce elsewhere on the envelope | A fully-timber envelope build-up (cladding + insulation) is a real, specified system, not a hybrid compromise — supports this project's own build-up on slide 2 |
+| **Designed to weather and grey unevenly** (paint under the shadow line ages differently to paint in full sun) | An honest answer to a question this project hasn't addressed yet: TMT silvers with UV/weather exposure. Rather than treating that as a defect, Lumber 4 shows a precedent for *designing the facade pattern around* differential weathering — worth a design decision here, not an afterthought |
+| **6 storeys, built in 12 months using mass timber** | Programme evidence that a prefabricated timber envelope does not slow down a multi-storey mass-timber build — relevant given this project's own 9-storey, 3.6 × 7.2 m bay programme |
+
+**The honest gap:** Lumber 4's curved geometry is a bigger architectural move than this project's flat 3.6 m facade bays currently attempt. Citing it as *inspiration for expressive modularity*, not as evidence the chosen panel is already curved, keeps this precedent honest rather than overstated.
+
+---
+
+*Sourced from: Week 6 Revit model sheets A200, A201, A402 (facade elevation and construction facade details); the studio's own `Mass Timber Facade Panel Selection` comparison (Thermally Modified Timber, HPL/bio-composite, fiber cement, extruded terracotta, thin GFRC/UHPC); AT2.3 §5/§8 (J4D6 wall-glazing fabric targets on the same 3.6 m bay); designboom, "Green Timber Curves Create a Rhythmic Facade for an Office Building in Norway" (Lumber 4, Oslotre, Kristiansand, 2025), https://www.designboom.com/architecture/green-timber-curves-rhythmic-facade-office-building-norway-kristiansand-lumber-4-oslotre-10-10-2025/.*

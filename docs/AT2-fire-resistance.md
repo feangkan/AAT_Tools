@@ -46,7 +46,7 @@ The modular Thermally Modified Timber facade (see `AT2-facade-panel-strategy.md`
 
 - **Cavity fire barriers at every floor line.** The 25–40 mm ventilated cavity behind the TMT panel is a continuous vertical path unless interrupted — an intumescent horizontal barrier at each floor line (open under normal conditions for drainage/ventilation, swelling shut under heat) stops fire running floor-to-floor inside the cavity, independent of whether the panel face itself is combustible.
 - **Fire-treated TMT at lower floors / near openings.** Reserve the fire-treated B-s1,d0 grade for the podium and the levels immediately above (where the Class 6 retail fire load sits below) and around openable balcony doors, keeping standard TMT for the upper, lower-risk levels — a graded response rather than one spec for the whole tower.
-- **The connection is not new geometry.** Both this cavity-barrier detail and the AT2.3 §12 CLT-balcony thermal break land at the same junction — the CLT wall edge, where the facade panel, the insulation, and the structural balcony connection all meet. Draw them together in AT2.4, not as three unrelated details on three different sheets.
+- **The connection is not new geometry.** This cavity-barrier detail and the balcony thermal break flagged in AT2.2 §4 (the balcony now needs ~2.25 m of cantilever, not 1.8 m, once the real 3.6 m bay is used) land at the same junction — the CLT wall edge, where the facade panel, the insulation, and the structural balcony connection all meet. Draw them together in AT2.4, not as unrelated details on separate sheets.
 
 | Facade fire interface | Risk if undetailed | Response |
 |---|---|---|

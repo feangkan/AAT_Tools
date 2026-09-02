@@ -8,13 +8,15 @@
 | Report | File | Slides | Course min |
 |---|---|---|---|
 | AT2.1 NCC | [`docs/AT2.1-week5-NCC-report.md`](./AT2.1-week5-NCC-report.md) | **12** | 6 × A3 |
-| AT2.2 LHD + BADS | [`docs/AT2.2-lhd-bads-report.md`](./AT2.2-lhd-bads-report.md) | **16** | 9 × A3 |
-| AT2.3 Energy | [`docs/AT2.3-environmental-report.md`](./AT2.3-environmental-report.md) | **12** | 6 × A3 |
+| AT2.2 LHD + BADS | [`docs/AT2.2-lhd-bads-report.md`](./AT2.2-lhd-bads-report.md) | **11** | 9 × A3 |
+| AT2.3 Energy | [`docs/AT2.3-environmental-report.md`](./AT2.3-environmental-report.md) | **7** | 6 × A3 |
 | First Nations sourcing (structure strategy) | [`docs/AT2-first-nations-sourcing.md`](./AT2-first-nations-sourcing.md) | **2** | — (course-wide requirement, not a numbered AT2.x) |
-| Facade strategy (modular TMT panel) | [`docs/AT2-facade-panel-strategy.md`](./AT2-facade-panel-strategy.md) | **2** | — |
+| Facade strategy (modular TMT panel + precedent) | [`docs/AT2-facade-panel-strategy.md`](./AT2-facade-panel-strategy.md) | **3** | — |
 | Mass timber fire resistance | [`docs/AT2-fire-resistance.md`](./AT2-fire-resistance.md) | **2** | — |
 
 Each section is one slide: real clause text, **bold** keywords, analysis on *this* building, a table, a short citation. Not AI-prompt language.
+
+**AT2.2/AT2.3 trimmed against the actual research pack (second Week 6 pass).** Checked slide-by-slide against `Week6 Advanced Tech research_Optimized.pdf`: only 2 of AT2.2's original 16 slides and 4 of AT2.3's original 12 were actually in the pulled pack. The extension slides beyond the course-required minimum (AT2.2's drawing-map/typical-bay/DDA-studio/door-stack/communal-kitchen; AT2.3's J1P1/Hybrid-B-summary/Class6-vs-3/NABERS/CLT-balcony) are removed. The **required** Clause 58 (G7, D18–D21, D26–D29) and NCC (H6, J1P2, J1P3, J3, J4, J6) headings stayed even though most weren't yet in the pack, since the brief names them directly — cutting them would drop both reports below the stated course minimum. Every slide that stays now carries an **"On the real drawing"** line saying whether the Week 6 model actually shows what the clause needs, and what to add to AT2.4 if it doesn't.
 
 ---
 
@@ -29,8 +31,8 @@ AT2.2 and AT2.3 were originally written before a dimensioned drawing set existed
 
 **AT2.2 and AT2.3 have been corrected** against this real bay — see each file's opening "Correction against the Week 6 Revit model" note. Two real compliance risks surfaced by the correction, not previously visible on the wrong 6.0 m assumption:
 
-- **D27 room depth** — the real 7.2 m studio depth *exceeds* the 6.75 m limit (2.5 × 2.7 m FTC). Flagged in AT2.2 §7/§13 with two honest fixes; not yet resolved in a drawing.
-- **D20 balcony area** — a straight 1.8 m-deep balcony on the real 3.6 m bay is only 6.48 m², short of the 8 m² minimum; needs ~2.25 m depth. Flagged in AT2.2 §4/§13 and AT2.3 §12 (bigger cantilever, bigger thermal bridge to detail).
+- **D27 room depth** — the real 7.2 m studio depth *exceeds* the 6.75 m limit (2.5 × 2.7 m FTC). Flagged in AT2.2 §7 with two honest fixes; not yet resolved in a drawing.
+- **D20 balcony area** — a straight 1.8 m-deep balcony on the real 3.6 m bay is only 6.48 m², short of the 8 m² minimum; needs ~2.25 m depth. Flagged in AT2.2 §4 (the deeper cantilever also means a bigger thermal bridge to detail once AT2.4 draws it — AT2.3's dedicated CLT-balcony slide was cut in the pass below since it wasn't in the pulled research pack; the underlying risk still applies, just without its own slide now).
 
 Both are carried forward as **open AT2.4 drawing questions**, not silently assumed away.
 
@@ -72,8 +74,8 @@ Checking the repo's 2015-edition PDFs and the live NCC 2022 site turned up a few
 | ID | Name | Week | Min | This folio |
 |---|---|---|---|---|
 | AT2.1 | NCC Report | 5 | 6 × A3 | **12** slides |
-| AT2.3 | Environmental / energy | 5 | 6 × A3 | **12** slides |
-| AT2.2 | LHD + BADS | 6 | 9 × A3 | **16** slides |
+| AT2.3 | Environmental / energy | 5 | 6 × A3 | **7** slides |
+| AT2.2 | LHD + BADS | 6 | 9 × A3 | **11** slides |
 | AT2.4 | DD drawings (Revit) | 4–7 | drawing set | Week 6 model exists (`Week 6 Drawing.pdf`, 24 sheets) — see below |
 
 **Submission dates (per the Week 6 course announcement — supersedes the "Mon 7 Sep" AT2-only date used in earlier drafts of this brief):** classes resume Mon 7 Sep (Week 7); **AT1 + AT2 bound into one PDF, submitted to Canvas by 5pm Fri 11 Sep**; Week 7 tutorial is the Mid-Semester Review, presenting the submitted work with a particular focus on the AT2 drawing set.
@@ -90,8 +92,9 @@ Checking the repo's 2015-edition PDFs and the live NCC 2022 site turned up a few
 | Mass timber fire resistance | Written (`AT2-fire-resistance.md`) — structure (char-design on real member sizes) + facade cavity interface |
 | NCC resource (buildingtools.co) | Added to `resources/README.md`, both cursor branches |
 | AT2.4 drawing set | Exists as `Week 6 Drawing.pdf` (A000–A506, A700 — 24 sheets): plans, elevations, sections, construction/facade/typical details, means-of-escape, unit schedule, shadow studies, renders, building performance. **Unit areas are not yet tagged** in the Revit schedule (A501 shows "Not Placed") — confirm before the bound PDF goes in |
-| D27 depth risk (real 7.2 m studio depth vs 6.75 m limit) | **Open** — flagged in AT2.2 §7/§13, not yet resolved in a drawing |
-| D20 balcony depth risk (6.48 m² at 1.8 m vs 8 m² min on the real 3.6 m bay) | **Open** — flagged in AT2.2 §4/§13 and AT2.3 §12 |
+| D27 depth risk (real 7.2 m studio depth vs 6.75 m limit) | **Open** — flagged in AT2.2 §7, not yet resolved in a drawing |
+| D20 balcony depth risk (6.48 m² at 1.8 m vs 8 m² min on the real 3.6 m bay) | **Open** — flagged in AT2.2 §4 |
+| AT2.2/AT2.3 slide count vs research pack | Trimmed to 11 / 7 slides — required course headings kept, unpulled extension slides removed, each remaining slide tagged with real-drawing status |
 
 ---
 
