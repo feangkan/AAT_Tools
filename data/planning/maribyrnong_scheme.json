@@ -19,7 +19,7 @@
     {
       "file": "resources/Apartment-Design-Guidelines-for-Victoria.pdf",
       "title": "Apartment Design Guidelines for Victoria 2021 (Clause 58 / BADS guidance)",
-      "use_for": ["AT1.2", "AT2.1", "clause 58", "private open space", "daylight", "storage"]
+      "use_for": ["AT1.2", "AT2.1", "AT2.2", "clause 58", "private open space", "daylight", "storage"]
     }
   ],
   "ordinance_categories": [

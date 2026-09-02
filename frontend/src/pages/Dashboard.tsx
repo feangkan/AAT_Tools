@@ -66,7 +66,7 @@ export default function Dashboard() {
             <li>• FTC ≥ 2.7 m · 5% services · 10% fire/ducts</li>
             <li>• ≥50% ground public open space + native vegetation</li>
             <li>• Communal: kitchen 120–150 · gym 80–100 · study 100</li>
-            <li>• Class 2 / 6 / 3 · NCC D1 F2 J · Clause 58 · LHD</li>
+            <li>• Class 3 lodging + Class 6 retail (AT1.4 lock) · NCC D1 F2 · Clause 58 · LHD</li>
           </ul>
         </A3Preview>
         <div className="rounded-lg border border-[#d9d2c5] bg-white p-5">

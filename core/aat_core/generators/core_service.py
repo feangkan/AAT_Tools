@@ -25,7 +25,7 @@ def optimize_core_service(
     if storeys >= 12:
         lifts = max(lifts, 3)
 
-    # Stairs / exits — NCC D1: minimum 2 for multi-storey Class 2
+    # Stairs / exits — NCC D1/D2: minimum 2 for multi-storey Class 3 (AT1.4 lock)
     stairs = 2
     if units_per_floor * 20 > 500:  # large plate proxy
         stairs = 3

@@ -206,7 +206,7 @@ class RulesEngine:
                     "NCC-D1-EXITS",
                     "Provision for escape — exits",
                     "fail",
-                    f"Only {exits} exit(s); minimum 2 required for multi-storey Class 2.",
+                    f"Only {exits} exit(s); minimum 2 required for multi-storey Class 3.",
                     suggestion="Add a second fire-isolated stair / exit.",
                 )
             )
@@ -233,13 +233,26 @@ class RulesEngine:
             )
 
         classification = state.get("classification", {})
-        if classification.get("primary") == "Class 2":
+        primary = classification.get("primary")
+        retail = classification.get("retail")
+        if primary == "Class 3" and retail == "Class 6":
             out.append(
                 CheckResult(
                     "NCC-A6-CLASS",
                     "Building classification",
                     "pass",
-                    "Primary Class 2 declared for student accommodation.",
+                    "AT1.4 lock: Class 3 lodging + Class 6 retail (A6G1 / A6G4 / A6G7).",
+                    evidence=classification,
+                )
+            )
+        elif primary == "Class 2":
+            out.append(
+                CheckResult(
+                    "NCC-A6-CLASS",
+                    "Building classification",
+                    "warn",
+                    "Primary Class 2 does not match the AT1.4 Class 3 lodging lock.",
+                    suggestion="Keep Class 3 tower + Class 6 podium unless the tutor rejected AT1.4 Sheet 16.",
                     evidence=classification,
                 )
             )
@@ -249,8 +262,9 @@ class RulesEngine:
                     "NCC-A6-CLASS",
                     "Building classification",
                     "warn",
-                    "Confirm Class 2 (accommodation) / Class 6 (retail) / Class 3 (DDA).",
-                    suggestion="Document mixed classification in NCC report.",
+                    "Confirm Class 3 (lodging) / Class 6 (retail) as locked in AT1.4.",
+                    suggestion="Document mixed classification in the AT2.1 NCC report.",
+                    evidence=classification,
                 )
             )
         return out

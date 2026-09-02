@@ -5,9 +5,26 @@
     "institution": "RMIT University",
     "group_size": 3,
     "building_classification": {
-      "primary": "Class 2",
+      "primary": "Class 3",
       "retail": "Class 6",
-      "dda_rooms": "Class 3"
+      "dda_rooms": "Class 3",
+      "note": "AT1.4 locked managed student lodging as Class 3 (A6G4) + Class 6 retail. Course outline still mentions Class 2 for typical studios; NCC and DD folios follow AT1.4, not the outline wording."
+    },
+    "design_lock": {
+      "locked_by": "AT1.4 Structural System Report",
+      "source": "docs/AT1.4-week2-sheet-build-spec.md",
+      "structure": "Hybrid B — RC podium, RC core, RC transfer; CLT floors + glulam post-and-beam tower",
+      "grid_m": 6.0,
+      "ncc_residential": "Class 3",
+      "ncc_retail": "Class 6",
+      "exits": "2 fire-isolated stairs inside the RC core",
+      "typical_floor_rooms": 20,
+      "dda_ratio": "1 per 20 single units per floor, 30–35 sqm, on the same 6.0 m bay",
+      "fire": "Sprinklers on Class 3 floors; storey compartmentation; char-design or encapsulation of exposed CLT/glulam; rated Class 3/6 separation at transfer",
+      "acoustics": "CLT floor buildup ~100 mm STC 50 or ~195 mm STC 58; flanking break at CLT-to-RC core",
+      "aesthetic": "9 Wilson Ave Brunswick (MA+Co / Neometro) — structure as finish",
+      "precedents": ["Fenner Hall", "La Trobe Bundoora (TTW)", "Brock Commons", "Monash Gillies Hall / Clayton", "Atlassian Central (scale only)", "25 King Street"],
+      "first_nations": "Carry into AT3 — Supply Nation trades + Wurundjeri Woi-wurrung engagement; no Indigenous-owned Victorian CLT mill"
     },
     "site": {
       "address": "63-67 Nicholson Street, Footscray VIC",
@@ -162,15 +179,39 @@
       "week": 5,
       "task": "AT2",
       "min_a3_pages": 6,
-      "format": "A3 landscape folio"
+      "format": "A3 landscape folio",
+      "presentation_minutes": 10,
+      "note": "Canvas AT2.1. Highlighted NCC/AS clauses + written reflection on how they land in the design. PC12 PC46."
     },
     {
       "id": "AT2.2",
-      "name": "Design Development Drawings",
+      "name": "Livable Housing Design (LHD) & Better Apartment Design Standards (BADS) Report",
       "week": 6,
       "task": "AT2",
       "min_a3_pages": 9,
-      "format": "A3 landscape folio + Revit"
+      "format": "A3 landscape folio",
+      "presentation_minutes": 10,
+      "note": "Canvas AT2.2 (Week 6). NCC Part G7 + Clause 58.05 D18–D21 and 58.07 D26–D29. PC12 PC32. Repo previously mislabelled this as DD drawings."
+    },
+    {
+      "id": "AT2.3",
+      "name": "Environmental Design Analysis Report",
+      "week": 5,
+      "task": "AT2",
+      "min_a3_pages": 6,
+      "format": "A3 landscape folio",
+      "presentation_minutes": 10,
+      "note": "Canvas AT2.3, also due in Week 5 tutorial with AT2.1. NCC H6 / J1 / J3 / J4 / J6 energy. PC10 PC24 PC28 PC31 PC33 PC35 PC44 PC45."
+    },
+    {
+      "id": "AT2.4",
+      "name": "Design Development Drawings",
+      "week": 7,
+      "task": "AT2",
+      "min_a3_pages": 13,
+      "format": "A3 landscape folio + Revit 2026",
+      "presentation_minutes": 10,
+      "note": "Canvas AT2.4, weekly iterations Weeks 4–7. Bound A3 landscape PDF + A4 transmittal. AT2 package due Mon 7 Sep 12:00 (Week 6 / after mid-semester break). Mid-semester pin-up Week 7: site + floor plans A1, rest A3."
     },
     {
       "id": "AT3.1",

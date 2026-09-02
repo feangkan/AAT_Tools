@@ -17,7 +17,7 @@ def default_state() -> dict[str, Any]:
         "ground_open_space_pct": 52,
         "exit_count": 2,
         "max_travel_distance_m": 32,
-        "classification": {"primary": "Class 2", "retail": "Class 6", "dda": "Class 3"},
+        "classification": {"primary": "Class 3", "retail": "Class 6", "dda": "Class 3"},
         "zone": "ACZ1",
         "building_height_m": 32,
         "height_limit_m": 45,

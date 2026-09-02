@@ -82,7 +82,7 @@ def _offline_answer(message: str, hits: list[dict], brief: dict) -> str:
         )
     if "ncc" in q or "egress" in q or "fire" in q or "exit" in q:
         parts.append(
-            "**NCC focus:** Class 2/3/6 mix; D1 exits (min 2) & travel ≤40 m; F2 sanitary; Section J energy; "
+            "**NCC focus:** AT1.4 lock — Class 3 lodging + Class 6 retail; D1 exits (min 2) & travel ≤40 m; F2 sanitary; Section J energy; "
             "AS1428.1 access; AS2890.1 parking."
         )
     if "plan" in q or "setback" in q or "height" in q or "acz" in q:
@@ -92,7 +92,7 @@ def _offline_answer(message: str, hits: list[dict], brief: dict) -> str:
         )
     if "a3" in q or "present" in q or "folio" in q:
         parts.append(
-            "**Deliverables:** All reports are **A3 landscape folios** (AT1.1/1.2 ≥9 pages, AT2.1 ≥6, etc.). "
+            "**Deliverables:** All reports are **A3 landscape folios** (AT1.1/1.2 ≥9 pages, AT2.1 NCC ≥6, AT2.2 LHD/BADS ≥9, AT2.3 energy ≥6, AT2.4 Revit DD set). "
             "Use Export → A3 in the studio cockpit."
         )
     if "country" in q or "indigenous" in q or "plant" in q or "landscape" in q:
